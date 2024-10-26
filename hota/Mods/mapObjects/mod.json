@@ -44,6 +44,15 @@
 		"config/hotaMapObjects/skeletonTransformer",
 		"config/hotaMapObjects/templeOfLoyalty",
 		"config/hotaMapObjects/townGate"
-	]
+	],
+	
+	"ukrainian" : {
+		"name" : "Об'єкти мапи",
+		"description" : "Мод додає кілька нових об'єктів, створених командою HotA Crew у VCMI, які доступні на випадкових мапах",
+		"translations" : {
+			"mapObject.hota.highlandsterrain.creatureBank.churchyard.name" : "Цвинтар",
+			"object.core.questGuard.name" : "Ворота Завдання"
+		}
+	}
 }
 
