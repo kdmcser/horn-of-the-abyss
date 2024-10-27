@@ -3,10 +3,9 @@
 	"core:creatureBank" : {
 		"types" : {
 			"nagaBank" : {
-				"levels" : [
+				"rewards" : [
 					{
-						"chance" : 30,
-						"combat_value" : 403,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards" : [
 							{
 								"type" : "naga",
@@ -30,17 +29,13 @@
 								"amount" : 2
 							}
 						],
-						"reward" : {
-							"resources" : {
-								"gold" : 4000,
-								"gems" : 8
-							},
-							"value" : 8000
+						"resources" : {
+							"gold" : 4000,
+							"gems" : 8
 						}
 					},
 					{
-						"chance" : 30,
-						"combat_value" : 605,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards" : [
 							{
 								"type" : "naga",
@@ -64,17 +59,13 @@
 								"amount" : 3
 							}
 						],
-						"reward" : {
-							"resources" : {
-								"gold" : 6000,
-								"gems" : 12
-							},
-							"value" : 12000
+						"resources" : {
+							"gold" : 6000,
+							"gems" : 12
 						}
 					},
 					{
-						"chance" : 30,
-						"combat_value" : 806,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards" : [
 							{
 								"type" : "naga",
@@ -98,17 +89,13 @@
 								"amount" : 4
 							}
 						],
-						"reward" : {
-							"resources" : {
-								"gold" : 8000,
-								"gems" : 16
-							},
-							"value" : 16000
+						"resources" : {
+							"gold" : 8000,
+							"gems" : 16
 						}
 					},
 					{
-						"chance" : 10,
-						"combat_value" : 1210,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards" : [
 							{
 								"type" : "naga",
@@ -132,12 +119,9 @@
 								"amount" : 6
 							}
 						],
-						"reward" : {
-							"resources" : {
-								"gold" : 12000,
-								"gems" : 24
-							},
-							"value" : 24000
+						"resources" : {
+							"gold" : 12000,
+							"gems" : 24
 						}
 					}
 				]

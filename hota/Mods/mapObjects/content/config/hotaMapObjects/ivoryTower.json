@@ -30,10 +30,17 @@
 					"value"		: 7000,
 					"rarity"	: 10
 				},
-				"levels":
+				"blockedVisitable": true,
+				"onGuardedMessage" : 32,
+				"onVisitedMessage" : 33,
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankNarrow",
+				"rewards":
 				[
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 7, "type" : "archMage" },
 							{ "amount": 7, "type" : "archMage" },
@@ -41,14 +48,11 @@
 							{ "amount": 7, "type" : "archMage" },
 							{ "amount": 7, "type" : "archMage" }
 						],
-						"combat_value": 7500,
-						"reward" : {
-							"value": 5000,
-							"creatures": [ { "amount": 3, "type": "enchanter" } ]
-						}
+						"creatures": [ { "amount": 3, "type": "enchanter" } ]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 10, "type" : "archMage" },
 							{ "amount": 10, "type" : "archMage" },
@@ -56,14 +60,11 @@
 							{ "amount": 10, "type" : "archMage" },
 							{ "amount": 10, "type" : "archMage" }
 						],
-						"combat_value": 7500,
-						"reward" : {
-							"value": 5000,
-							"creatures": [ { "amount": 6, "type": "enchanter" } ]
-						}
+						"creatures": [ { "amount": 6, "type": "enchanter" } ]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
 							{ "amount": 13, "type" : "archMage" },
 							{ "amount": 13, "type" : "archMage" },
@@ -71,14 +72,11 @@
 							{ "amount": 13, "type" : "archMage" },
 							{ "amount": 13, "type" : "archMage" }
 						],
-						"combat_value": 7500,
-						"reward" : {
-							"value": 5000,
-							"creatures": [ { "amount": 9, "type": "enchanter" } ]
-						}
+						"creatures": [ { "amount": 9, "type": "enchanter" } ]
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 16, "type" : "archMage" },
 							{ "amount": 16, "type" : "archMage" },
@@ -86,11 +84,7 @@
 							{ "amount": 16, "type" : "archMage" },
 							{ "amount": 16, "type" : "archMage" }
 						],
-						"combat_value": 7500,
-						"reward" : {
-							"value": 5000,
-							"creatures": [ { "amount": 12, "type": "enchanter" } ]
-						}
+						"creatures": [ { "amount": 12, "type": "enchanter" } ]
 					}
 				]
 			}

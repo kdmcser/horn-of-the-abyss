@@ -24,10 +24,17 @@
 					"rarity"	: 20,
 					"zoneLimit" : 1
 				},
-				"levels":
+				"blockedVisitable": true,
+				"onGuardedMessage" : "The captured Firebirds will serve you gladly. Would you like to fight the guards?",
+				"onVisitedMessage" : "Firebirds were once kept captive here, however now the place is abandoned.",
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankWide",
+				"rewards":
 				[	
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 12, "type" : "fireElemental" },
 							{ "amount": 12, "type" : "fireElemental" },
@@ -35,14 +42,11 @@
 							{ "amount": 12, "type" : "fireElemental" },
 							{ "amount": 12, "type" : "fireElemental" }
 						],
-						"combat_value": 6000,
-						"reward" : {
-							"value": 4000,
-							"creatures": [ { "amount": 1, "type": "firebird" } ]
-						}
+						"creatures": [ { "amount": 1, "type": "firebird" } ]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 18, "type" : "fireElemental" },
 							{ "amount": 18, "type" : "fireElemental" },
@@ -50,14 +54,11 @@
 							{ "amount": 18, "type" : "fireElemental" },
 							{ "amount": 18, "type" : "fireElemental" }
 						],
-						"combat_value": 9000,
-						"reward" : {
-							"value": 6000,
-							"creatures": [ { "amount": 2, "type": "firebird" } ]
-						}
+						"creatures": [ { "amount": 2, "type": "firebird" } ]
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 90 },
 						"guards": [
 							{ "amount": 24, "type" : "fireElemental" },
 							{ "amount": 24, "type" : "fireElemental" },
@@ -65,14 +66,11 @@
 							{ "amount": 24, "type" : "fireElemental" },
 							{ "amount": 24, "type" : "fireElemental" }
 						],
-						"combat_value": 12000,
-						"reward" : {
-							"value": 8000,
-							"creatures": [ { "amount": 3, "type": "firebird" } ]
-						}
+						"creatures": [ { "amount": 3, "type": "firebird" } ]
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 30, "type" : "fireElemental" },
 							{ "amount": 30, "type" : "fireElemental" },
@@ -80,11 +78,7 @@
 							{ "amount": 30, "type" : "fireElemental" },
 							{ "amount": 30, "type" : "fireElemental" }
 						],
-						"combat_value": 15000,
-						"reward" : {
-							"value": 10000,
-							"creatures": [ { "amount": 4, "type": "firebird" } ]
-						}
+						"creatures": [ { "amount": 4, "type": "firebird" } ]
 					}
 				]
 			}
