@@ -40,7 +40,7 @@
 				],
 				"visitMode" : "once",
 				"selectMode" : "selectFirst",
-				"guardsLayout" : "creatureBankNarrow",
+				"guardsLayout" : "creatureBankChurchyard",
 				"rewards":[
 					{
 						"message" : "After defeating the undead you search the graveyard and find something useful!",

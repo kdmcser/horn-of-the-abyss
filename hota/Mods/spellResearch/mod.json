@@ -1,0 +1,19 @@
+{
+	"name" : "Spell Research",
+	"description" : "This submod enables basic Spell Research system to mimic similar feature in HotA.", 
+	"modType" : "Mechanics",
+	"author": "avatar",
+	"contact": "https://forum.vcmi.eu/",
+	"version" : "1.0",
+	"compatibility" :
+	{
+		"min" : "1.6"
+	},
+	"settings":
+	{
+		"towns":
+		{
+			"spellResearch": true
+		}
+	}
+}

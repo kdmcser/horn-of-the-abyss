@@ -40,7 +40,7 @@
 				],
 				"visitMode" : "once",
 				"selectMode" : "selectFirst",
-				"guardsLayout" : "creatureBankNarrow",
+				"guardsLayout" : "creatureBankRuins",
 				"rewards":
 				[
 					{
