@@ -50,14 +50,14 @@
 	"name" : "Nové objekty",
 	"description" : "Mod přidává několik nových objektů přidaných týmem HotA do VCMI, dostupných na náhodných mapách.",
 		"translations" : [
-			"translation/czech.json"
+			"translation/mapObjects/czech.json"
 		]
 	},
 	"ukrainian" : {
 		"name" : "Об'єкти мапи",
 		"description" : "Мод додає кілька нових об'єктів, створених командою HotA Crew у VCMI, які доступні на випадкових мапах",
 		"translations" : [
-			"translation/ukrainian.json"
+			"translation/mapObjects/ukrainian.json"
 		]
 	},
 	"settings" : {
