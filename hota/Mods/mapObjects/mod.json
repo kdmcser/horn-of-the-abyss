@@ -4,9 +4,10 @@
 	"modType" : "Objects",
 	"author": "Graphics: HotA Crew, mod: avatar",
 	"contact": "http://forum.df2.ru/index.php?showtopic=32286",
-	"version" : "1.4.0",
+	"version" : "1.4.1",
 	"changelog" : 
 	{
+		"1.4.1"   : [ "Updated translations" ],
 		"1.4.0"   : [ "Configured behavior for Seafaring academy and Skeleton transformer (Seafaring is not upgrading skills unlike HotA)" ]
 	},
 	"compatibility" :
@@ -45,14 +46,19 @@
 		"config/hotaMapObjects/templeOfLoyalty",
 		"config/hotaMapObjects/townGate"
 	],
-	
+	"czech" : {
+	"name" : "Nové objekty",
+	"description" : "Mod přidává několik nových objektů přidaných týmem HotA do VCMI, dostupných na náhodných mapách.",
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
 	"ukrainian" : {
 		"name" : "Об'єкти мапи",
 		"description" : "Мод додає кілька нових об'єктів, створених командою HotA Crew у VCMI, які доступні на випадкових мапах",
-		"translations" : {
-			"mapObject.hota.highlandsterrain.creatureBank.churchyard.name" : "Цвинтар",
-			"object.core.questGuard.name" : "Ворота Завдання"
-		}
+		"translations" : [
+			"translation/ukrainian.json"
+		]
 	},
 	"settings" : {
 		"combat": {
