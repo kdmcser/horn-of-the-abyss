@@ -24,10 +24,28 @@
 					"value" : 1000,
 					"rarity" : 100
 				},
-				"levels":
+				"blockedVisitable": true,
+				"onGuardedMessage" : "Bone rattling and otherworldly howls echo between crumbling walls and towers. Do you wish to explore the ruins?",
+				"onVisited" : [
+					{
+						"message" : "Wind whistling about melodically is the most interesting thing you find in the ruins. Well, at least you manage to take a good look around the place from the tower.",
+						"revealTiles" : {
+							"radius" : 12,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1
+						}
+					}
+				],
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankRuins",
+				"rewards":
 				[
 					{
-						"chance": 30,
+						"message" : "You climb the mound of bones to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around.",
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 20, "type" : "skeleton" },
 							{ "amount": 3, "type" : "wight" },
@@ -35,17 +53,21 @@
 							{ "amount": 10, "type" : "skeletonWarrior" },
 							{ "amount": 1, "type" : "powerLich" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources":
-							{
-								"gold" : 1000
-							}
+						"resources":
+						{
+							"gold" : 1000
+						},
+						"revealTiles" : {
+							"radius" : 12,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1
 						}
 					},
 					{
-						"chance": 30,
+						"message" : "You climb the mound of bones to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around.",
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 30, "type" : "skeleton" },
 							{ "amount": 5, "type" : "wight" },
@@ -53,17 +75,21 @@
 							{ "amount": 10, "type" : "skeletonWarrior" },
 							{ "amount": 1, "type" : "powerLich" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources":
-							{
-								"gold" : 2000
-							}
+						"resources":
+						{
+							"gold" : 2000
+						},
+						"revealTiles" : {
+							"radius" : 12,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1
 						}
 					},
 					{
-						"chance": 30,
+						"message" : "You climb the mound of bones to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around.",
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
 							{ "amount": 40, "type" : "skeleton" },
 							{ "amount": 7, "type" : "wight" },
@@ -71,17 +97,21 @@
 							{ "amount": 20, "type" : "skeletonWarrior" },
 							{ "amount": 2, "type" : "powerLich" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources":
-							{
-								"gold" : 3000
-							}
+						"resources":
+						{
+							"gold" : 3000
+						},
+						"revealTiles" : {
+							"radius" : 12,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1
 						}
 					},
 					{
-						"chance": 10,
+						"message" : "You climb the mound of bones to reach the top of the highest standing tower, where you find a heap of ancient coins. You also take some time to read the land lying around.",
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 50, "type" : "skeleton" },
 							{ "amount": 9, "type" : "wight" },
@@ -89,13 +119,16 @@
 							{ "amount": 20, "type" : "skeletonWarrior" },
 							{ "amount": 3, "type" : "powerLich" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources":
-							{
-								"gold" : 4000
-							}
+						"resources":
+						{
+							"gold" : 4000
+						},
+						"revealTiles" : {
+							"radius" : 12,
+							"surface" : 1,
+							"subterra" : 1,
+							"water" : 1,
+							"rock" : 1
 						}
 					}
 				]

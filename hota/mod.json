@@ -6,9 +6,12 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.2",
+	"version" : "1.7.32",
 	"changelog" : 
 	{
+		"1.7.32"  : [ "Fixed Ruins and Churchyards battles layouts", "Added Spell Research submod", "Replaced Implosion spell animation", "Replaced Red trees graphics" ],
+		"1.7.31"  : [ "Rewritten creature banks code for vcmi-1.6 format" ],
+		"1.7.3"   : [ "Obstacle fix" ],
 		"1.7.2"   : [ "Update to vcmi-1.6 format" ],
 		"1.7.1"   : [ "Reapply changes from 1.6.51 and 1.6.52 that were missing for technical reasons" ],
 		"1.7.0"   : [ "Added factory" ],

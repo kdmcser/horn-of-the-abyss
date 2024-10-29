@@ -25,15 +25,11 @@
 		"shots" : 24,
 		"abilities" :
 		{
-			"canShoot" :
-			{
-				"type" : "SHOOTER"
-			},
 			"canCast" :
 			{
 				"type" : "SPELLCASTER",
 				"subtype" : "spell.protectWater",
-				"val" : 3
+				"val" : 1
 			},
 			"castsAmount" :
 			{
@@ -47,7 +43,8 @@
 			},
 			"magicResistance" :
 			{
-				"type" : "MAGIC_RESISTANCE",
+				"type" : "SPELL_DAMAGE_REDUCTION",
+				"subtype" : "spellSchool.any",
 				"val" : 5
 			},
 			"enchant" :

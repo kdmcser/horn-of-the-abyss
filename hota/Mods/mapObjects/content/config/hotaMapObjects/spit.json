@@ -23,74 +23,68 @@
 					"value"		: 1500,
 					"rarity"	: 100
 				},
-				"levels":
+				"blockedVisitable": true,
+				"onGuardedMessage" : "You stand in front of an entrance to a mossy, overgrown residence. You hear creeks and growling from inside. Dare to enter?",
+				"onVisitedMessage" : "Somebody was here before you, and the treasury was pillaged.",
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankWide",
+				"rewards":
 				[
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
 							{ "amount": 4, "type" : "basilisk" },
 							{ "amount": 4, "type" : "basilisk" },
 							{ "amount": 4, "type" : "basilisk" },
 							{ "amount": 4, "type" : "basilisk" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources": 
-							{
-								"gold" : 3000
-							}
+						"resources": 
+						{
+							"gold" : 3000
 						}
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
 							{ "amount": 6, "type" : "basilisk" },
 							{ "amount": 6, "type" : "basilisk" },
 							{ "amount": 6, "type" : "basilisk" },
 							{ "amount": 6, "type" : "basilisk" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources": 
-							{
-								"gold" : 4500
-							}
+						"resources": 
+						{
+							"gold" : 4500
 						}
 					},
 					{
-						"chance": 30,
+						"message" : 34,
+						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
 							{ "amount": 8, "type" : "basilisk" },
 							{ "amount": 8, "type" : "basilisk" },
 							{ "amount": 8, "type" : "basilisk" },
 							{ "amount": 8, "type" : "basilisk" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources": 
-							{
-								"gold" : 6000
-							}
+						"resources": 
+						{
+							"gold" : 6000
 						}
 					},
 					{
-						"chance": 10,
+						"message" : 34,
+						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
 							{ "amount": 12, "type" : "basilisk" },
 							{ "amount": 12, "type" : "basilisk" },
 							{ "amount": 12, "type" : "basilisk" },
 							{ "amount": 12, "type" : "basilisk" }
 						],
-						"combat_value": 3000,
-						"reward" : {
-							"value": 4000,
-							"resources": 
-							{
-								"gold" : 9000
-							}
+						"resources": 
+						{
+							"gold" : 9000
 						}
 					}
 				]

@@ -58,5 +58,19 @@
 	[
 		"config/hota/highlands/hotaStatic/hotaHighlandsStaticBiomes.json",
 		"config/hota/highlands/vanillaStatic/vanillaHighlandsStaticBiomes.json"
-	]
+	],
+	"settings" : {
+		"combat": {
+			"layouts" : {
+				"creatureBankRuins" : {
+					"tacticsAllowed" : false,
+					"obstaclesAllowed" : false,
+					"attackerCommander" : 86,
+					"defenderCommander" : 83,
+					"attackerUnits": [ 57, 61, 90, 93, 96, 125, 129 ],
+					"defenderUnits": [ 15, 185, 172, 2, 8, 174, 181 ]
+				}
+			}
+		}
+	}
 }

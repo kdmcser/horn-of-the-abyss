@@ -30,9 +30,21 @@
 					"value"		: 1500,
 					"rarity"	: 100
 				},
-				"levels":[
+				"blockedVisitable": true,
+				"onGuardedMessage" : "You are near the abandoned graveyard. Would you like to search it?",
+				"onVisited" : [
 					{
-						"chance": 100,
+						"message" : "Your forces search the graveyard reluctantly, without any luck. Your army morale degrades.",
+						"bonuses" : [ { "type" : "MORALE", "val" : -1, "duration" : "ONE_BATTLE" } ]
+					}
+				],
+				"visitMode" : "once",
+				"selectMode" : "selectFirst",
+				"guardsLayout" : "creatureBankChurchyard",
+				"rewards":[
+					{
+						"message" : "After defeating the undead you search the graveyard and find something useful!",
+						"appearChance" : { "min" : 0, "max" : 100 },
 						"guards": [
 							{ "amount": 15, "type" : "zombieLord" },
 							{ "amount": 15, "type" : "zombieLord" },
@@ -41,15 +53,11 @@
 							{ "amount": 15, "type" : "zombieLord" },
 							{ "amount": 15, "type" : "zombieLord" }
 						],
-						"combat_value": 2000,
-						"reward" : {
-							"value": 3000,
-							"resources": 
-							{
-								"gold" : 2500
-							},
-							"artifacts": [ { "class" : "MINOR" } ]
-						}
+						"resources": 
+						{
+							"gold" : 2500
+						},
+						"artifacts": [ { "class" : "MINOR" } ]
 					}
 				]
 			}
