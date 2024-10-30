@@ -5,7 +5,8 @@
 		"types" : {
 			"colosseumOfTheMagi" : 
 			{
-				"name": "Colosseum Of The Magi (+2 spellpower or knowledge once per hero)",
+				"name": "Colosseum Of The Magi",
+				"description": "(+2 spellpower or knowledge once per hero)",
 				"rmg" : {
 					"value"		: 3000,
 					"rarity"	: 50,

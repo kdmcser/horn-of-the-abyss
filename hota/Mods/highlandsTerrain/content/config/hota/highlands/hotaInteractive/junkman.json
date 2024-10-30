@@ -4,7 +4,8 @@
 		"handler" : "market",
 		"types" : {
 			"junkman" : {
-				"name": "Junkman (Artifacts except Spell Scrolls may be sold to Junkman (at the efficiency of 7 markets))",
+				"name" : "Junkman",
+				"description" : "(Artifacts except Spell Scrolls may be sold to Junkman (at the efficiency of 7 markets))",
 				"title" : "Junkman",
 				"speech" : "",
 				"modes" : ["artifact-resource"],

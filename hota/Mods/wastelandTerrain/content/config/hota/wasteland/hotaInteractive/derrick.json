@@ -5,7 +5,8 @@
 		"types" : {
 			"derrick" :
 			{
-				"name": "Derrick (+500 gold on first week, 1000 gold on every other week)",
+				"name": "Derrick",
+				"description": "(+500 gold on first week, 1000 gold on every other week)",
 				"rmg" : {
 					"value" : 750,
 					"rarity" : 30

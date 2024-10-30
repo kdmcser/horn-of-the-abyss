@@ -6,9 +6,10 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.33",
+	"version" : "1.7.34",
 	"changelog" : 
 	{
+		"1.7.34"  : [ "Moved objects description from name to standalone description", "Updated Czech translation" ],
 		"1.7.33"  : [ "Czech translation by George King" ],
 		"1.7.32"  : [ "Fixed Ruins and Churchyards battles layouts", "Added Spell Research submod", "Replaced Implosion spell animation", "Replaced Red trees graphics" ],
 		"1.7.31"  : [ "Rewritten creature banks code for vcmi-1.6 format" ],

@@ -4,7 +4,8 @@
 		"name" : "Grave",
 		"types" : {
 			"grave" : {
-				"name": "Grave (Takes all movement points, and gives 500-5000 gold, a random Treasure of Minor artifact, and -3 morale until the next battle.)",
+				"name": "Grave",
+				"description": "(Takes all movement points, and gives 500-5000 gold, a random Treasure of Minor artifact, and -3 morale until the next battle.)",
 				"rmg" : {
 					"value" : 500,
 					"rarity" : 30
