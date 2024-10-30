@@ -4,7 +4,8 @@
 		"name" : "Vial of Mana",
 		"types" : {
 			"vialOfMana" : {
-				"name": "Vial of Mana (grants 30-60 spell points)",
+				"name": "Vial of Mana",
+				"description": "(grants 30-60 spell points)",
 				"sounds" : {
 					"visit" : ["hota/BOTTLVIS"]
 				},

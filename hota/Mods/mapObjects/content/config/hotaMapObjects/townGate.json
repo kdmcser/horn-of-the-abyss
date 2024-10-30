@@ -4,7 +4,8 @@
 		"name" : "Town Gate",
 		"types" : {
 			"townGate" : {
-				"name": "Town Gate (teleport hero to any allied town)",
+				"name": "Town Gate",
+				"description": "(Teleport hero to any allied town)",
 				"rmg" : {
 					"value"	: 10000,
 					"rarity" : 20,
