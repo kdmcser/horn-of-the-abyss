@@ -35,11 +35,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
-							{ "amount": 5, "type" : "vampireLord" },
-							{ "amount": 5, "type" : "vampireLord" },
-							{ "amount": 5, "type" : "vampireLord"},
-							{ "amount": 5, "type" : "vampireLord" },
-							{ "amount": 5, "type" : "vampireLord" }
+							{ "amount": 8, "type" : "vampireLord" },
+							{ "amount": 8, "type" : "vampireLord" },
+							{ "amount": 8, "type" : "vampireLord"},
+							{ "amount": 8, "type" : "vampireLord" },
+							{ "amount": 8, "type" : "vampireLord" }
 						],
 						"resources": 
 						{
@@ -55,11 +55,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
-							{ "amount": 10, "type" : "vampireLord" },
-							{ "amount": 10, "type" : "vampireLord" },
-							{ "amount": 10, "type" : "vampireLord"},
-							{ "amount": 10, "type" : "vampireLord" },
-							{ "amount": 10, "type" : "vampireLord" }
+							{ "amount": 12, "type" : "vampireLord" },
+							{ "amount": 12, "type" : "vampireLord" },
+							{ "amount": 12, "type" : "vampireLord"},
+							{ "amount": 12, "type" : "vampireLord" },
+							{ "amount": 12, "type" : "vampireLord" }
 						],
 						"resources": 
 						{
@@ -75,11 +75,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
-							{ "amount": 15, "type" : "vampireLord" },
-							{ "amount": 15, "type" : "vampireLord" },
-							{ "amount": 15, "type" : "vampireLord"},
-							{ "amount": 15, "type" : "vampireLord" },
-							{ "amount": 15, "type" : "vampireLord" }
+							{ "amount": 16, "type" : "vampireLord" },
+							{ "amount": 16, "type" : "vampireLord" },
+							{ "amount": 16, "type" : "vampireLord"},
+							{ "amount": 16, "type" : "vampireLord" },
+							{ "amount": 16, "type" : "vampireLord" }
 						],
 						"resources": 
 						{

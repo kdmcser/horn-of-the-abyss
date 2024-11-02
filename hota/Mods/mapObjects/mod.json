@@ -17,10 +17,7 @@
 	"depends" : [ "hota.cove", "hota.neutralcreatures" ],
 	"chinese" : {
 		"name" : "地图物体",
-		"description" : "模组将HotA团队添加的多个新物体引入VCMI，并在随机地图上可用。",
-		"translations" : [
-			"translation/mapObjects/chinese.json"
-		]
+		"description" : "模组将HotA团队添加的多个新物体引入VCMI，并在随机地图上可用。"
 	},
 	"objects" :
 	[
@@ -77,6 +74,14 @@
 					"defenderCommander" : 83,
 					"attackerUnits": [ 57, 61, 90, 93, 96, 125, 129 ],
 					"defenderUnits": [ 14, 184, 172, 2, 8, 178, 99 ]
+				},
+				"creatureBankBlackTower" : {
+					"tacticsAllowed" : true,
+					"obstaclesAllowed" : true,
+					"attackerCommander" : 54,
+					"defenderCommander" : 83,
+					"attackerUnits": [ 1, 35, 69, 86, 103, 137, 171 ],
+					"defenderUnits": [ 99, 15, 49, 66, 134, 150, 184 ]
 				}
 			}
 		}

@@ -12,7 +12,7 @@
 				"onVisitedMessage" : "A dragon once lived in this tower, however now it is empty and holds nothing of interest.",
 				"visitMode" : "once",
 				"selectMode" : "selectFirst",
-				"guardsLayout" : "creatureBankWide",
+				"guardsLayout" : "creatureBankBlackTower",
 				"templates" :
 				{
 
