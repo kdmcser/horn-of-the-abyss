@@ -15,5 +15,10 @@
 		{
 			"spellResearch": true
 		}
+	},
+	"chinese" :
+	{
+		"name" : "法术研究",
+		"description" : "这个子mod启用基本的法术研究，以模仿HotA中的类似功能。",
 	}
 }

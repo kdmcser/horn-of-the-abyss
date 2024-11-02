@@ -7,6 +7,11 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"version" : "1.3.6",
+	"chinese" :
+	{
+		"name" : "宝物",
+		"description" : "Hota团队为深渊号角资料片制作的一系列宝物。",
+	},
 	"artifacts" :
 	[
 		"config/hotaArtifacts/capeOfSilence",

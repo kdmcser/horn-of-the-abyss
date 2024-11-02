@@ -10,6 +10,11 @@
 		"1.3.6"   : [ "Added all changed sounds" ]
 	},
 	"depends" : [ "hota.mapdecorations", "hota.highlandsterrain" ],
+	"chinese" :
+	{
+		"name" : "英雄无敌3数据补丁",
+		"description" : "修复改进一些死亡阴影图像和声音资源。",
+	},
 	"factions" :
 	[
 		"config/heroes3DataPatch/confluxTerrain.json",

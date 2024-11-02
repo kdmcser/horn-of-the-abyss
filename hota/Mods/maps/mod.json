@@ -10,5 +10,10 @@
 	},
 	"depends" : [ 
 		"hota.mapsupport"
-	]
+	],
+	"chinese" :
+	{
+		"name" : "地图",
+		"description" : "这个模组包含HotA团队新增的所有新地图。",
+	}
 }

@@ -9,6 +9,11 @@
 	{
 		"min" : "1.1.0"
 	},
+	"chinese" :
+	{
+		"name" : "地图装饰",
+		"description" : "新增和原有物体属性一致的新物体。",
+	},
 	"objects" :
 	[
 		"config/hotaMapDecorations/hotaInteractive/boats.json",

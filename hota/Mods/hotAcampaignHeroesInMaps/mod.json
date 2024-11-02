@@ -13,6 +13,11 @@
 	[
 		"hota.cove"
 	],
+	"chinese" :
+	{
+		"name" : "HotA战役英雄地图支持",
+		"description" : "在随机地图上解锁彼得利和塔克。",
+	},
 	"heroes" :
 	[
 		"config/hotaCampaignHeroesInMaps.json"

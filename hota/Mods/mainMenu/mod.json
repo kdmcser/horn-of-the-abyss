@@ -6,6 +6,11 @@
 	"author" : "Hota Crew, ported by VCMI Team",
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 
+	"chinese" :
+	{
+		"name" : "主菜单主题",
+		"description" : "将主菜单主题修改为深渊号角曾用的一个。",
+	},
 	"conflicts" :
 	[
 		"H3themes.RoE",
