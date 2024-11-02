@@ -11,6 +11,11 @@
 		"1.1"   : [ "Fix Fangarm spell" ]
 	},
 	"depends" : ["hota.artifacts"],
+	"chinese" :
+	{
+		"name" : "中立生物",
+		"description" : "在游戏中添加新中立生物：夺心魔、矮精灵和钢人。",
+	},
 	"creatures" :
 	[
 		"config/hotaNeutralCreatures/satyr",

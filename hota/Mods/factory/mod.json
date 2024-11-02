@@ -11,6 +11,12 @@
 	
     "factions" : [ "config/factory/town" ],
 	
+	"chinese" :
+	{
+		"name" : "工厂种族",
+		"description" : "由HotA团队制作的新种族，由刚出圣龙移植。",
+	},
+
 	"creatures" :
 	[
 		"config/factory/creatures/factorylv1.json",
