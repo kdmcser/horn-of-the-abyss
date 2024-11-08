@@ -3,8 +3,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["orrin"], ["edric"], ["lordHaart"], ["christian"], ["sirMullich"], ["roland"] ],
-				"female" : [ "noneOf", ["orrin"], ["edric"], ["lordHaart"], ["christian"], ["sirMullich"], ["roland"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -32,8 +32,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["cuthbert"], ["ingham"], ["loynis"], ["rion"] ],
-				"female" : [ "noneOf", ["cuthbert"], ["ingham"], ["loynis"], ["rion"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -61,8 +61,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["ufretin"], ["ryland"], ["thorgrim"], ["ivor"], ["clancy"], ["kyrre"], ["gelu"] ],
-				"female" : [ "noneOf", ["ufretin"], ["ryland"], ["thorgrim"], ["ivor"], ["clancy"], ["kyrre"], ["gelu"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -90,8 +90,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["coronius"], ["uland"], ["elleshar"], ["malcom"], ["alagar"], ["aeris"] ],
-				"female" : [ "noneOf", ["coronius"], ["uland"], ["elleshar"], ["malcom"], ["alagar"], ["aeris"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -119,8 +119,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["piquedram"], ["thane"], ["torosar"], ["fafner"] ],
-				"female" : [ "noneOf", ["piquedram"], ["thane"], ["torosar"], ["fafner"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -148,8 +148,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["astral"], ["halon"], ["theodorus"], ["solmyr"], ["dracon"] ],
-				"female" : [ "noneOf", ["astral"], ["halon"], ["theodorus"], ["solmyr"], ["dracon"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -177,8 +177,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["rashka"], ["ignatius"], ["calh"], ["xeron"] ],
-				"female" : [ "noneOf", ["rashka"], ["ignatius"], ["calh"], ["xeron"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -206,8 +206,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["ayden"], ["xyron"], ["axsis"], ["calid"], ["zydar"], ["xarfax"] ],
-				"female" : [ "noneOf", ["ayden"], ["xyron"], ["axsis"], ["calid"], ["zydar"], ["xarfax"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -235,8 +235,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["straker"], ["vokial"], ["moandor"], ["clavius"], ["galthran"], ["undeadHaart"] ],
-				"female" : [ "noneOf", ["straker"], ["vokial"], ["moandor"], ["clavius"], ["galthran"], ["undeadHaart"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -264,8 +264,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["sandro"], ["nimbus"], ["thant"], ["nagash"] ],
-				"female" : [ "noneOf", ["sandro"], ["nimbus"], ["thant"], ["nagash"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -293,8 +293,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["arlach"], ["dace"], ["ajit"], ["damacon"], ["gunnar"], ["shakti"] ],
-				"female" : [ "noneOf", ["arlach"], ["dace"], ["ajit"], ["damacon"], ["gunnar"], ["shakti"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -322,8 +322,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["alamar"], ["jaegar"], ["malekith"], ["geon"], ["deemer"], ["darkstorn"] ],
-				"female" : [ "noneOf", ["alamar"], ["jaegar"], ["malekith"], ["geon"], ["deemer"], ["darkstorn"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -351,8 +351,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["yog"], ["gurnisson"], ["jabarkas"], ["krellion"], ["cragHack"], ["tyraxor"], ["kilgor"], ["boragus"] ],
-				"female" : [ "noneOf", ["yog"], ["gurnisson"], ["jabarkas"], ["krellion"], ["cragHack"], ["tyraxor"], ["kilgor"], ["boragus"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -380,8 +380,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["vey"], ["terek"], ["zubin"], ["saurug"] ],
-				"female" : [ "noneOf", ["vey"], ["terek"], ["zubin"], ["saurug"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -443,8 +443,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["monere"], ["erdamon"], ["fiur"], ["kalt"] ],
-				"female" : [ "noneOf", ["monere"], ["erdamon"], ["fiur"], ["kalt"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {
@@ -472,8 +472,8 @@
 	{
 		"mapObject" : {
 			"filters" : {
-				"male" : [ "anyOf", ["inteus"], ["aenain"], ["gelare"], ["grindan"] ],
-				"female" : [ "noneOf", ["inteus"], ["aenain"], ["gelare"], ["grindan"] ]
+				"male" : { "male" : true },
+				"female" : { "female" : true }
 			},
 			"templates" : {
 				"female" : {

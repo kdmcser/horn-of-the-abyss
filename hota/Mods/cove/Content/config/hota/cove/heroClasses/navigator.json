@@ -12,6 +12,10 @@
 			}
 		},
 		"mapObject" : {
+			"filters" : {
+				"male" : { "male" : true },
+				"female" : { "female" : true }
+			},
 			"templates" : {
 				"female" :
 				{
