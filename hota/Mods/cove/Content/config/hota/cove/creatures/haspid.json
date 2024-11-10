@@ -26,20 +26,23 @@
 			"max" : 8,
 			"min" : 3
 		},
-		"abilities" : {
-			"basicSlayer" : {
+		"abilities" :
+		{
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
 				"type" : "KING",
-				"val" : 0,
-				"valueType" : "ADDITIVE_VALUE"
+				"val" : 0
 			},
-			"dragonNature" : {
+			"dragonNature" :
+			{
 				"type" : "DRAGON_NATURE"
 			},
 			"revenger" :
 			{
 				"type": "REVENGE"
 			},
-			"poisonous" : {
+			"poisonous" :
+			{
 				"type" : "SPELL_AFTER_ATTACK",
 				"subtype" : "spell.poison",
 				"val" : 50,
