@@ -57,7 +57,7 @@
 		"speed" : 6,
 		"abilities":
 		{
-			"fireBreath" :
+			"twoHexAttackBreath" :
 			{
 				"type" : "TWO_HEX_ATTACK_BREATH"
 			},
