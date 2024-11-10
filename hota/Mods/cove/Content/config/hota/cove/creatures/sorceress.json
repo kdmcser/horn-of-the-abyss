@@ -24,7 +24,7 @@
 			"max" : 12
 		},
 		"abilities" : {
-			"canShoot" : {
+			"shooter" : {
 				"type" : "SHOOTER"
 			},
 			"castsWeakness" : {

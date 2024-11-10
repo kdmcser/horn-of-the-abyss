@@ -8,40 +8,42 @@
 		},
 		"advMapAmount" :
 		{
-			 "max" : 8,
-			 "min" : 3
+			"max" : 8,
+			"min" : 3
 		},
 		"faction" : "factory",
 		"aiValue" : 5341,
 		"attack" : 21,
 		"cost" :
 		{
-      "gold": 3500, "crystal": 1
+			"gold": 3500, "crystal": 1
 		},
 		"damage" :
 		{
-			 "max" : 45,
-			 "min" : 25
+			"max" : 45,
+			"min" : 25
 		},
 		"defense" : 21,
 		"fightValue" : 5201,
-    "graphics": {
-      "animation": "factory/battle/creatures/COUATR.def",
-      "map": "factory/map/creatures/AVWradc.def",
-	  "mapMask" : [ "VVV", "VAV"],
-      "iconSmall": "factory/iconsSmall/creatures/CPrS014F.bmp",
-      "iconLarge": "factory/iconsBig/creatures/CPrL014F.bmp",
-      "timeBetweenFidgets": 1,
-      "animationTime": {
-        "walk": 1.5,
-        "attack": 1,
-        "idle": 10
-      }
-    },
-    "doubleWide" : true,
+		"graphics" :
+		{
+			"animation": "factory/battle/creatures/COUATR.def",
+			"map": "factory/map/creatures/AVWradc.def",
+			"mapMask" : [ "VVV", "VAV"],
+			"iconSmall": "factory/iconsSmall/creatures/CPrS014F.bmp",
+			"iconLarge": "factory/iconsBig/creatures/CPrL014F.bmp",
+			"timeBetweenFidgets": 1,
+			"animationTime" :
+			{
+				"walk": 1.5,
+				"attack": 1,
+				"idle": 10
+			}
+		},
+		"doubleWide" : true,
 		"growth" : 1,
 		"hitPoints" : 200,
-    "level": 7,
+		"level": 7,
 		"sound" :
 		{
 			"attack" : "factory/CCOTATTK.wav",
@@ -50,12 +52,16 @@
 			"move" : "factory/CCOTMOVE.wav",
 			"shoot": "factory/CCOTSHOT.wav",
 			"wince" : "factory/CCOTWNCE.wav"
- 		},
+		},
 		"speed" : 15,
-    "abilities":
-      {
-		"basicSlayer" : { "type" : "KING", "val": 0 },
-		"castsymMeditation" :
+		"abilities":
+		{
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val": 0
+			},
+			"castsymMeditation" :
 			{
 				"type" : "ENCHANTER",
 				"subtype" : "spell.meditation02",
@@ -64,16 +70,16 @@
 			"dragonNature" : {
 				"type" : "DRAGON_NATURE"
 			},
-		"castsCount" :
+			"castsCount" :
 			{
 				"type" : "CASTS",
 				"val" : 1
 			},
-		"canFly" : 
+			"canFly" :
 			{
 				"type" : "FLYING"
 			}
-	    },	
+		},
 		"stackExperience" :
 		[
 			{

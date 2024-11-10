@@ -69,11 +69,11 @@
 			{
 				"type" : "SHOOTER"
 			},
-			"canshootwalls" :
+			"canShootWalls" :
 			{
 				"type" : "CATAPULT"
 			},
-			"warmachine" :
+			"warMachine" :
 			{
 				"type" : "SIEGE_WEAPON"
 			},

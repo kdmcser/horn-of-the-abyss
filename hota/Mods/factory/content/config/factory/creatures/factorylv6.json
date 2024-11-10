@@ -59,24 +59,27 @@
 			"move": "factory/GUNSMOVE.wav",
 			 "shoot": "factory/GUNSSHOT.wav",
 			"wince": "factory/GUNSWNCE.wav"
-    },
-    "speed": 7,
+	},
+	"speed": 7,
 	"upgrades":
 		[
 			"hotaGunmanUp"
 		],
-    "abilities": {
-		"canShoot": {"type": "SHOOTER"},
-		"rangedRetaliation"	:
-			{
-				"type" : "RANGED_RETALIATION"
-			},
-			"firstStrike" :
-			{
-				"type" : "FIRST_STRIKE",
-				"subtype": "damageTypeRanged"
-			}
-    },
+	"abilities": {
+		"shooter" :
+		{
+			"type": "SHOOTER"
+		},
+		"rangedRetaliation" :
+		{
+			"type" : "RANGED_RETALIATION"
+		},
+		"firstStrike" :
+		{
+			"type" : "FIRST_STRIKE",
+			"subtype": "damageTypeRanged"
+		}
+	},
 		"stackExperience" :
  
 		[

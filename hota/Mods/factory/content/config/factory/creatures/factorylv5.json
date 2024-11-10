@@ -59,12 +59,12 @@
 		"speed" : 8,
 		"abilities" :
 		{
-			"canFly" : 
+			"teleports" : 
 			{
 				"type" : "FLYING",
 				"subtype" : "movementTeleporting"
 			},
-		   "blindImmunity" : 
+			"blindImmunity" : 
 			{
 				"type" : "SPELL_IMMUNITY",
 				"subtype" : "spell.blind",

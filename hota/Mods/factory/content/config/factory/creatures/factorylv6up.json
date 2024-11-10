@@ -59,26 +59,28 @@
 			"move": "factory/GUNSMOVE.wav",
 			 "shoot": "factory/GUNSSHOT.wav",
 			"wince": "factory/GUNSWNCE.wav"
-    },
-    "speed": 8,
-    "abilities": {
-		"canShoot": {"type": "SHOOTER"},
-		"rangedRetaliation"	:
-			{
-				"type" : "RANGED_RETALIATION"
-			},
-			"unlimitedRetaliation" :
-			{
-				"type" : "UNLIMITED_RETALIATIONS"
-			},
-			"firstStrike" :
-			{
-				"type" : "FIRST_STRIKE",
-				"subtype": "damageTypeRanged"
-			}
-    },
+	},
+	"speed": 8,
+	"abilities": {
+		"shooter":
+		{
+			"type": "SHOOTER"
+		},
+		"rangedRetaliation" :
+		{
+			"type" : "RANGED_RETALIATION"
+		},
+		"unlimitedRetaliation" :
+		{
+			"type" : "UNLIMITED_RETALIATIONS"
+		},
+		"firstStrike" :
+		{
+			"type" : "FIRST_STRIKE",
+			"subtype": "damageTypeRanged"
+		}
+	},
 		"stackExperience" :
- 
 		[
 			{
 				"bonus" :

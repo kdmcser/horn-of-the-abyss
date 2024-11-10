@@ -25,10 +25,10 @@
 			"max" : 20
 		},
 		"abilities" : {
-			"canShoot" : {
+			"shooter" : {
 				"type" : "SHOOTER"
 			},
-			"noPenalty" : {
+			"noMeleePenalty" : {
 				"type" : "NO_MELEE_PENALTY"
 			},
 			"noRetaliation" : {

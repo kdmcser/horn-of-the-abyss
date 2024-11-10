@@ -27,11 +27,12 @@
 			"max" : 10,
 			"min" : 4
 		},
-		"abilities" : {
-			"basicSlayer" : {
+		"abilities" :
+		{
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
 				"type" : "KING",
-				"val" : 0,
-				"valueType" : "ADDITIVE_VALUE"
+				"val" : 0
 			},
 			"dragonNature" : {
 				"type" : "DRAGON_NATURE"
