@@ -26,19 +26,21 @@
 		},
 		"defense" : 2,
 		"fightValue" : 899,
-    "graphics": {
-      "animation": "factory/battle/creatures/CLARVA.def",
-      "map": "factory/map/creatures/AVWworm.def",
-	  "mapMask" : [ "VVV", "VAV"],
-      "iconSmall": "factory/iconsSmall/creatures/CPrS009F.bmp",
-		"iconLarge": "factory/iconsBig/creatures/CPrL009F.bmp",
-      "timeBetweenFidgets": 1,
-      "animationTime": {
-        "walk": 1.25,
-        "attack": 1,
-        "idle": 10
-      }
-    },
+		"graphics" :
+		{
+			"animation": "factory/battle/creatures/CLARVA.def",
+			"map": "factory/map/creatures/AVWworm.def",
+			"mapMask" : [ "VVV", "VAV"],
+			"iconSmall": "factory/iconsSmall/creatures/CPrS009F.bmp",
+			"iconLarge": "factory/iconsBig/creatures/CPrL009F.bmp",
+			"timeBetweenFidgets": 1,
+			"animationTime" :
+			{
+				"walk": 1.25,
+				"attack": 1,
+				"idle": 10
+			}
+		},
 		"growth" : 30,
 		"hitPoints" : 1,
 		"level" : 1,
@@ -51,49 +53,49 @@
 			"wince": "factory/WORMWNCE.wav",
 			"startMoving": "factory/WORMEXT1.wav",
 			"endMoving": "factory/WORMEXT2.wav"
- 		},
+		},
 		"speed" : 18,
 		"abilities" :
 		{
-		   "blindImmunity" : 
+			"blindImmunity" :
 			{
 				"type" : "SPELL_IMMUNITY",
 				"subtype" : "spell.blind",
 				"addInfo" : 1
 			},
-			"petrifyImmunity" : 
+			"petrifyImmunity" :
 			{
 				"type" : "SPELL_IMMUNITY",
 				"subtype" : "spell.stoneGaze",
 				"addInfo" : 1
 			},
-			"noMorale": {
+			"noMorale" :
+			{
 				"type": "NO_MORALE"
 			},
 			"ephemeral" :
-				{
-					"type" : "ENCHANTED",
-					"subtype" : "spell.sandephemeral",
-					"val" : 1,
-				},
-			"blockRetaliation" :
+			{
+				"type" : "ENCHANTED",
+				"subtype" : "spell.sandephemeral",
+				"val" : 1
+			},
+			"noRetaliation" :
 			{
 				"type" : "BLOCKS_RETALIATION"
-			},				
+			},
 			"castsymMeditation" :
 			{
 				"type" : "SPELLCASTER",
 				"subtype" : "spell.sandVigour",
 				"val" : 1
 			},
-		"castsCount" :
+			"castsCount" :
 			{
 				"type" : "CASTS",
 				"val" : 1
-			},
-	    },
+			}
+		},
 		"stackExperience" :
- 
 		[
 			{
 				"bonus" :

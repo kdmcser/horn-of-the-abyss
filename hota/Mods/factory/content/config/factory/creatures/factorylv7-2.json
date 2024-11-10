@@ -54,7 +54,7 @@
 			"move" : "factory/DREDMOVE.wav",
 			"shoot": "factory/DREDSHOT.wav",
 			"wince" : "factory/DREDWNCE.wav"
- 		},
+		},
 		"speed" : 6,
 		"abilities":
 		{
@@ -67,7 +67,7 @@
 			{
 				"type": "NON_LIVING"
 			},
-			"blockRetaliation" :
+			"noRetaliation" :
 			{
 				"type" : "BLOCKS_RETALIATION"
 			}

@@ -56,7 +56,8 @@
 		"speed" : 9,
 		"abilities" :
 		{
-			"nonliving": {
+			"nonliving" :
+			{
 				"type": "NON_LIVING"
 			},
 			"castsymMeditation" :
@@ -71,18 +72,17 @@
 				"subtype" : "spell.detonates02",
 				"val" : 25
 			},
-		"castsCount" :
+			"castsCount" :
 			{
 				"type" : "CASTS",
 				"val" : 1
 			},
-			"blockRetaliation" :
+			"noRetaliation" :
 			{
 				"type" : "BLOCKS_RETALIATION"
 			}
 		},
 		"stackExperience" :
- 
 		[
 			{
 				"bonus" :

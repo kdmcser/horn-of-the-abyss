@@ -65,7 +65,7 @@
 			"nonliving": {
 				"type": "NON_LIVING"
 			},
-			"blockRetaliation" :
+			"noRetaliation" :
 			{
 				"type" : "BLOCKS_RETALIATION"
 			},
