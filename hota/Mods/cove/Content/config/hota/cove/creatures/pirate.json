@@ -25,7 +25,7 @@
 			"max" : 25
 		},
 		"abilities" : {
-			"canShoot" : {
+			"shooter" : {
 				"type" : "SHOOTER"
 			},
 			"noPenalty" : {

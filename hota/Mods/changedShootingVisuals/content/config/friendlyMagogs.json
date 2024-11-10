@@ -18,10 +18,6 @@
 			{
 				"type" : "SPELL_LIKE_ATTACK",
 				"subtype" : "spell.friendlyFireball"
-			},
-			"shooter" :
-			{
-				"type" : "SHOOTER"
 			}
 		}
 	}

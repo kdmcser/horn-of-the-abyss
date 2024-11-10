@@ -59,27 +59,30 @@
 			"move": "HALFMOVE.wav",
 			 "shoot": "factory/HALGSHOT.wav",
 			"wince": "HALFWNCE.wav"
-    },
-    "speed": 6,
-    "abilities": {
-		"canShoot": {"type": "SHOOTER"},
+	},
+	"speed": 6,
+	"abilities": {
+		"shooter" :
+		{
+			"type": "SHOOTER"
+		},
 		"reduceDefence" :
-			{
-				"type" : "ENEMY_DEFENCE_REDUCTION",
-				"val" : 20
-			},
-			"throwingGrenade" :
-			{
-				"type" : "SPELL_LIKE_ATTACK",
-				"subtype" : "spell.hotaGrenade"
-			},
+		{
+			"type" : "ENEMY_DEFENCE_REDUCTION",
+			"val" : 20
+		},
+		"throwingGrenade" :
+		{
+			"type" : "SPELL_LIKE_ATTACK",
+			"subtype" : "spell.hotaGrenade"
+		},
 		"selfLuck" :
-			{
-				"type" : "LUCK",
-				"val" : 1,
-				"valueType" : "INDEPENDENT_MAX"
-			}
-    },
+		{
+			"type" : "LUCK",
+			"val" : 1,
+			"valueType" : "INDEPENDENT_MAX"
+		}
+	},
 		"stackExperience" :
  
 		[
