@@ -8,6 +8,10 @@
 		"highLevelChance" : { "attack" : 30, "defence" : 30, "knowledge" : 20, "spellpower" : 20 },
 		"lowLevelChance" : { "attack" : 35, "defence" : 35, "knowledge" : 15, "spellpower" : 15 },
 		"mapObject" : {
+			"filters" : {
+				"male" : { "male" : true },
+				"female" : { "female" : true }
+			},
 			"templates" : {
 				"female" :
 				{
