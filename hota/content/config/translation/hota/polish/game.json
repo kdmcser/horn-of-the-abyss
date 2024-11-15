@@ -451,6 +451,8 @@
 	"object.hota.mapobjects.colosseumOfTheMagi.name" : "Koloseum magów",
 	"object.hota.mapobjects.jetsam.name" : "Porzucony towar",
 	"object.hota.mapobjects.miniHillFort.name" : "Fort na wzgórzu",
+	"mapObject.hota.mapobjects.miniHillFort.miniHillFort.description" : "Ulepsza jednostki poziomów 1-5. Koszt jest dwa razy wyższy niż w mieście.",
+	"mapObject.hota.mapobjects.miniHillFort.miniHillFort.unavailableUpgradeMessage" : "W tym budynku można ulepszyć wyłącznie jednostki poziomów 1-5.",
 	"object.hota.mapobjects.observatory.name" : "Obserwatorium",
 	"object.hota.mapobjects.seaBarrel.name" : "Morska beczka",
 	"object.hota.mapobjects.seafaringAcademy.name" : "Akademia morska",
