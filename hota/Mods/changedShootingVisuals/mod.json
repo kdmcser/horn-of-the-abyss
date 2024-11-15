@@ -20,7 +20,8 @@
 		"config/lightningyTitan",
 		"config/powerMonks",
 		"config/fieryBeholders",
-		"config/cloudyLiches"
+		"config/cloudyLiches",
+		"config/enchanterArrow"
 	],
 	"spells" : 
 	[
@@ -31,6 +32,7 @@
 		"config/hotaLightGlobe",
 		"config/gogFireball",
 		"config/hotaRay",
-		"config/hotaDeathCloud"
+		"config/hotaDeathCloud",
+		"config/hotaEnchanterArrow"
 	]
 }
