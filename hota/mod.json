@@ -1,339 +1,154 @@
 {
-    "name": "Horn of the Abyss",
-    "description": " <h1 style='color:#002366; font-size:28px; font-weight:bold;'>Horn of the Abyss</h1><p style='font-size:16px; color:#333333; font-style:italic;'>Embark on an epic journey in <b>Horn of the Abyss</b>, a fan-made expansion for <i>Heroes of Might and Magic III</i>, standing proudly alongside the official expansions of <b>Armageddon's Blade</b> and <b>Shadow of Death</b>.</p> <p style='font-size:22px; color:#002366; font-weight:bold;'>A True Tribute to Heroes of Might and Magic</p> <p style='font-size:16px; color:#333333;'><i>Horn of the Abyss</i> enhances the original game with a wealth of new features while preserving its legendary charm. Explore the new <b>Cove</b> and <b>Factory</b> factions, engage in challenging campaigns, and discover sparkling new artifacts and interesting map objects that enhance the game's strategic depth.</p> <p style='color:#333333; font-size:16px;'>Painstakingly balanced and polished, <i>Horn of the Abyss</i> has been crafted with an unwavering commitment to quality. With carefully refined mechanics and a host of improvements, this expansion is a must-play for both new players and seasoned veterans. This expansion includes the careful balance changes and fixes, removal of graphical imperfections left by the developers, and the addition of a considerable amount of new content. The project is lore-oriented and attempts to keep connected with the original Might and Magic universe, with changes made to honour the vision of the original game while greatly enhancing players' experience.</p><h1 style='color:#002366; font-size:22px; font-weight:bold;'>Cove Town</h1> <p style='font-size:16px; color:#333333;'>Sail the seven seas with the Captains and Navigators of the <b>Cove</b> and unleash the might of the depths unto your foes. The Cove is home to fearless Crewmates and their Pirate capatains, assisted in their navigation of the seas by powerful Sea Witches. However, this Regnan town has attracted more than just humans: from the water-borne Nymphs and Sea Serpents protected by their Nix friends to the soaring Stormbirds of the skies, the Cove is a place of marine diversity of all sorts. Take out your eneimes from afar with giant metal Cannon shots and the deadly accuracy of Sea Dogs aided by the shattering magic of Sorceresses; plunder their loot up close and personal with swift strikes from Haspids and Ayssids; and defend your ill-gotten gains with your dependable Seamen and Nix Warriors.</p><h1 style='color:#002366; font-size:22px; font-weight:bold;'>Factory Town</h1> <p style='font-size:16px; color:#333333;'>Dive into new-age technology with the Mercenaries and Artificers of the <b>Factory</b> and unlock your creatures' full potential with the might of industry. Take to the skies and transcend the need for navigating tricky terrain with the brand new Airship, bringing you closer to victory with great haste. The Factory is home to plucky Halflings and their slow and steady Armadillo friends, protected by local Gunslingers, but not all natural creatures are as nice as they are - beware the burrowing Sandworm and jungle-dwelling Couatl, for they are fearsome in numbers, even if the Couatl needs some provoking to unlock its full potential. The natural evolution of humans resulted in the forming of new and curious technologies, which some have embraced fully: Mechanics were trained to help great engineers construct the explosive Automaton and eventually the colossal laser-shooting Dreadnought, both of which are able to be repaired on the battlefield if needs be.</p> <p style='font-size:22px; color:#002366; font-weight:bold;'>Heroes</p> <p style='font-size:16px; color:#333333;'>In addition to the regular 16 heroes per town and campaign/map editor exclusive heroes from the <b>Cove</b> and <b>Factory</b>, there are a few smaller additions and changes to the roster of familiar heroes:</p><ul><li><b>Lord Haart the Knight</b></li><ul><li>Was originally in <i>Restoration of Erathia</i>, but was swapped out for <b>Sir Mullich the Knight</b> in <i>Armageddon's Blade</i> and <i>Shadow of Death</i> - he has now returned in <i>Horn of the Abyss</i></li></ul><li><b>Beatrice the Knight</b></li><ul><li><b>Scouting</b> specialist</li></ul><li><b>Giselle the Ranger</b></li><ul><li><b>Interference</b> specialist</li></ul><li><b>Ranloo the Death Knight</b></li><ul><li><b>Ballista</b> specialist</li></ul><li><b>Kinkeria the Witch</b></li><ul><li><b>Scouting</b> specialist</li></ul><li><b>Miscellaneous Changes</b></li><ul><li><b>Lord Haart the Death Knight</b> has been renamed to <b>Haart Lich the Death Knight</b> to avoid confusion</li><li>In regular <i>Horn of the Abyss</i>, heroes that would be replaced by new heroes would also be disabled - this is not the case in VCMI, where every hero is available unless banned by the map or template</li></ul></ul> <p style='font-size:22px; color:#002366; font-weight:bold;'>Secondary Skills</p> <p style='font-size:16px; color:#333333;'>Horn of the Abyss introduces <b>Interference</b> as a Secondary Skill to replace <b>Resistance</b>, which itself is now banned by default. This skill is a fairer and more balanced way to mitigate magic, as it decreases enemy Spell Power as opposed to being an unbalanced &quot;roll-of-the-dice&quot; skill that had the potential to render magic utterly ineffective.</p> <p style='font-size:22px; color:#002366; font-weight:bold;'>Artifacts</p> <p style='font-size:16px; color:#333333;'>A new set of golden armour infused with the power of the ocean lies in wait to be adorned by only the mightiest of heroes:</p><ul><li><b>Trident of Dominion:</b> <i>+7 Attack skill</i></li><li><b>Shield of Naval Glory:</b> <i>+7 Defense skill</i></li><li><b>Royal Armor of Nix:</b> <i>+6 Power skill</i></li><li><b>Crown of the Five Seas:</b> <i>+6 Knowledge skill</i></li></ul> <p style='font-size:16px; color:#333333;'>Two incredibly powerful artifacts have been added that can completely change the tide of a scenario:</p><ul><li><b>Horn of the Abyss:</b> <i>Raises Fangarms from slain stacks of living creatures</i></li><li><b>Sleepkeeper:</b> <i>Provides immunity to Mind spells</i></li></ul> <p style='font-size:16px; color:#333333;'>Several combination artifacts have been added that were once planned for the release of <i>Shadow of Death</i> with new names and fully fleshed-out abilities:</p><ul><li><b>Ironfist of the Ogre:</b></li><ul><li><i>+5 Attack skill, +5 Defense skill, +4 Power skill, +4 Knowledge skill</i></li><li><i>Casts Expert Bloodlust, Counterstrike, Fire Shield, and Haste on all allies for 50 rounds</i></li><li><i><b>Weapon</b>/Shield/Helm/Torso slots</i></li></ul><li><b>Diplomat's Cloak:</b></li><ul><li><i>-30% surrender cost</i></li><li><i>Allows retreat and surrender when battling neutral monsters or defending a town</i></li><li><i>3x diplomatic army strength</i></li><li><i><b>Cape</b>/Neclakce/Ring slots</i></li></ul><li><b>Pendant of Reflection:</b></li><ul><li><i>+50% Magic Resistance</i></li><li><i><b>Neclakce</b>/Cape/Feet slots</i></li></ul><li><b>Golden Goose:</b></li><ul><li><i>+7000 Gold/day</i></li><li><i><b>Misc</b>/Misc/Misc slots</i></li></ul></ul> <p style='font-size:16px; color:#333333;'>Still hungry for more boons to get an edge over your enemies? Look no further than the assorted wares that <i>Horn of the Abyss</i> has to offer:</p><ul><li><b>Plate of Dying Light:</b> <i>-25% enemy Power skill</i></li><li><b>Seal of Sunset:</b> <i>-10% enemy Power skill</i></li><li><b>Charm of Eclipse:</b> <i>-10% enemy Power skill</i></li><li><b>Pendant of Downfall:</b> <i>-2 enemy Morale</i></li><li><b>Ring of Suppression:</b> <i>-1 enemy Morale</i></li><li><b>Hideous Mask:</b> <i>-1 enemy Morale</i></li><li><b>Shaman's Puppet:</b> <i>-2 enemy Luck</i></li><li><b>Runes of Imminency:</b> <i>-1 enemy Luck</i></li><li><b>Demon's Horseshoe:</b> <i>-1 enemy Luck</i></li><li><b>Wayfarer's Boots:</b> <i>No movement penalty over rough terrain</i></li><li><b>Cape of Silence:</b> <i>Prevents either player from casting level 1 or 2 spells</i></li></ul> <p style='font-size:22px; color:#002366; font-weight:bold;'>Miscellaneous Changes</p><ul><li>External dwellings now accumulate creatures weekly as long as they are owned by a player</li><li>Small yet appropriate changes to overall town building cost balance</li><li>Small yet appropriate changes to various creatures</li><li>New <b>map objects</b> and <b>creature hordes</b></li><li>Improved <b>Map Editor</b> and <b>Campaign Editor</b> functionality</li><li>New <b>Template Editor</b> to aid with Random Map Generation</li><li>The <b>Vault of Ashes</b>, a new <b>Conflux</b> dwelling that boosts Firebird/Phoenix Growth</li><li><b>Spell Research</b> system that guarantees essential spells with enough research</li><li>New useful <b>keybinds</b> for easy navigation and controlling creatures' abilities</li><li>New terrains - <b>Highlands</b> and <b>Wasteland</b></li><li><b>Conflux's</b> native terrain is changed to <b>Highlands</b></li><li><b>Halflings</b> belong to <b>Factory</b> instead of being <b>Neutral</b></li></ul>",
-    "modType": "Expansion",
-    "author": "Hota Crew, ported by VCMI Team & edeksumo & avatar. 1.7 ported by Ben, Fixes by Loki Laufeyjarson",
-    "contact": "http://forum.vcmi.eu/viewtopic.php?t=748",
-    "licenseName": "Creative Commons Attribution-ShareAlike",
-    "licenseURL": "http://creativecommons.org/licenses/by-sa/4.0/deed",
-    "version": "1.7.34",
-    "changelog": {
-        "1.7.34": [
-            "Moved objects description from name to standalone description",
-            "Updated Czech translation"
-        ],
-        "1.7.33": [
-            "Czech translation by George King"
-        ],
-        "1.7.32": [
-            "Fixed Ruins and Churchyards battles layouts",
-            "Added Spell Research submod",
-            "Replaced Implosion spell animation",
-            "Replaced Red trees graphics"
-        ],
-        "1.7.31": [
-            "Rewritten creature banks code for vcmi-1.6 format"
-        ],
-        "1.7.3": [
-            "Obstacle fix"
-        ],
-        "1.7.2": [
-            "Update to vcmi-1.6 format"
-        ],
-        "1.7.1": [
-            "Reapply changes from 1.6.51 and 1.6.52 that were missing for technical reasons"
-        ],
-        "1.7.0": [
-            "Added factory"
-        ],
-        "1.6.52": [
-            "Added biomes for Highlands and Wasteland terrains",
-            "Small fixes in other biomes"
-        ],
-        "1.6.51": [
-            "Fixed Interference code",
-            "Fixed Wastelands obstacles",
-            "Better specialty texts format"
-        ],
-        "1.6.50": [
-            "Updated russian translation"
-        ],
-        "1.6.49": [
-            "Russian translation by Anton Sergeew"
-        ],
-        "1.6.48": [
-            "Updated polish translation by Dru"
-        ],
-        "1.6.47": [
-            "Fix Death Cloud area effect"
-        ],
-        "1.6.46": [
-            "Support Thieves Guild"
-        ],
-        "1.6.45": [
-            "Use regular battle setup for Black Tower"
-        ],
-        "1.6.44": [
-            "Fix configuration of witch hut and magic shrine"
-        ],
-        "1.6.43": [
-            "Add dimension door & fly rebalance changes to game balance submod"
-        ],
-        "1.6.42": [
-            "Add config for biomes"
-        ],
-        "1.6.41": [
-            "Fix for banning navigation heroes on maps without water"
-        ],
-        "1.6.40": [
-            "Fix Cove creatures abilities and Fangarm ability"
-        ],
-        "1.6.39": [
-            "Fix broken filepath"
-        ],
-        "1.6.38": [
-            "Add spanish translation by macomarivas"
-        ],
-        "1.6.37": [
-            "Updated chinese and polish translations"
-        ],
-        "1.6.36": [
-            "Updated chinese maps translations"
-        ],
-        "1.6.35": [
-            "Fixed the translations and the commander bugs"
-        ],
-        "1.6.34": [
-            "Updated chinese translation by Rindlit"
-        ],
-        "1.6.33": [
-            "Fix revisit mechanics of Mineral Spring object from Highlands submod"
-        ],
-        "1.6.32": [
-            "Updated chinese translation"
-        ],
-        "1.6.31": [
-            "Removed Aine having inferno creatures in balance submod"
-        ],
-        "1.6.30": [
-            "Adjusted Commanders stats"
-        ],
-        "1.6.29": [
-            "Fix for Gazebo and Watering Place"
-        ],
-        "1.6.28": [
-            "Fix some objects and banks apperances"
-        ],
-        "1.6.27": [
-            "Added Horn of the Abyss artifact (Ben Yan)"
-        ],
-        "1.6.26": [
-            "Added blockedVisitable / removable flags to some objects, especially on water"
-        ],
-        "1.6.25": [
-            "Adjusted Sea Withces/Sorceresses/Haspids abilities"
-        ],
-        "1.6.24": [
-            "Fixed unit selection highligh in exchange window"
-        ],
-        "1.6.23": [
-            "Fixed loading of hota h3m maps in vcmi 1.4"
-        ],
-        "1.6.22": [
-            "The new boats for Conflux and Neutrals are now actually used"
-        ],
-        "1.6.21": [
-            "The damage of Armageddon spell reduced form 50*(spell power) + 30/30/60/120 to 40*(spell power) + 30/30/60/120"
-        ],
-        "1.6.20": [
-            "The effect of Protection from Air, Protection from Fire, Protection from Water, and Protection from Earth spells increased from 30%30%50%50% to 50%50%75%75%"
-        ],
-        "1.6.19": [
-            "Naga Bank gives gems instead of sulfur as a reward"
-        ],
-        "1.6.18": [
-            "Deemer and Uland no longer start with advanced skills"
-        ],
-        "1.6.17": [
-            "Cahnged Starting armies for heroes"
-        ],
-        "1.6.16": [
-            "Added missing first aid probabilities to hero classes"
-        ],
-        "1.6.15": [
-            "Removed some objects from RMG. Cartographer, hill fort, etc"
-        ],
-        "1.6.14": [
-            "Polish translation by Dru"
-        ],
-        "1.6.13": [
-            "Removed unavailable LAND type from terrains.",
-            "Fixed Magic Shrine level 4 definitions",
-            "Fixed miniHillFort templates for wasteland and highlands",
-            "Fixed warlocks lab template"
-        ],
-        "1.6.12": [
-            "Normalized submod names, to be more clear and look more consistent"
-        ],
-        "1.6.11": [
-            "WoG MainMenu mod name updated in Conflicts section"
-        ],
-        "1.6.10": [
-            "Fixed Water Spells damage imunity for Nymphs and Oceanids"
-        ],
-        "1.6.9": [
-            "Small changes with some highlands and wastelands decorative objects"
-        ],
-        "1.6.8": [
-            "Configured behavior for Junkman"
-        ],
-        "1.6.7": [
-            "Configured behavior for Seafaring academy and Skeleton transformer"
-        ],
-        "1.6.6": [
-            "Highlands and Wasteland terrain mods are 2 separate mods now"
-        ],
-        "1.6.5": [
-            "Fixed graphical issues in previous version"
-        ],
-        "1.6.4": [
-            "Added main menu theme",
-            "Added fixed versions of creature icons"
-        ],
-        "1.6.3": [
-            "Adjusted Kinkeria specialty"
-        ],
-        "1.6.2": [
-            "Added Town Gate object",
-            "Banned heroes with starting navigation skill"
-        ],
-        "1.6.1": [
-            "Added support for HotA maps",
-            "Added HotA maps"
-        ],
-        "1.6.0": [
-            "Mod updated with data from latest HotA release",
-            "Reorganized submods to more logical scheme",
-            "Updated Cove puzzle map",
-            "Updated portraits of Cove heroes"
-        ],
-        "1.5.10": [
-            "Implemented new map objects",
-            "Fixes to existing map objects"
-        ],
-        "1.5.9": [
-            "Removed HotA fonts submod due to issues with different localizations"
-        ],
-        "1.5.8": [
-            "Updated HotA balance changes"
-        ],
-        "1.5.7": [
-            "Fixed configuration of several creature banks",
-            "Added Ukrainian translation"
-        ],
-        "1.5.6": [
-            "Mod updated for new bunus system"
-        ],
-        "1.5.5": [
-            "Added / fixed Ancient Lamp, Sea Barrel, Shrine of Magic Mystery, Vial of mana and Jetsam."
-        ],
-        "1.5.4": [
-            "Submod New Terrains was rewritten for new format"
-        ],
-        "1.5.3": [
-            "Added 3 special terrains, added some missing decorations"
-        ],
-        "1.5.2": [
-            "Disable unconfigured objects"
-        ],
-        "1.5.1": [
-            "Updated new terrain configuration"
-        ],
-        "1.5.0": [
-            "Added warehouses",
-            "Added ancient lamp",
-            "Added magic colosseum",
-            "Added sea barrel",
-            "Update obstacles config to be compatible with 1.1.0"
-        ],
-        "1.4.4": [
-            "Add missing battlefield obstacles"
-        ],
-        "1.4.3": [
-            "Fix battlefield obstacles"
-        ],
-        "1.4.2": [
-            "Update configs and restructure the mod",
-            "Campaign heroes submod was added"
-        ],
-        "1.4.1": [
-            "Fixes for mine types"
-        ],
-        "1.4.0": [
-            "Added higlands and wastelands terrains",
-            "reworked Eovacius' specialty",
-            "added two submods"
-        ],
-        "1.3.5": [
-            "New features (Interference, new artifacts, Steel Golems)"
-        ],
-        "1.3.22": [
-            "New hero specialty format"
-        ],
-        "1.3.21": [
-            "Added Cannon war machine",
-            "Fixed creature sounds",
-            "Added Ironfist of the Ogre artifact",
-            "Added HotA fonts",
-            "Small fixes"
-        ]
-    },
-    "compatibility": {
-        "min": "1.5.0"
-    },
-    "chinese": {
-        "name": "深渊号角（HotA）",
-        "description": "深渊号角（Horn of the Abyss）是《英雄无敌 III》的非官方资料片，由 Hota Crew制作，VCMI Team & edeksumo & avatar导入。该模组对原有的平衡性进行了调整，并增加了全新的阵营“港口”（Cove）和“工厂”（Factory），工厂族使用阿土的汉化文本。",
-        "translations": [
-            "config/translation/hota/chinese/game.json",
-            "config/translation/hota/chinese/campaigns.json",
-            "config/translation/hota/chinese/maps.json"
-        ]
-    },
-    "czech": {
-        "name": "Horn of the Abyss",
-        "description": "Rozpracovaný port rozšíření Horn of the Abyss vytvořený týmem Hota Crew",
-        "translations": [
-            "config/translation/hota/czech/game.json",
-            "config/translation/hota/czech/campaigns.json",
-            "config/translation/hota/czech/maps.json"
-        ]
-    },
-    "german": {
-        "name": "Horn of the Abyss",
-        "description": "In Arbeit befindliche Portierung der Erweiterung Horn of the Abyss erstellt durch Hota Crew",
-        "translations": [
-            "config/translation/hota/german/game.json",
-            "config/translation/hota/german/campaigns.json",
-            "config/translation/hota/german/maps.json"
-        ]
-    },
-    "polish": {
-        "name": "Horn of the Abyss",
-        "description": "Trwają prace nad portem dodatku Horn of the Abyss stworzonego przez Hota Crew",
-        "translations": [
-            "config/translation/hota/polish/game.json"
-        ]
-    },
-    "ukrainian": {
-        "name": "Horn of the Abyss / Ріг Безодні",
-        "description": "Поточна версія доповнення Horn of the Abyss (від команди Hota Crew)",
-        "translations": [
-            "config/translation/hota/ukrainian.json"
-        ]
-    },
-    "spanish": {
-        "name": "Horn of the Abyss",
-        "description": "Spanish translation made by macomarivas",
-        "translations": [
-            "config/translation/hota/spanish/game.json"
-        ]
-    },
-    "russian": {
-        "name": "Horn of the Abyss / Рог бездны",
-        "description": "Дополнение от Hota Crew, портированное на движок VCMI",
-        "translations": [
-            "config/translation/hota/russian.json"
-        ]
-    }
+	"name" : "Horn of the Abyss",
+	"description" : " <h1 style='color:#002366; font-size:28px; font-weight:bold;'>Horn of the Abyss</h1><p style='font-size:16px; color:#333333; font-style:italic;'>Embark on an epic journey in <b>Horn of the Abyss</b>, a fan-made expansion for <i>Heroes of Might and Magic III</i>, standing proudly alongside the official expansions of <b>Armageddon's Blade</b> and <b>Shadow of Death</b>.</p> <p style='font-size:22px; color:#002366; font-weight:bold;'>A True Tribute to Heroes of Might and Magic</p> <p style='font-size:16px; color:#333333;'><i>Horn of the Abyss</i> enhances the original game with a wealth of new features while preserving its legendary charm. Explore the new <b>Cove</b> and <b>Factory</b> factions, engage in challenging campaigns, and discover sparkling new artifacts and interesting map objects that enhance the game's strategic depth.</p> <p style='color:#333333; font-size:16px;'>Painstakingly balanced and polished, <i>Horn of the Abyss</i> has been crafted with an unwavering commitment to quality. With carefully refined mechanics and a host of improvements, this expansion is a must-play for both new players and seasoned veterans. This expansion includes the careful balance changes and fixes, removal of graphical imperfections left by the developers, and the addition of a considerable amount of new content. The project is lore-oriented and attempts to keep connected with the original Might and Magic universe, with changes made to honour the vision of the original game while greatly enhancing players' experience.</p><h1 style='color:#002366; font-size:22px; font-weight:bold;'>Cove Town</h1> <p style='font-size:16px; color:#333333;'>Sail the seven seas with the Captains and Navigators of the <b>Cove</b> and unleash the might of the depths unto your foes. The Cove is home to fearless Crewmates and their Pirate capatains, assisted in their navigation of the seas by powerful Sea Witches. However, this Regnan town has attracted more than just humans: from the water-borne Nymphs and Sea Serpents protected by their Nix friends to the soaring Stormbirds of the skies, the Cove is a place of marine diversity of all sorts. Take out your eneimes from afar with giant metal Cannon shots and the deadly accuracy of Sea Dogs aided by the shattering magic of Sorceresses; plunder their loot up close and personal with swift strikes from Haspids and Ayssids; and defend your ill-gotten gains with your dependable Seamen and Nix Warriors.</p><h1 style='color:#002366; font-size:22px; font-weight:bold;'>Factory Town</h1> <p style='font-size:16px; color:#333333;'>Dive into new-age technology with the Mercenaries and Artificers of the <b>Factory</b> and unlock your creatures' full potential with the might of industry. Take to the skies and transcend the need for navigating tricky terrain with the brand new Airship, bringing you closer to victory with great haste. The Factory is home to plucky Halflings and their slow and steady Armadillo friends, protected by local Gunslingers, but not all natural creatures are as nice as they are - beware the burrowing Sandworm and jungle-dwelling Couatl, for they are fearsome in numbers, even if the Couatl needs some provoking to unlock its full potential. The natural evolution of humans resulted in the forming of new and curious technologies, which some have embraced fully: Mechanics were trained to help great engineers construct the explosive Automaton and eventually the colossal laser-shooting Dreadnought, both of which are able to be repaired on the battlefield if needs be.</p> <p style='font-size:22px; color:#002366; font-weight:bold;'>Heroes</p> <p style='font-size:16px; color:#333333;'>In addition to the regular 16 heroes per town and campaign/map editor exclusive heroes from the <b>Cove</b> and <b>Factory</b>, there are a few smaller additions and changes to the roster of familiar heroes:</p><ul><li><b>Lord Haart the Knight</b></li><ul><li>Was originally in <i>Restoration of Erathia</i>, but was swapped out for <b>Sir Mullich the Knight</b> in <i>Armageddon's Blade</i> and <i>Shadow of Death</i> - he has now returned in <i>Horn of the Abyss</i></li></ul><li><b>Beatrice the Knight</b></li><ul><li><b>Scouting</b> specialist</li></ul><li><b>Giselle the Ranger</b></li><ul><li><b>Interference</b> specialist</li></ul><li><b>Ranloo the Death Knight</b></li><ul><li><b>Ballista</b> specialist</li></ul><li><b>Kinkeria the Witch</b></li><ul><li><b>Scouting</b> specialist</li></ul><li><b>Miscellaneous Changes</b></li><ul><li><b>Lord Haart the Death Knight</b> has been renamed to <b>Haart Lich the Death Knight</b> to avoid confusion</li><li>In regular <i>Horn of the Abyss</i>, heroes that would be replaced by new heroes would also be disabled - this is not the case in VCMI, where every hero is available unless banned by the map or template</li></ul></ul> <p style='font-size:22px; color:#002366; font-weight:bold;'>Secondary Skills</p> <p style='font-size:16px; color:#333333;'>Horn of the Abyss introduces <b>Interference</b> as a Secondary Skill to replace <b>Resistance</b>, which itself is now banned by default. This skill is a fairer and more balanced way to mitigate magic, as it decreases enemy Spell Power as opposed to being an unbalanced &quot;roll-of-the-dice&quot; skill that had the potential to render magic utterly ineffective.</p> <p style='font-size:22px; color:#002366; font-weight:bold;'>Artifacts</p> <p style='font-size:16px; color:#333333;'>A new set of golden armour infused with the power of the ocean lies in wait to be adorned by only the mightiest of heroes:</p><ul><li><b>Trident of Dominion:</b> <i>+7 Attack skill</i></li><li><b>Shield of Naval Glory:</b> <i>+7 Defense skill</i></li><li><b>Royal Armor of Nix:</b> <i>+6 Power skill</i></li><li><b>Crown of the Five Seas:</b> <i>+6 Knowledge skill</i></li></ul> <p style='font-size:16px; color:#333333;'>Two incredibly powerful artifacts have been added that can completely change the tide of a scenario:</p><ul><li><b>Horn of the Abyss:</b> <i>Raises Fangarms from slain stacks of living creatures</i></li><li><b>Sleepkeeper:</b> <i>Provides immunity to Mind spells</i></li></ul> <p style='font-size:16px; color:#333333;'>Several combination artifacts have been added that were once planned for the release of <i>Shadow of Death</i> with new names and fully fleshed-out abilities:</p><ul><li><b>Ironfist of the Ogre:</b></li><ul><li><i>+5 Attack skill, +5 Defense skill, +4 Power skill, +4 Knowledge skill</i></li><li><i>Casts Expert Bloodlust, Counterstrike, Fire Shield, and Haste on all allies for 50 rounds</i></li><li><i><b>Weapon</b>/Shield/Helm/Torso slots</i></li></ul><li><b>Diplomat's Cloak:</b></li><ul><li><i>-30% surrender cost</i></li><li><i>Allows retreat and surrender when battling neutral monsters or defending a town</i></li><li><i>3x diplomatic army strength</i></li><li><i><b>Cape</b>/Neclakce/Ring slots</i></li></ul><li><b>Pendant of Reflection:</b></li><ul><li><i>+50% Magic Resistance</i></li><li><i><b>Neclakce</b>/Cape/Feet slots</i></li></ul><li><b>Golden Goose:</b></li><ul><li><i>+7000 Gold/day</i></li><li><i><b>Misc</b>/Misc/Misc slots</i></li></ul></ul> <p style='font-size:16px; color:#333333;'>Still hungry for more boons to get an edge over your enemies? Look no further than the assorted wares that <i>Horn of the Abyss</i> has to offer:</p><ul><li><b>Plate of Dying Light:</b> <i>-25% enemy Power skill</i></li><li><b>Seal of Sunset:</b> <i>-10% enemy Power skill</i></li><li><b>Charm of Eclipse:</b> <i>-10% enemy Power skill</i></li><li><b>Pendant of Downfall:</b> <i>-2 enemy Morale</i></li><li><b>Ring of Suppression:</b> <i>-1 enemy Morale</i></li><li><b>Hideous Mask:</b> <i>-1 enemy Morale</i></li><li><b>Shaman's Puppet:</b> <i>-2 enemy Luck</i></li><li><b>Runes of Imminency:</b> <i>-1 enemy Luck</i></li><li><b>Demon's Horseshoe:</b> <i>-1 enemy Luck</i></li><li><b>Wayfarer's Boots:</b> <i>No movement penalty over rough terrain</i></li><li><b>Cape of Silence:</b> <i>Prevents either player from casting level 1 or 2 spells</i></li></ul> <p style='font-size:22px; color:#002366; font-weight:bold;'>Miscellaneous Changes</p><ul><li>External dwellings now accumulate creatures weekly as long as they are owned by a player</li><li>Small yet appropriate changes to overall town building cost balance</li><li>Small yet appropriate changes to various creatures</li><li>New <b>map objects</b> and <b>creature hordes</b></li><li>Improved <b>Map Editor</b> and <b>Campaign Editor</b> functionality</li><li>New <b>Template Editor</b> to aid with Random Map Generation</li><li>The <b>Vault of Ashes</b>, a new <b>Conflux</b> dwelling that boosts Firebird/Phoenix Growth</li><li><b>Spell Research</b> system that guarantees essential spells with enough research</li><li>New useful <b>keybinds</b> for easy navigation and controlling creatures' abilities</li><li>New terrains - <b>Highlands</b> and <b>Wasteland</b></li><li><b>Conflux's</b> native terrain is changed to <b>Highlands</b></li><li><b>Halflings</b> belong to <b>Factory</b> instead of being <b>Neutral</b></li></ul>",
+	"modType" : "Expansion",
+	"author" : "Hota Crew, ported by VCMI Team & edeksumo & avatar. 1.7 ported by Ben, Fixes by Loki Laufeyjarson",
+	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"version" : "1.7.35",
+	"changelog" : 
+	{
+		"1.7.35"  : [ "Additional miniHillFort messages: description and unavailable creature upgrade", "Changed the price for cartographer maps from 1000 to 10000 gold" ],
+		"1.7.34"  : [ "Moved objects description from name to standalone description", "Updated Czech translation" ],
+		"1.7.33"  : [ "Czech translation by George King" ],
+		"1.7.32"  : [ "Fixed Ruins and Churchyards battles layouts", "Added Spell Research submod", "Replaced Implosion spell animation", "Replaced Red trees graphics" ],
+		"1.7.31"  : [ "Rewritten creature banks code for vcmi-1.6 format" ],
+		"1.7.3"   : [ "Obstacle fix" ],
+		"1.7.2"   : [ "Update to vcmi-1.6 format" ],
+		"1.7.1"   : [ "Reapply changes from 1.6.51 and 1.6.52 that were missing for technical reasons" ],
+		"1.7.0"   : [ "Added factory" ],
+		"1.6.52"  : [ "Added biomes for Highlands and Wasteland terrains", "Small fixes in other biomes" ],
+		"1.6.51"  : [ "Fixed Interference code", "Fixed Wastelands obstacles", "Better specialty texts format" ],
+		"1.6.50"  : [ "Updated russian translation" ],
+		"1.6.49"  : [ "Russian translation by Anton Sergeew" ],
+		"1.6.48"  : [ "Updated polish translation by Dru" ],
+		"1.6.47"  : [ "Fix Death Cloud area effect" ],
+		"1.6.46"  : [ "Support Thieves Guild" ],
+		"1.6.45"  : [ "Use regular battle setup for Black Tower" ],
+		"1.6.44"  : [ "Fix configuration of witch hut and magic shrine" ],
+		"1.6.43"  : [ "Add dimension door & fly rebalance changes to game balance submod" ],
+		"1.6.42"  : [ "Add config for biomes" ],
+		"1.6.41"  : [ "Fix for banning navigation heroes on maps without water" ],
+		"1.6.40"  : [ "Fix Cove creatures abilities and Fangarm ability" ],
+		"1.6.39"  : [ "Fix broken filepath" ],
+		"1.6.38"  : [ "Add spanish translation by macomarivas" ],
+		"1.6.37"  : [ "Updated chinese and polish translations" ],
+		"1.6.36"  : [ "Updated chinese maps translations" ],
+		"1.6.35"  : [ "Fixed the translations and the commander bugs" ],
+		"1.6.34"  : [ "Updated chinese translation by Rindlit" ],
+		"1.6.33"  : [ "Fix revisit mechanics of Mineral Spring object from Highlands submod" ],
+		"1.6.32"  : [ "Updated chinese translation" ],
+		"1.6.31"  : [ "Removed Aine having inferno creatures in balance submod" ],
+		"1.6.30"  : [ "Adjusted Commanders stats" ],
+		"1.6.29"  : [ "Fix for Gazebo and Watering Place" ],
+		"1.6.28"  : [ "Fix some objects and banks apperances" ],
+		"1.6.27"  : [ "Added Horn of the Abyss artifact (Ben Yan)" ],
+		"1.6.26"  : [ "Added blockedVisitable / removable flags to some objects, especially on water" ],
+		"1.6.25"  : [ "Adjusted Sea Withces/Sorceresses/Haspids abilities" ],
+		"1.6.24"  : [ "Fixed unit selection highligh in exchange window" ],
+		"1.6.23"  : [ "Fixed loading of hota h3m maps in vcmi 1.4" ],
+		"1.6.22"  : [ "The new boats for Conflux and Neutrals are now actually used" ],
+		"1.6.21"  : [ "The damage of Armageddon spell reduced form 50*(spell power) + 30/30/60/120 to 40*(spell power) + 30/30/60/120" ],
+		"1.6.20"  : [ "The effect of Protection from Air, Protection from Fire, Protection from Water, and Protection from Earth spells increased from 30%30%50%50% to 50%50%75%75%" ],
+		"1.6.19"  : [ "Naga Bank gives gems instead of sulfur as a reward" ],
+		"1.6.18"  : [ "Deemer and Uland no longer start with advanced skills" ],
+		"1.6.17"  : [ "Cahnged Starting armies for heroes" ],
+		"1.6.16"  : [ "Added missing first aid probabilities to hero classes" ],
+		"1.6.15"  : [ "Removed some objects from RMG. Cartographer, hill fort, etc" ],
+		"1.6.14"  : [ "Polish translation by Dru" ],
+		"1.6.13"  : [ "Removed unavailable LAND type from terrains.", "Fixed Magic Shrine level 4 definitions", "Fixed miniHillFort templates for wasteland and highlands", "Fixed warlocks lab template" ],
+		"1.6.12"  : [ "Normalized submod names, to be more clear and look more consistent" ],
+		"1.6.11"  : [ "WoG MainMenu mod name updated in Conflicts section" ],
+		"1.6.10"  : [ "Fixed Water Spells damage imunity for Nymphs and Oceanids" ],
+		"1.6.9"   : [ "Small changes with some highlands and wastelands decorative objects" ],
+		"1.6.8"   : [ "Configured behavior for Junkman" ],
+		"1.6.7"   : [ "Configured behavior for Seafaring academy and Skeleton transformer" ],
+		"1.6.6"   : [ "Highlands and Wasteland terrain mods are 2 separate mods now" ],
+		"1.6.5"   : [ "Fixed graphical issues in previous version" ],
+		"1.6.4"   : [ "Added main menu theme", "Added fixed versions of creature icons" ],
+		"1.6.3"   : [ "Adjusted Kinkeria specialty" ],
+		"1.6.2"   : [ "Added Town Gate object", "Banned heroes with starting navigation skill" ],
+		"1.6.1"   : [ "Added support for HotA maps", "Added HotA maps" ],
+		"1.6.0"   : [ "Mod updated with data from latest HotA release", "Reorganized submods to more logical scheme", "Updated Cove puzzle map", "Updated portraits of Cove heroes" ],
+		"1.5.10"  : [ "Implemented new map objects", "Fixes to existing map objects" ],
+		"1.5.9"   : [ "Removed HotA fonts submod due to issues with different localizations" ],
+		"1.5.8"   : [ "Updated HotA balance changes" ],
+		"1.5.7"   : [ "Fixed configuration of several creature banks", "Added Ukrainian translation" ],
+		"1.5.6"   : [ "Mod updated for new bunus system" ],
+		"1.5.5"   : [ "Added / fixed Ancient Lamp, Sea Barrel, Shrine of Magic Mystery, Vial of mana and Jetsam." ],
+		"1.5.4"   : [ "Submod New Terrains was rewritten for new format" ],
+		"1.5.3"   : [ "Added 3 special terrains, added some missing decorations" ],
+		"1.5.2"   : [ "Disable unconfigured objects" ],
+		"1.5.1"   : [ "Updated new terrain configuration"],
+		"1.5.0"   : [ "Added warehouses", "Added ancient lamp", "Added magic colosseum", "Added sea barrel", "Update obstacles config to be compatible with 1.1.0" ],
+		"1.4.4"   : [ "Add missing battlefield obstacles" ],
+		"1.4.3"   : [ "Fix battlefield obstacles" ],
+		"1.4.2"   : [ "Update configs and restructure the mod" , "Campaign heroes submod was added" ],
+		"1.4.1"   : [ "Fixes for mine types" ],
+		"1.4.0"   : [ "Added higlands and wastelands terrains", "reworked Eovacius' specialty", "added two submods" ],
+		"1.3.5"   : [ "New features (Interference, new artifacts, Steel Golems)" ],
+		"1.3.22"   : [ "New hero specialty format" ],
+		"1.3.21"   : [ "Added Cannon war machine", "Fixed creature sounds", "Added Ironfist of the Ogre artifact", "Added HotA fonts", "Small fixes" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.5.0"
+	},
+	"chinese" : {
+		"name" : "深渊号角（HotA）",
+		"description" : "深渊号角（Horn of the Abyss）是《英雄无敌 III》的非官方资料片，由 Hota Crew制作，VCMI Team & edeksumo & avatar导入。该模组对原有的平衡性进行了调整，并增加了全新的阵营“港口”（Cove）和“工厂”（Factory），工厂族使用阿土的汉化文本。",
+		"translations" : [
+			"config/translation/hota/chinese/game.json",
+			"config/translation/hota/chinese/campaigns.json",
+			"config/translation/hota/chinese/maps.json"
+		]
+	},
+	"czech" : {
+		"name" : "Horn of the Abyss",
+		"description" : "Rozpracovaný port rozšíření Horn of the Abyss vytvořený týmem Hota Crew",
+		"translations" : [
+			"config/translation/hota/czech/game.json",
+			"config/translation/hota/czech/campaigns.json",
+			"config/translation/hota/czech/maps.json"
+		]
+	},
+	"german" : {
+		"name" : "Horn of the Abyss",
+		"description" : "In Arbeit befindliche Portierung der Erweiterung Horn of the Abyss erstellt durch Hota Crew",
+		"translations" : [
+			"config/translation/hota/german/game.json",
+			"config/translation/hota/german/campaigns.json",
+			"config/translation/hota/german/maps.json"
+		]
+	},
+	"polish" : {
+		"name" : "Horn of the Abyss",
+		"description" : "Trwają prace nad portem dodatku Horn of the Abyss stworzonego przez Hota Crew",
+		"translations" : [
+			"config/translation/hota/polish/game.json"
+		]
+	},
+	"ukrainian" : {
+		"name" : "Horn of the Abyss / Ріг Безодні",
+		"description" : "Поточна версія доповнення Horn of the Abyss (від команди Hota Crew)",
+		"translations" : [
+			"config/translation/hota/ukrainian.json",
+			"config/translation/hota/ukrainian_deepl.json"
+		]
+	},
+	"spanish" : {
+		"name" : "Horn of the Abyss",
+		"description" : "Spanish translation made by macomarivas",
+		"translations" : [
+			"config/translation/hota/spanish/game.json"
+		]
+	},
+	"russian" : {
+		"name" : "Horn of the Abyss / Рог бездны",
+		"description" : "Дополнение от Hota Crew, портированное на движок VCMI",
+		"translations" : [
+			"config/translation/hota/russian.json"
+		]
+	}
 }
