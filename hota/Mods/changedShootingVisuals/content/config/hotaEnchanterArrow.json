@@ -17,7 +17,7 @@
 		"gainChance":
 		{
 		},
-		"animation":{
+		"animation": {
 			"hit":["C20SPX"]
 		},
 		"flags" : {

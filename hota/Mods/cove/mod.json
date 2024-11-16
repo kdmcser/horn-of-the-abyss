@@ -40,7 +40,8 @@
 		"config/hota/cove/creatures/sorceress",
 		"config/hota/cove/creatures/stormbird",
 		"config/hota/cove/creatures/stackExperience",
-		"config/hota/cove/commander/blackbeard"
+		"config/hota/cove/commander/blackbeard",
+		"config/hota/cove/creatures/wiki"
 	],
 	"heroClasses" :
 	[

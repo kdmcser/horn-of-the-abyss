@@ -15,6 +15,7 @@
 	"heroes" :
 	[
 		"config/castle/heroes/beatrice",
+		"config/castle/heroes/lordHaart",
 		"config/necropolis/heroes/ranloo",
 		"config/fortress/heroes/kinkeria",
 		"config/bannedOnMapsWithoutWater/heroes/sylvia",

@@ -10,11 +10,12 @@
 				"val" : 1
 			}
 		},
-                "graphics" :
+        "graphics" :
 		{
 			"missile" :
 			{
 				"projectile": "C20SPX0.DEF"
 			}
+		}
 	}
 }

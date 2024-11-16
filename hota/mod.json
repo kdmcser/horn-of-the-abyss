@@ -6,9 +6,10 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.36",
+	"version" : "1.7.37",
 	"changelog" : 
 	{
+		"1.7.37"  : [ "Added Cove wiki descriptions", "Lord Haart is now available in random maps" ],
 		"1.7.36"  : [ "Enchanters use magic arrows as projectiles" ],
 		"1.7.35"  : [ "Additional miniHillFort messages: description and unavailable creature upgrade", "Changed the price for cartographer maps from 1000 to 10000 gold" ],
 		"1.7.34"  : [ "Moved objects description from name to standalone description", "Updated Czech translation" ],

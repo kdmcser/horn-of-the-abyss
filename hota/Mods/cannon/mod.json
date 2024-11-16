@@ -18,7 +18,8 @@
 	],
 	"creatures" :
 	[
-		"config/hotaCannon/cannonCreature.json"
+		"config/hotaCannon/cannonCreature.json",
+		"config/hotaCannon/wiki.json"
 	],
 	"objects" :
 	[
