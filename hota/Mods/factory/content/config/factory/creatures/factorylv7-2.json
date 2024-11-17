@@ -67,6 +67,10 @@
 			{
 				"type": "NON_LIVING"
 			},
+			"fireBreath" :
+			{
+				"type" : "WIDE_BREATH"
+			},
 			"noRetaliation" :
 			{
 				"type" : "BLOCKS_RETALIATION"
