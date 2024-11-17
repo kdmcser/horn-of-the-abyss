@@ -41,8 +41,8 @@
 			}
 		},
 		"doubleWide" : true,
-			"growth" : 1,
-			"hitPoints" : 160,
+		"growth" : 1,
+		"hitPoints" : 160,
 		"level": 7,
 		"upgrades" : [ "hotaCoutalUp" ],
 		"sound" :
@@ -57,10 +57,13 @@
 		"speed" : 11,
 		"abilities" :
 		{
-			"KING_1" : // Will be affected by Slayer with no expertise
+			"dragonNature" :
 			{
-				"type" : "KING",
-				"val": 0
+				"type" : "DRAGON_NATURE"
+			},
+			"canFly" :
+			{
+				"type" : "FLYING"
 			},
 			"castsymMeditation" :
 			{
@@ -68,18 +71,15 @@
 				"subtype" : "spell.meditation01",
 				"val" : 1
 			},
-			"dragonNature" :
-			{
-				"type" : "DRAGON_NATURE"
-			},
 			"castsCount" :
 			{
 				"type" : "CASTS",
 				"val" : 1
 			},
-			"canFly" :
+			"KING_1" : // Will be affected by Slayer with no expertise
 			{
-				"type" : "FLYING"
+				"type" : "KING",
+				"val": 0
 			}
 		},
 		"stackExperience" :

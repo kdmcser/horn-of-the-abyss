@@ -57,31 +57,19 @@
 		"speed" : 18,
 		"abilities" :
 		{
-			"blindImmunity" :
-			{
-				"type" : "SPELL_IMMUNITY",
-				"subtype" : "spell.blind",
-				"addInfo" : 1
-			},
-			"petrifyImmunity" :
-			{
-				"type" : "SPELL_IMMUNITY",
-				"subtype" : "spell.stoneGaze",
-				"addInfo" : 1
-			},
 			"noMorale" :
 			{
 				"type": "NO_MORALE"
+			},
+			"noRetaliation" :
+			{
+				"type" : "BLOCKS_RETALIATION"
 			},
 			"ephemeral" :
 			{
 				"type" : "ENCHANTED",
 				"subtype" : "spell.sandephemeral",
 				"val" : 1
-			},
-			"noRetaliation" :
-			{
-				"type" : "BLOCKS_RETALIATION"
 			},
 			"castsymMeditation" :
 			{
@@ -93,6 +81,18 @@
 			{
 				"type" : "CASTS",
 				"val" : 1
+			},
+			"blindImmunity" :
+			{
+				"type" : "SPELL_IMMUNITY",
+				"subtype" : "spell.blind",
+				"addInfo" : 1
+			},
+			"petrifyImmunity" :
+			{
+				"type" : "SPELL_IMMUNITY",
+				"subtype" : "spell.stoneGaze",
+				"addInfo" : 1
 			}
 		},
 		"stackExperience" :

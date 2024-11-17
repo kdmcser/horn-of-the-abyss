@@ -65,6 +65,10 @@
 		"speed" : 0,
 		"abilities" :
 		{
+			"warMachine" :
+			{
+				"type" : "SIEGE_WEAPON"
+			},
 			"shooter" :
 			{
 				"type" : "SHOOTER"
@@ -72,10 +76,6 @@
 			"canShootWalls" :
 			{
 				"type" : "CATAPULT"
-			},
-			"warMachine" :
-			{
-				"type" : "SIEGE_WEAPON"
 			},
 			"noRetaliation" :
 			{
