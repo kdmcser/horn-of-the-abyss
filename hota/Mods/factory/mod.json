@@ -36,6 +36,7 @@
 		"config/factory/creatures/factorylv7-1up.json",
 		"config/factory/creatures/factorylv7-2.json",
 		"config/factory/creatures/factorylv7-2up.json",
+		"config/factory/creatures/stackExperience",
 		"config/factory/creatures/factoryCommander.json"
 	],
 	
