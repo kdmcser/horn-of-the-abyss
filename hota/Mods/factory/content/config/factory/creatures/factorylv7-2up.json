@@ -57,21 +57,22 @@
 		"speed" : 7,
 		"abilities":
 		{
-			"KING_1" : // Will be affected by Slayer with no expertise
+			"nonliving" :
 			{
-				"type" : "KING",
-				"val": 0
-			},
-			"nonliving": {
 				"type": "NON_LIVING"
+			},
+			"fireBreath" :
+			{
+				"type" : "WIDE_BREATH"
 			},
 			"noRetaliation" :
 			{
 				"type" : "BLOCKS_RETALIATION"
 			},
-			"fireBreath" :
+			"KING_1" : // Will be affected by Slayer with no expertise
 			{
-				"type" : "WIDE_BREATH"
+				"type" : "KING",
+				"val": 0
 			}
 		},
 		"stackExperience" :

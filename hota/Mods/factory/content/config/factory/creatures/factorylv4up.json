@@ -60,6 +60,10 @@
 			{
 				"type": "NON_LIVING"
 			},
+			"noRetaliation" :
+			{
+				"type" : "BLOCKS_RETALIATION"
+			},
 			"castsymMeditation" :
 			{
 				"type" : "SPELLCASTER",
@@ -76,10 +80,6 @@
 			{
 				"type" : "CASTS",
 				"val" : 1
-			},
-			"noRetaliation" :
-			{
-				"type" : "BLOCKS_RETALIATION"
 			}
 		},
 		"stackExperience" :

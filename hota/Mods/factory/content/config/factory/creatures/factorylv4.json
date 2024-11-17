@@ -57,7 +57,8 @@
 		"speed" : 8,
 		"abilities" :
 		{
-			"nonliving": {
+			"nonliving" :
+			{
 				"type": "NON_LIVING"
 			},
 			"castsymMeditation" :
@@ -72,7 +73,7 @@
 				"subtype" : "spell.detonates01",
 				"val" : 25
 			},
-		"castsCount" :
+			"castsCount" :
 			{
 				"type" : "CASTS",
 				"val" : 1

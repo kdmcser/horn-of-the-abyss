@@ -29,11 +29,6 @@
 		},
 		"abilities" :
 		{
-			"KING_1" : // Will be affected by Slayer with no expertise
-			{
-				"type" : "KING",
-				"val" : 0
-			},
 			"dragonNature" : {
 				"type" : "DRAGON_NATURE"
 			},
@@ -42,6 +37,11 @@
 				"subtype" : "spell.poison",
 				"val" : 30,
 				"addInfo" : 0
+			},
+			"KING_1" : // Will be affected by Slayer with no expertise
+			{
+				"type" : "KING",
+				"val" : 0
 			}
 		},
 		"graphics" : {
