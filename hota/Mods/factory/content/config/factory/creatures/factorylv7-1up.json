@@ -80,66 +80,6 @@
 				"type" : "KING",
 				"val": 0
 			}
-		},
-		"stackExperience" :
-		[
-			{
-				"bonus" :
-				{
-					"subtype" : "primarySkill.attack",
-					"type" : "PRIMARY_SKILL"
-//					"valueType" : "BASE_NUMBER"
-				},
-				"values" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-			},	
-			{
-				"bonus" :
-				{
-					"subtype" : "primarySkill.defence",
-					"type" : "PRIMARY_SKILL"
-//					"valueType" : "BASE_NUMBER"
-				},
-				"values" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-			},
-			{
-				"bonus" :
-				{
-					"subtype" : "creatureDamageMax",
-					"type" : "CREATURE_DAMAGE"
-				},
-				"values" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-			},
-			{
-				"bonus" :
-				{
-					"subtype" : "creatureDamageMin",
-					"type" : "CREATURE_DAMAGE"
-				},
-				"values" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-			},
-			{
-				"bonus" : 
-				{ 
-					"type" : "HP_REGENERATION" 
-				},
-				"values" : [ 5,10, 15, 20, 25, 30, 35, 40, 45, 50 ]
-
-			},
-			{
-				"bonus" :
-				{
-				"subtype" : "spellSchool.fire",
-				"type" : "SPELL_SCHOOL_IMMUNITY"
-				},
-				"values" : [ false, false, false, false, false, false, false, false, false, true ]
-			},
-			{
-				"bonus" :
-				{
-					"type" : "STACKS_SPEED"
-				},
-				"values" : [ 0, 0, 0, 0, 1, 1, 1, 1, 1, 2 ]
-			}
-		]
+		}
 	}
 }
