@@ -563,7 +563,7 @@
 				[ "halfling", "halflingGrenadier" ],
 				[ "hotaMechanic", "hotaEngineer" ],
 				[ "armadillo", "bellwetherArmadillo" ],
-				[ "automaton", "automatonUp" ],
+				[ "automaton", "sentinelAutomaton" ],
 				[ "sandworm", "olgoiKhorkhoi" ],
 				[ "hotaGunman", "hotaGunmanUp" ],
 				[ "hotaCouatl", "hotaCoutalUp" ],

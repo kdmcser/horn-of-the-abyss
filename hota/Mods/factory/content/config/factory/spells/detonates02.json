@@ -37,7 +37,7 @@
 		
 		"targetCondition" : {
 			"anyOf" : {
-				"factory:creature.automatonUp":"absolute"
+				"factory:creature.sentinelAutomaton":"absolute"
 			}
 		},
  

@@ -44,7 +44,7 @@
 		"growth" : 5,
 		"hitPoints" : 30,
 		"level" : 4,
-		"upgrades": [ "automatonUp" ],
+		"upgrades": [ "sentinelAutomaton" ],
 		"sound" :
 		{
 			"attack": "factory/AUTOATTK.wav",
