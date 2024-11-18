@@ -565,7 +565,7 @@
 				[ "armadillo", "bellwetherArmadillo" ],
 				[ "automaton", "sentinelAutomaton" ],
 				[ "sandworm", "olgoiKhorkhoi" ],
-				[ "hotaGunman", "hotaGunmanUp" ],
+				[ "gunslinger", "bountyHunter" ],
 				[ "hotaCouatl", "hotaCoutalUp" ],
 				[ "hotaDread", "hotaJugger" ],
 				
@@ -692,7 +692,7 @@
 			],
 			"primaryResource" : "crystal",
 			"siege" : {
-				"shooter" : "hotaGunman",
+				"shooter" : "gunslinger",
 				"imagePrefix" : "factory/siege/SGFa",
 				"towerIconSmall" : "factory/icons/towerSmall",
 				"towerIconLarge" : "factory/icons/towerLarge",

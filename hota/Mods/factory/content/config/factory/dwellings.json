@@ -59,9 +59,9 @@
             },
             "factoryLevel6" : {
                 "name" : "Watchtower",
-                "creatures" : [[ "hotaGunman" ]],
+                "creatures" : [[ "gunslinger" ]],
                 "guards" : [
-                    { "amount" : 6, "type" : "hotaGunman" }
+                    { "amount" : 6, "type" : "gunslinger" }
                 ],
                 "templates" : {
                     "default" : {

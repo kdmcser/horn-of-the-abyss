@@ -566,7 +566,7 @@
 		]
 	},
 	
-	"hotaGunman" :
+	"gunslinger" :
 	{
 		"stackExperience" :
 		[
@@ -646,7 +646,7 @@
 		]
 	},
 
-	"hotaGunmanUp" :
+	"bountyHunter" :
 	{
 		"stackExperience" :
 		[

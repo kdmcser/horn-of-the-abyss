@@ -52,7 +52,7 @@
 		],
 		
 		"specialty" : {
-			"creature" : "hotaGunman"
+			"creature" : "gunslinger"
 		}
 	}
 }
