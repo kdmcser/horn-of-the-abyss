@@ -45,7 +45,7 @@
 		"growth" : 1,
 		"hitPoints" : 200,
 		"level": 7,
-		"upgrades" : [ "hotaJugger" ],
+		"upgrades" : [ "hotaJuggernaut" ],
 		"sound" :
 		{
 			"attack" : "factory/DREDATTK.wav",
