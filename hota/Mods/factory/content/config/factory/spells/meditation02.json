@@ -28,7 +28,7 @@
  
 		"targetCondition" : {
 			"anyOf" : {
-				"factory:creature.hotaCoutalUp":"absolute"
+				"factory:creature.crimsonCouatl":"absolute"
 			}
 		},
 		

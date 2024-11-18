@@ -44,7 +44,7 @@
 		"growth" : 1,
 		"hitPoints" : 160,
 		"level": 7,
-		"upgrades" : [ "hotaCoutalUp" ],
+		"upgrades" : [ "crimsonCouatl" ],
 		"sound" :
 		{
 			"attack" : "factory/COTLATTK.wav",
