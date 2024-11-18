@@ -85,9 +85,9 @@
             },
 			"factoryLevel7-2" : {
                 "name" : "Gantry",
-                "creatures" : [[ "hotaDread" ]],
+                "creatures" : [[ "hotaDreadnought" ]],
                 "guards" : [
-                    { "amount" : 3, "type" : "hotaDread" }
+                    { "amount" : 3, "type" : "hotaDreadnought" }
                 ],
                 "templates" : {
                     "default" : {
