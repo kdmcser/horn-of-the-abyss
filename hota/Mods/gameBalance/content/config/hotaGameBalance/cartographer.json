@@ -1,6 +1,5 @@
 {
 	"core:cartographer" : {
-		"name": "Cartographer",
 		"handler": "configurable",
 		"base" : {
 			"sounds" : {
@@ -35,7 +34,6 @@
 				
 			},
 			"cartographerLand" : {
-
 				"aiValue": 10000,
 				"rmg" : {
 					"zoneLimit" : 1,
@@ -64,7 +62,6 @@
 
 			},
 			"cartographerSubterranean" : {
-				
 				"aiValue" : 7500,
 				"rmg" : {
 					"zoneLimit" : 1,
