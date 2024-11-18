@@ -1,5 +1,5 @@
 {
-  "hotaGunman": {
+  "gunslinger": {
     "name": {
       "plural": "Gunslingers",
       "singular": "Gunslinger"
@@ -63,7 +63,7 @@
 	"speed": 7,
 	"upgrades":
 		[
-			"hotaGunmanUp"
+			"bountyHunter"
 		],
 	"abilities": {
 		"shooter" :

@@ -253,7 +253,7 @@
 		]
 	},
 	
-	"armadilloUp" :
+	"bellwetherArmadillo" :
 	{
 		"stackExperience" :
 		[
@@ -372,7 +372,7 @@
 		]
 	},
 	
-	"automatonUp" :
+	"sentinelAutomaton" :
 	{
 		"stackExperience" :
 		[
@@ -566,7 +566,7 @@
 		]
 	},
 	
-	"hotaGunman" :
+	"gunslinger" :
 	{
 		"stackExperience" :
 		[
@@ -646,7 +646,7 @@
 		]
 	},
 
-	"hotaGunmanUp" :
+	"bountyHunter" :
 	{
 		"stackExperience" :
 		[
@@ -790,7 +790,7 @@
 		]
 	},
 
-	"hotaCoutalUp" :
+	"crimsonCouatl" :
 	{
 		"stackExperience" :
 		[
@@ -854,7 +854,7 @@
 		]
 	},
 
-	"hotaDread" :
+	"hotaDreadnought" :
 	{
 		"stackExperience" :
 		[
@@ -918,7 +918,7 @@
 		]
 	},
 
-	"hotaJugger" :
+	"hotaJuggernaut" :
 	{
 		"stackExperience" :
 		[

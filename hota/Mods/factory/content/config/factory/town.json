@@ -562,12 +562,12 @@
 			"creatures" : [
 				[ "halfling", "halflingGrenadier" ],
 				[ "hotaMechanic", "hotaEngineer" ],
-				[ "armadillo", "armadilloUp" ],
-				[ "automaton", "automatonUp" ],
+				[ "armadillo", "bellwetherArmadillo" ],
+				[ "automaton", "sentinelAutomaton" ],
 				[ "sandworm", "olgoiKhorkhoi" ],
-				[ "hotaGunman", "hotaGunmanUp" ],
-				[ "hotaCouatl", "hotaCoutalUp" ],
-				[ "hotaDread", "hotaJugger" ],
+				[ "gunslinger", "bountyHunter" ],
+				[ "hotaCouatl", "crimsonCouatl" ],
+				[ "hotaDreadnought", "hotaJuggernaut" ],
 				
 				
 			],
@@ -692,7 +692,7 @@
 			],
 			"primaryResource" : "crystal",
 			"siege" : {
-				"shooter" : "hotaGunman",
+				"shooter" : "gunslinger",
 				"imagePrefix" : "factory/siege/SGFa",
 				"towerIconSmall" : "factory/icons/towerSmall",
 				"towerIconLarge" : "factory/icons/towerLarge",

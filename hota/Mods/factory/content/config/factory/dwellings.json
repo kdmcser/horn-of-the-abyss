@@ -59,9 +59,9 @@
             },
             "factoryLevel6" : {
                 "name" : "Watchtower",
-                "creatures" : [[ "hotaGunman" ]],
+                "creatures" : [[ "gunslinger" ]],
                 "guards" : [
-                    { "amount" : 6, "type" : "hotaGunman" }
+                    { "amount" : 6, "type" : "gunslinger" }
                 ],
                 "templates" : {
                     "default" : {
@@ -85,9 +85,9 @@
             },
 			"factoryLevel7-2" : {
                 "name" : "Gantry",
-                "creatures" : [[ "hotaDread" ]],
+                "creatures" : [[ "hotaDreadnought" ]],
                 "guards" : [
-                    { "amount" : 3, "type" : "hotaDread" }
+                    { "amount" : 3, "type" : "hotaDreadnought" }
                 ],
                 "templates" : {
                     "default" : {
