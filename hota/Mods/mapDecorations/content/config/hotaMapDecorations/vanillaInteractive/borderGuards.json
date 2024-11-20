@@ -11,9 +11,9 @@
 					}
 				}
 			},
-			"avxwbor1" :  { 
+			"green" :  { 
 				"templates" : {
-					"avxwgtgr" : {
+					"avxwbor1" : {
 						"animation" : "hota/borderGates/avxwbor1",
 						"mask" : [ "VV", "VA" ],
 						"visitableFrom" : [ "+++", "-+-", "+++" ],
