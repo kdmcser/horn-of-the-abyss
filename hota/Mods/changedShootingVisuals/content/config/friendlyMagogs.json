@@ -14,6 +14,10 @@
 	{
 		"abilities#override":
 		{
+			"shooter" :
+			{
+				"type" : "SHOOTER"
+			},
 			"fireball2" :
 			{
 				"type" : "SPELL_LIKE_ATTACK",
