@@ -6,7 +6,6 @@
 			"junkman" : {
 				"name" : "Junkman",
 				"description" : "(Artifacts except Spell Scrolls may be sold to Junkman (at the efficiency of 7 markets))",
-				"title" : "Junkman",
 				"speech" : "",
 				"modes" : ["artifact-resource"],
 				"efficiency" : 7,

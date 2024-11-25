@@ -13,7 +13,6 @@
 					"visit" : ["MYSTERY"]
 				},
 				"modes" : ["creature-undead"],
-				"title" : "Skeleton Transformer",
 				"efficiency" : 5,
 				"templates" : {
 					"AVXsktrs" : { "animation" : "hota/skeletonTransformer/AVXsktrs", 
