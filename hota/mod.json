@@ -6,9 +6,11 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.37",
+	"version" : "1.7.39",
 	"changelog" : 
 	{
+		"1.7.39"  : [ "Added hero movement arrow submod", "Seafaring Academy, Skeleton Transformer and Junkman fixes for translations", "Updated Czech and Chinese translation" ],
+		"1.7.38"  : [ "Use actual names for Factory creatures", "Ability fixes" ],
 		"1.7.37"  : [ "Added Cove wiki descriptions", "Lord Haart is now available in random maps" ],
 		"1.7.36"  : [ "Enchanters use magic arrows as projectiles" ],
 		"1.7.35"  : [ "Additional miniHillFort messages: description and unavailable creature upgrade", "Changed the price for cartographer maps from 1000 to 10000 gold" ],
