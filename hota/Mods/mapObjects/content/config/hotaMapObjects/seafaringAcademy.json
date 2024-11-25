@@ -4,18 +4,17 @@
 		"handler":"market",
 		"types" : {
 			"seafaringAcademy" : {
-				"title" : "Seafaring Academy",
 				"speech" : "Flapping sails and screeching ropes are music for the ears of those who graduated this ancient Academy. A midshipman can master the following skills here.",
 				"modes" : ["resource-skill"],
 				"efficiency" : 5,
-				"offer" : ["navigation", "navigation", {}, {}],
+				"offer" : [	"navigation", { }, { }, { } ],
 				"aiValue" : 1000,
 				"rmg" : {
 					"value"		: 8000,
 					"rarity"	: 20,
 					"zoneLimit" : 1
 				},
-				"blockVisitable": true,
+				"blockedVisitable": true,
 				"sounds" : {
 					"visit" : ["hota/ACADEMYV"]
 				},
