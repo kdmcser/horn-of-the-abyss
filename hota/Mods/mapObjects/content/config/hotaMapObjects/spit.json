@@ -23,7 +23,7 @@
 					"value"		: 1500,
 					"rarity"	: 100
 				},
-				"blockedVisitable": true,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : "You stand in front of an entrance to a mossy, overgrown residence. You hear creeks and growling from inside. Dare to enter?",
 				"onVisitedMessage" : "Somebody was here before you, and the treasury was pillaged.",
 				"visitMode" : "once",

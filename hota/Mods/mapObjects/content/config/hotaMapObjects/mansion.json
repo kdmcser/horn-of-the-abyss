@@ -23,7 +23,7 @@
 					"value"		: 5000,
 					"rarity"	: 50
 				},
-				"blockedVisitable": true,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : "An ancient mansion is in front of you. It did not lose its former splendor yet. Looks like nobody is here. Would you dare to enter?",
 				"onVisitedMessage" : "This mansion did not lose its former splendor yet, however there is nothing of value inside.",
 				"visitMode" : "once",

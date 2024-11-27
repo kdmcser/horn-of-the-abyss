@@ -7,7 +7,7 @@
 			{
 				"name" : "Black Tower",
 //				"regularUnitPlacement" : true,
-				"blockedVisitable": true,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : "You stand in front of a dragon's dwelling. The vicious creature is terrorising the surrounding lands. Would you like to battle it?",
 				"onVisitedMessage" : "A dragon once lived in this tower, however now it is empty and holds nothing of interest.",
 				"visitMode" : "once",
