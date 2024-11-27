@@ -23,7 +23,7 @@
 					"value"		: 2500,
 					"rarity"	: 100
 				},
-				"blockedVisitable": true,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : 32,
 				"onVisitedMessage" : 33,
 				"visitMode" : "once",

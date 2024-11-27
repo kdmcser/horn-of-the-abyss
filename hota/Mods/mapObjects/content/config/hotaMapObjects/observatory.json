@@ -19,7 +19,7 @@
 						"bonuses" : [ { "type" : "SIGHT_RADIUS", "val" : 2, "valueType" : "BASE_NUMBER", "duration" : "ONE_WEEK" } ]
 					}
 				],
-				"blockedVisitable" : true, // TODO: recheck HotA
+				"blockedVisitable" : false,
 				"onVisitedMessage": "{Observatory}\r\n\r\nThe astronomer is absent from his tower. A note posted on the door reads: \"Will be back in a week\".",
 				"canRefuse": false,
 				"visitMode" : "hero",

@@ -5,7 +5,7 @@
 		"types" : {
 			"ancientLamp" : 
 			{
-				"blockedVisitable": true,
+				"blockedVisitable" : true,
 				"removable": true,
 				"name": "Ancient Lamp",
 				"description": "Allows you to recruit 4-7 Master Genie once.",

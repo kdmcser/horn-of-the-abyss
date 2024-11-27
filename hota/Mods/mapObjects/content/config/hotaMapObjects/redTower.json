@@ -24,7 +24,7 @@
 					"rarity"	: 20,
 					"zoneLimit" : 1
 				},
-				"blockedVisitable": true,
+				"blockedVisitable" : false,
 				"onGuardedMessage" : "The captured Firebirds will serve you gladly. Would you like to fight the guards?",
 				"onVisitedMessage" : "Firebirds were once kept captive here, however now the place is abandoned.",
 				"visitMode" : "once",
