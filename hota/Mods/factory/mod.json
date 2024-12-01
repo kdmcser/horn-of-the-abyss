@@ -8,7 +8,7 @@
 	"modType" : "Town",	
 	
 	"depends" : ["hota.wastelandTerrain","hota.cove"], 
-	
+	"softDepends" : [ "hota.newgraphics" ],
     "factions" : [ "config/factory/town" ],
 	
 	"chinese" :
