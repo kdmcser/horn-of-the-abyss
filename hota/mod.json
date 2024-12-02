@@ -9,7 +9,7 @@
 	"version" : "1.7.41",
 	"changelog" : 
 	{
-		"1.7.41"  : [ "Added Templates submod", "Added WoG soft-depency" ],
+		"1.7.41"  : [ "Added Templates submod", "Added soft-depencies" ],
 		"1.7.40"  : [ "Fixed blockedVisitable attribute" ],
 		"1.7.39"  : [ "Added hero movement arrow submod", "Seafaring Academy, Skeleton Transformer and Junkman fixes for translations", "Updated Czech and Chinese translation" ],
 		"1.7.38"  : [ "Use actual names for Factory creatures", "Ability fixes" ],
