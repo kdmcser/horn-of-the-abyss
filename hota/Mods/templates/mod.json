@@ -1,0 +1,24 @@
+{
+    "name" : "HotA templates",
+
+    "description" : "Some templates that come from HotA",
+
+    "author" : "Olegmods.INC",
+
+    "licenseName" : "Creative Commons Attribution-ShareAlike",
+
+    "licenseURL" : "https://creativecommons.org/licenses/by-sa/4.0/",
+
+    "contact" : "vcmi.eu",
+
+    "modType" : "Templates",
+	
+	"version" : "1.0",
+ 
+    "changelog" :
+    {
+        "1.0"    : [ "Initial release", "Nostalgia template"]
+    },
+
+	
+}
