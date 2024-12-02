@@ -7,6 +7,10 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"version" : "1.3.6",
+	"softDepends" :
+	[
+		"ab-bad-ending-assets"
+	],
 	"chinese" :
 	{
 		"name" : "城镇和生物的新冒险地图图像",
