@@ -6,10 +6,11 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.41",
+	"version" : "1.7.42",
 	"changelog" : 
 	{
-		"1.7.41"  : [ "Added Templates submod", "Added soft-depencies" ],
+		"1.7.42"  : [ "Added Templates submod", "Added soft-depencies" ],
+		"1.7.41"  : [ "Templates submod added" ],
 		"1.7.40"  : [ "Fixed blockedVisitable attribute" ],
 		"1.7.39"  : [ "Added hero movement arrow submod", "Seafaring Academy, Skeleton Transformer and Junkman fixes for translations", "Updated Czech and Chinese translation" ],
 		"1.7.38"  : [ "Use actual names for Factory creatures", "Ability fixes" ],
