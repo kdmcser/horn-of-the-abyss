@@ -18,8 +18,8 @@
 	"templates" : [ "hota nostalgia.json", "jebus outcast" ],
     "changelog" :
     {
-        "1.0"    : [ "Initial release", "Nostalgia template"]
-        "1.1"    : [ "Initial release", "Jebus Outcast prototype added"]
+        "1.0"    : [ "Initial release", "Nostalgia template"],
+        "1.1"    : [ "Jebus Outcast prototype added"]
     },
 
 	
