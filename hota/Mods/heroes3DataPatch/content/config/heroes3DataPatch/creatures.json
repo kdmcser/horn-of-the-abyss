@@ -1,13 +1,7 @@
 {
 	"core:goldGolem" :
 	{
-		"sound" :
-		{
-			"attack": "GGLMATTK.wav",
-			"defend": "GGLMDFND.wav",
-			"killed": "GGLMDETH.wav",
-			"move": "GGLMMOVE.wav",
-			"wince": "GGLMWNCE.wav"
-		}
-	}
+		// Suport for alternate Death sound (GGLMDETH.wav) not present in VCMI
+		// "kill2" : "GGLMDETH.wav"
+	} 
 }
