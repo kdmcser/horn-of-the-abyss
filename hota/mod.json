@@ -9,7 +9,7 @@
 	"version" : "1.7.43",
 	"changelog" : 
 	{
-	        "1.7.43"  : [ "Template fixes" ]
+		"1.7.43"  : [ "Template fixes" ],
 		"1.7.42"  : [ "Added Templates submod", "Added soft-depencies" ],
 		"1.7.41"  : [ "Templates submod added" ],
 		"1.7.40"  : [ "Fixed blockedVisitable attribute" ],
