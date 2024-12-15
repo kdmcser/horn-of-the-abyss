@@ -41,11 +41,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 0, "max" : 30 },
 						"guards": [
-							{ "amount": 5, "type" : "steelGolem" },
-							{ "amount": 5, "type" : "steelGolem" },
-							{ "amount": 5, "type" : "steelGolem" },
-							{ "amount": 5, "type" : "steelGolem" },
-							{ "amount": 5, "type" : "steelGolem" }
+							{ "amount": 4, "type" : "steelGolem" },
+							{ "amount": 4, "type" : "steelGolem" },
+							{ "amount": 4, "type" : "steelGolem" },
+							{ "amount": 4, "type" : "steelGolem" },
+							{ "amount": 4, "type" : "steelGolem" }
 						],
 						"creatures": [ { "amount": 1, "type": "giant" } ]
 					},
@@ -53,11 +53,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 30, "max" : 60 },
 						"guards": [
-							{ "amount": 10, "type" : "steelGolem" },
-							{ "amount": 10, "type" : "steelGolem" },
-							{ "amount": 10, "type" : "steelGolem" },
-							{ "amount": 10, "type" : "steelGolem" },
-							{ "amount": 10, "type" : "steelGolem" }
+							{ "amount": 8, "type" : "steelGolem" },
+							{ "amount": 8, "type" : "steelGolem" },
+							{ "amount": 8, "type" : "steelGolem" },
+							{ "amount": 8, "type" : "steelGolem" },
+							{ "amount": 8, "type" : "steelGolem" }
 						],
 						"creatures": [ { "amount": 2, "type": "giant" } ]
 					},
@@ -65,11 +65,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 60, "max" : 90 },
 						"guards": [
-							{ "amount": 15, "type" : "steelGolem" },
-							{ "amount": 15, "type" : "steelGolem" },
-							{ "amount": 15, "type" : "steelGolem" },
-							{ "amount": 15, "type" : "steelGolem" },
-							{ "amount": 15, "type" : "steelGolem" }
+							{ "amount": 12, "type" : "steelGolem" },
+							{ "amount": 12, "type" : "steelGolem" },
+							{ "amount": 12, "type" : "steelGolem" },
+							{ "amount": 12, "type" : "steelGolem" },
+							{ "amount": 12, "type" : "steelGolem" }
 						],
 						"creatures": [ { "amount": 3, "type": "giant" } ]
 					},
@@ -77,11 +77,11 @@
 						"message" : 34,
 						"appearChance" : { "min" : 90, "max" : 100 },
 						"guards": [
-							{ "amount": 20, "type" : "steelGolem" },
-							{ "amount": 20, "type" : "steelGolem" },
-							{ "amount": 20, "type" : "steelGolem" },
-							{ "amount": 20, "type" : "steelGolem" },
-							{ "amount": 20, "type" : "steelGolem" }
+							{ "amount": 16, "type" : "steelGolem" },
+							{ "amount": 16, "type" : "steelGolem" },
+							{ "amount": 16, "type" : "steelGolem" },
+							{ "amount": 16, "type" : "steelGolem" },
+							{ "amount": 16, "type" : "steelGolem" }
 						],
 						"creatures": [ { "amount": 4, "type": "giant" } ]
 					}
