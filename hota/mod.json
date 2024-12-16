@@ -9,7 +9,8 @@
 	"version" : "1.7.45",
 	"changelog" : 
 	{
-                "1.7.45"  : [ "Updated polish translation for factory,map objects and some fixes in polish translation by FallainBlack" ],
+    "1.7.45"  : [ "Updated polish translation for factory,map objects and some fixes in polish translation by FallainBlack" ],
+		"1.7.44"  : [ "Fixed guards quantities in Red Tower and Experimental Shop", "Fixed visidMode in Gazebo", "Nerf Slow in gameBalance submod", "Fixed masks in some two-way monoliths", "Fixed some starting spells" ],
 		"1.7.43"  : [ "Template fixes" ],
 		"1.7.42"  : [ "Added Templates submod", "Added soft-depencies" ],
 		"1.7.41"  : [ "Templates submod added" ],

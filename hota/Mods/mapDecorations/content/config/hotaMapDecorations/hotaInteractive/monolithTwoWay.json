@@ -87,7 +87,7 @@
 				"templates" : {
 					"AVXmn12b" : { 
 						"animation" : "hota/monoliths/AVXmn12b", 
-						"mask" : [ "VV", "VA" ],
+						"mask" : [ "VV", "AB" ],
 						"visitableFrom" : [ "---", "+++", "+++" ]
 					}
 				}
@@ -117,7 +117,7 @@
 				"templates" : {
 					"AVXmn19p" : {
 						"animation" : "hota/monoliths/AVXmn19p", 
-						"mask" : [ "VV", "VA" ],
+						"mask" : [ "VV", "AB" ],
 						"visitableFrom" : [ "---", "+++", "+++" ]
 					}
 				}
