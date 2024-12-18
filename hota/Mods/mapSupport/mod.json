@@ -1,5 +1,5 @@
 {
-	"name" : "Map format support",
+	"name" : "Map format support (HotA)",
 	"description" : "This mod contains support files needed for loading maps in 'Horn of the Abyss' format in VCMI", 
 	"modType" : "Other",
 	"author": "Ivan",
