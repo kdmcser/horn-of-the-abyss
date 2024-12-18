@@ -22,10 +22,13 @@
 		"small-era-mods.new terrains",
 		"tides-of-war"
 	],
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "英雄无敌3数据补丁",
 		"description" : "修复改进一些死亡阴影图像和声音资源。",
+	},
+	"czech" : {
+		"name": "Oprava grafiky pro Heroes 3",
+		"description": "Opravy grafiky a zvuků pro některé herní prvky z Heroes 3."
 	},
 	"factions" :
 	[

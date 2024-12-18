@@ -20,9 +20,12 @@
 			"startingDwellingChances": [ 100, 100 ] 
 		}
 	},
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "减少初始随机",
 		"description" : "英雄总是拥有全部的初始军队（包括战争机器），不会缺少任一部队。拥有要塞的城镇总是默认建有二级巢穴。",
+	},
+	"czech" : {
+		"name" : "Méně náhodný start",
+		"description" : "Hrdinové s počáteční armádou vždy mají všechny jednotky a bojový stroj, bez možnosti, že by některá z nich chyběla. Města s tvrzí mají vždy automaticky postavené obydlí pro jednotky 2. úrovně."
 	}
 }
