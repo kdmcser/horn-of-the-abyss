@@ -6,9 +6,13 @@
 	"contact" : "",
 	"version" : "1.0",
 	"depends" : [ "hota.cove" ],
-	"chinese" :
-	{
+	
+	"chinese" :	{
 		"name" : "港口主题音乐（英雄乐团）",
-		"description" : "由英雄乐团改编的英雄无敌3城镇和战斗的管弦乐曲。",
+		"description" : "由英雄乐团改编的英雄无敌3城镇和战斗的管弦乐曲。"
+	},
+	"czech" : {
+		"name" : "Hudební téma Zátoky",
+		"description" : "Orchestrální hudba Zátoky v úpravě od Heroes Orchestra."
 	}
 }

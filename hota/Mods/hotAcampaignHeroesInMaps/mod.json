@@ -14,10 +14,13 @@
 	[
 		"hota.cove"
 	],
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "HotA战役英雄地图支持",
-		"description" : "在随机地图上解锁彼得利和塔克。",
+		"description" : "在随机地图上解锁彼得利和塔克。"
+	},
+	"czech" : {
+		"name" : "Hrdinové kampaně",
+		"description" : "Přidává nové hrdiny Bidley a Tark do náhodných map"
 	},
 	"heroes" :
 	[

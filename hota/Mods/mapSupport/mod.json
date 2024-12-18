@@ -23,6 +23,17 @@
 		"hota.highlandsterrain",
 		"hota.wastelandterrain"
 	],
+
+	"chinese" : {
+		"name" : "地图格式支持",
+		"description" : "这个模组包含在VCMI中加载深渊号角地图格式所需的全部文件。"
+	},
+
+	"czech" : {
+		"name": "Podpora formátu map (HotA)",
+		"description": "Tato modifikace přidává podporu načítání map ve formátu 'Horn of the Abyss'"
+	},
+
 	"settings": {
 		"mapFormat" : {
 			"hornOfTheAbyss" : {
@@ -932,10 +943,5 @@
 				}
 			}
 		}
-	},
-	"chinese" :
-	{
-		"name" : "地图格式支持",
-		"description" : "这个模组包含在VCMI中加载深渊号角地图格式所需的全部文件。",
 	}
 }

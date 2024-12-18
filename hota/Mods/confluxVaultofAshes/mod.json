@@ -5,10 +5,13 @@
 	"author": "Graphics: HotA Crew, mod: Kuririn & avatar",
 	"contact": "http://forum.df2.ru/index.php?showtopic=32286",
 	"version" : "1.3.6",
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "元素城 - 灰烬穹顶",
-		"description" : "这个模组为元素城添加了一个新建筑：灰烬穹顶，使火鸟和凤凰的产量+1。",
+		"description" : "这个模组为元素城添加了一个新建筑：灰烬穹顶，使火鸟和凤凰的产量+1。"
+	},
+	"czech" : {
+		"name" : "Soutok - Síň uren",
+		"description" : "Tato modifikace přidává novou budovu do Soutoku. Síň uren zvyšuje produkci Ohniváků a Fénixů o 1 týdně."
 	},
 	"factions" :
 	[

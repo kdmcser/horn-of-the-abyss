@@ -1,6 +1,6 @@
 {
-	"name" : "Factory Town",
-	"description" : "New town from HotA 1.7",
+	"name" : "Factory",
+	"description" : "New town Factory with steampunk theme",
 	
 	"author" : "HotA Crew, transplanted by Ben",
 	"contact" : "http://forum.vcmi.eu/index.php",
@@ -9,14 +9,20 @@
 	
 	"depends" : ["hota.wastelandTerrain","hota.cove"], 
 	"softDepends" : [ "hota.newgraphics" ],
-    "factions" : [ "config/factory/town" ],
 	
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "工厂种族",
-		"description" : "由HotA团队制作的新种族，由刚出圣龙移植。",
+		"description" : "由HotA团队制作的新种族，由刚出圣龙移植。"
 	},
-
+	"czech" : {
+		"name" : "Továrna",
+		"description" : "Nové město Továrna se steampunkovou tématikou"
+	},
+	
+	"factions" : 
+	[
+		"config/factory/town" 
+	],
 	"creatures" :
 	[
 		"config/factory/creatures/factorylv1.json",

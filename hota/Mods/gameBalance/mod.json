@@ -65,7 +65,7 @@
 	},
 	"czech" : {
 		"name" : "Vyvážení hry",
-		"description" : "Zlepšení vyvážení provedené týmem HotA pro rozšíření Horn of The Abyss.",
+		"description" : "Zlepšené vyvážení hry provedené týmem HotA pro rozšíření Horn of The Abyss.",
 		"translations" : [
 			"translation/czech.json"
 		]
