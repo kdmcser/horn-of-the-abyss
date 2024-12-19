@@ -6,7 +6,7 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.45",
+	"version" : "1.7.46",
 	"changelog" : 
 	{
 		"1.7.46"  : [ "Bump minimum VCMI version to 1.6.0, game balance submod: allow area shooters target empty hex" ],
