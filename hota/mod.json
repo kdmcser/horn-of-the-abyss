@@ -9,7 +9,8 @@
 	"version" : "1.7.45",
 	"changelog" : 
 	{
-    "1.7.45"  : [ "Updated polish translation for factory,map objects and some fixes in polish translation by FallainBlack" ],
+		"1.7.46"  : [ "Bump minimum VCMI version to 1.6.0, game balance submod: allow area shooters target empty hex" ],
+		"1.7.45"  : [ "Updated polish translation for factory,map objects and some fixes in polish translation by FallainBlack" ],
 		"1.7.44"  : [ "Fixed guards quantities in Red Tower and Experimental Shop", "Fixed visidMode in Gazebo", "Nerf Slow in gameBalance submod", "Fixed masks in some two-way monoliths", "Fixed some starting spells" ],
 		"1.7.43"  : [ "Template fixes" ],
 		"1.7.42"  : [ "Added Templates submod", "Added soft-depencies" ],
@@ -100,7 +101,6 @@
 		"1.3.5"   : [ "New features (Interference, new artifacts, Steel Golems)" ],
 		"1.3.22"  : [ "New hero specialty format" ],
 		"1.3.21"  : [ "Added Cannon war machine", "Fixed creature sounds", "Added Ironfist of the Ogre artifact", "Added HotA fonts", "Small fixes" ],
-		"1.3.22"  : [ "Bump minimum version to 1.6.0, game balance submod: allow area shooters target empty hex" ]
 	},
 	"compatibility" :
 	{
