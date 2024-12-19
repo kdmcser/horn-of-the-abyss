@@ -11,15 +11,15 @@
 			"accumulateWhenOwned" : true
 		},
 		"combat": {
-			"badLuckDice" : [ 12, 6, 4 ]
+			"badLuckDice" : [ 12, 6, 4 ],
+			"areaShotCanTargetEmptyHex" : true
 		},
 		"pathfinder" : {
 			"originalFlyRules" : false
 		},
 		"spells": {
 			"dimensionDoorFailureSpendsPoints" : false,
-			"dimensionDoorTriggersGuards" : true,
-			"areaShotCanTargetEmptyHex" : true
+			"dimensionDoorTriggersGuards" : true
 		}
 	},
 	"factions" :
