@@ -11,6 +11,10 @@
 	[
 		"ab-bad-ending-assets"
 	],
+	"conflicts" :
+	[
+		"hd_version"
+	],
 	"chinese" :
 	{
 		"name" : "城镇和生物的新冒险地图图像",
