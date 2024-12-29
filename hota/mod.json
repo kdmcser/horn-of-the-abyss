@@ -145,8 +145,7 @@
 		"name" : "Horn of the Abyss / Ріг Безодні",
 		"description" : "Поточна версія доповнення Horn of the Abyss (від команди Hota Crew)",
 		"translations" : [
-			"config/translation/hota/ukrainian.json",
-			"config/translation/hota/ukrainian_deepl.json"
+			"config/translation/hota/ukrainian.json"
 		]
 	},
 	"spanish" : {
