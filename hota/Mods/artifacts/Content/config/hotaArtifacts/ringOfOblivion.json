@@ -6,6 +6,14 @@
 		"value" : 7500,
 		"bonuses" : [
 			{
+				"type" : "GARGOYLE",
+				"propagator": "BATTLE_WIDE"
+			},
+			{
+				"type": "DISINTEGRATE",
+				"propagator": "BATTLE_WIDE"
+			},
+			{
 				"type" : "SPELL_IMMUNITY",
 				"subtype" : "spell.sacrifice",
 				"valueType" : "BASE_NUMBER",
@@ -22,6 +30,13 @@
 			{
 				"type" : "SPELL_IMMUNITY",
 				"subtype" : "spell.resurrection",
+				"valueType" : "BASE_NUMBER",
+				"val" : 0,
+				"propagator": "BATTLE_WIDE"
+			},
+			{
+				"type" : "SPELL_IMMUNITY",
+				"subtype" : "spell.hotaRepair",
 				"valueType" : "BASE_NUMBER",
 				"val" : 0,
 				"propagator": "BATTLE_WIDE"

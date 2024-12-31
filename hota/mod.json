@@ -5,9 +5,11 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.48",
+	"version" : "1.7.50",
 	"changelog" : 
 	{
+		"1.7.50"  : [ "Added supplementry mod by Ben. Including new artifacts from hota campaign, lightning generators and kangaroos." ],
+		"1.7.49"  : [ "Fix some problems in Factory, and add many features from HotA 1.70" ],
 		"1.7.48"  : [ "Fix Cove Grail not to produce gold" ],
 		"1.7.47"  : [ "Updated ukrainian translation by MyroSlave" ],
 		"1.7.46"  : [ "Bump minimum VCMI version to 1.6.0, game balance submod: allow area shooters target empty hex" ],

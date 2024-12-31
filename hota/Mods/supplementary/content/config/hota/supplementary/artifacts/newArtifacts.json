@@ -1,0 +1,155 @@
+{
+	"hollowEye" : {
+		"type" : [ "HERO" ],
+		"slot" : "MISC",
+		"class" : "MAJOR",
+		"value" : 7500,
+		"bonuses" : [
+			{
+				"subtype" : "spell.blind",
+				"type" : "SPELL_IMMUNITY",
+				"val" : 0,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"type" : "SIGHT_RADIUS",
+				"val" : 2,
+				"valueType" : "BASE_NUMBER"
+			}
+		],
+		"graphics" : {
+			"image" : "hota/supplementary/artifacts/hollowEye",
+			"map" : "hota/supplementary/artifacts/hollowEyeMap",
+			"large" : "hota/supplementary/artifacts/hollowEyeBonus"
+		},
+		"text" : {
+			"description" : "{Hollow Eye}\r\n\r\nThe Hollow Eye increases the scouting radius by +2. It also makes hero's troops immune to Blind spell.",
+			"event" : "After exploring in the dark swamp for a long time, you finally found a mysterious spyglass. You picked it up, hoping that it could help you get out of this endless swamp.",
+			"name" : "Hollow Eye"
+		}
+	},
+	"greatBattleBow" : {
+		"type" : [ "HERO" ],
+		"slot" : "MISC",
+		"class" : "MAJOR",
+		"value" : 7500,
+		"bonuses" : [
+			{
+				"type" : "PERCENTAGE_DAMAGE_BOOST",
+				"subtype" : "damageTypeRanged",
+				"val" : 15,
+				"valueType" : "ADDITIVE_VALUE",
+				"limiters" : [
+					{
+						"type" : "HAS_ANOTHER_BONUS_LIMITER",
+						"parameters" : [
+							"PERCENTAGE_DAMAGE_BOOST",
+							"damageTypeRanged",
+							{
+								"type" : "SECONDARY_SKILL",
+								"id" : "secondarySkill.archery"
+							}
+						]
+					}
+				]
+			}
+		],
+		"graphics" : {
+			"image" : "hota/supplementary/artifacts/greaterBow",
+			"map" : "hota/supplementary/artifacts/greaterBowMap",
+			"large" : "hota/supplementary/artifacts/greaterBowBonus"
+		},
+		"text" : {
+			"description" : "{Great Battle Bow}\r\n\r\nGreat Battle Bow increases hero's Archery skill by +15%.",
+			"event" : "An archer trying to draw the huge bow, but he couldn't do it no matter how hard he tried. Then you passed by and easily drew the bow, leaving him stunned. He was too embarrassed to ask for the bow back.",
+			"name" : "Great Battle Bow"
+		}
+	},
+	"fangOfTheLastScream" : {
+		"type" : [ "HERO" ],
+		"slot" : "RIGHT_HAND",
+		"class" : "MAJOR",
+		"value" : 7500,
+		"bonuses" : [
+			{
+				"subtype" : "primarySkill.attack",
+				"type" : "PRIMARY_SKILL",
+				"val" : 5,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"addInfo" : 0,
+				"subtype" : "spell.bloodlust",
+				"type" : "SPECIAL_PECULIAR_ENCHANT"
+			}
+		],
+		"graphics" : {
+			"image" : "hota/supplementary/artifacts/fangScream",
+			"map" : "hota/supplementary/artifacts/fangScreamMap",
+			"large" : "hota/supplementary/artifacts/fangScreamBonus"
+		},
+		"text" : {
+			"description" : "{Fang of the Last Scream}\r\n\r\nHeld with the right hand, Fang of the Last Scream gives +5 to hero's attack skill. It also gives the specialty of Bloodlust to hero who equipped it.",
+			"event" : "After exploring in the dark swamp for a long time, you finally found a steel battle claw. You picked it up, hoping that it could help you cut down the brambles and get out of this endless swamp.",
+			"name" : "Fang of the Last Scream"
+		}
+	},
+	"greatWoeOfTheCrawlers" : {
+		"class" : "RELIC",
+		"components" : [ "fangOfTheLastScream", "greatBattleBow", "hollowEye" ],
+		"graphics" : {
+			"image" : "hota/supplementary/artifacts/crawler",
+			"map" : "hota/supplementary/artifacts/crawlerMap",
+			"large" : "hota/supplementary/artifacts/crawlerBonus"
+		},
+		"slot" : "RIGHT_HAND",
+		"text" : {
+			"description" : "{Great Woe of the Crawlers}\r\n\r\nThe Great Woe of the Crawlers is an ancient weapon from Pactal's family. It increases all your Primary Skills by 3, and increases Fortress creatures' damages by 30% and speed by 2.",
+			"event" : "The sharp claws sticking out of the ground make you think it is the remains of some beast, but when you get closer, you find the Great Woe of the Crawlers.",
+			"name" : "Great Woe of the Crawlers"
+		},
+		"bonuses":
+		[
+			{
+				"subtype" : "primarySkill.attack",
+				"type" : "PRIMARY_SKILL",
+				"val" : 3,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"subtype" : "primarySkill.defence",
+				"type" : "PRIMARY_SKILL",
+				"val" : 3,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"subtype" : "primarySkill.spellpower",
+				"type" : "PRIMARY_SKILL",
+				"val" : 3,
+				"valueType" : "BASE_NUMBER"
+			},
+			{
+				"subtype" : "primarySkill.knowledge",
+				"type" : "PRIMARY_SKILL",
+				"val" : 3,
+				"valueType" : "BASE_NUMBER"
+			},
+			{ 
+					"type" : "CREATURE_DAMAGE",
+					"subtype" : "creatureDamageBoth",
+					"valueType" : "PERCENT_TO_BASE",
+					"val" : 30,
+					"limiters": [ {"type": "CREATURE_FACTION_LIMITER","parameters" : ["fortress"]} ]
+			},
+			{
+				"type" : "STACKS_SPEED",
+				"val" : 2,
+				"valueType" : "BASE_NUMBER",
+				"limiters": [ {"type": "CREATURE_FACTION_LIMITER","parameters" : ["fortress"]} ]
+			}
+		],
+
+		"type" : [ "HERO" ],
+		"value" : 10000
+	}
+}

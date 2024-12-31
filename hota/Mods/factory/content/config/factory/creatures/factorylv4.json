@@ -57,9 +57,9 @@
 		"speed" : 8,
 		"abilities" :
 		{
-			"nonliving" :
+			"mechanical": 
 			{
-				"type": "NON_LIVING"
+				"type": "MECHANICAL"
 			},
 			"castsymMeditation" :
 			{

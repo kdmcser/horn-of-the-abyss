@@ -6,7 +6,9 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.3.6",
+	"version" : "1.3.7",
+	"depends" : 
+		["hota.factory"], 
 	"chinese" : {
 		"name" : "宝物",
 		"description" : "Hota团队为深渊号角资料片制作的一系列宝物。"
@@ -27,6 +29,7 @@
 		"config/hotaArtifacts/pendantOfDownfall",
 		"config/hotaArtifacts/pendantOfReflection",
 		"config/hotaArtifacts/ringOfOblivion",
+		"config/hotaArtifacts/sleepkeeper",
 		"config/hotaArtifacts/ringOfSuppression",
 		"config/hotaArtifacts/royalArmorOfNix",
 		"config/hotaArtifacts/runesOfImminency",

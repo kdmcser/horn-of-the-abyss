@@ -4,7 +4,7 @@
 	
 	"author" : "HotA Crew, transplanted by Ben",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "1.13",
+	"version" : "1.14",
 	"modType" : "Town",	
 	
 	"depends" : ["hota.wastelandTerrain","hota.cove"], 

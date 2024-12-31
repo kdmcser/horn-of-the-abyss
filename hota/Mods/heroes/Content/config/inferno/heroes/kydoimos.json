@@ -1,0 +1,53 @@
+{
+	"specialKydoimos" :
+	{
+		"class" : "demoniac",
+		"female" : false,
+		"images" :
+		{
+			"large" : "hota/inferno/heroes/special/icons/Hero_Kydoimos.png",
+			"small" : "hota/inferno/heroes/special/icons/Hero_Kydoimos_small.png",
+			"specialtyLarge" : "hota/inferno/heroes/special/icons/Specialty_Dragons",
+			"specialtySmall" : "hota/inferno/heroes/special/icons/Specialty_Dragons_small"
+		},
+		"army" : [
+			{
+				"creature" : "imp",
+				"min" : 15,
+				"max" : 25
+			},
+			{
+				"creature" : "gog",
+				"min" : 5,
+				"max" : 8
+			},
+			{
+				"creature" : "hellHound",
+				"min" : 3,
+				"max" : 4
+			}
+		],
+		"skills" : [
+			{
+				"skill" : "leadership",
+				"level" : "basic"
+			},
+			{
+				"skill" : "offence",
+				"level" : "basic"
+			}
+		],
+		"specialty" : {
+			"creature" : "efreet"
+		},
+		"texts" : {
+			"biography" : "Kydoimos's name was the personification of the din of battle, confusion, uproar and hubbub in mythology. He is a powerful warlord in Kreegan.",
+			"name" : "Kydoimos",
+			"specialty" : {
+				"tooltip" : "Secondary Skill Bonus: Learning",
+				"name" : "Dragons",
+				"description" : "All Dragons receive +5 Attack and +5 Defense."
+			}
+		}
+	}
+}

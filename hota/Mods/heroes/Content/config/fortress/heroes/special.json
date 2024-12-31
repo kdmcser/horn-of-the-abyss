@@ -1,0 +1,163 @@
+{
+	"pactalHotA" :
+	{
+		"class" : "beastmaster",
+		"female": false,
+		"images" :
+		{
+			"large" : "hota/fortress/heroes/special/icons/Hero_Pactal.png",
+			"small" : "hota/fortress/heroes/special/icons/Hero_Pactal_small.png",
+			"specialtyLarge" : "hota/fortress/heroes/special/icons/Un44Defe",
+			"specialtySmall" : "hota/fortress/heroes/special/icons/Un32Defe"
+		},
+		"army" : [
+			{
+				"creature" : "gnoll",
+				"min" : 15,
+				"max" : 25
+			},
+			{
+				"creature" : "lizardman",
+				"min" : 4,
+				"max" : 7
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 3,
+				"max" : 4
+			}
+		],
+		"skills" : 
+		[
+			{
+				"level" : "advanced",
+				"skill" : "armorer"
+			}
+		],
+		
+		"specialty" : {
+			"bonuses" : {
+				"armorer" : {
+					"type" : "GENERAL_DAMAGE_REDUCTION",
+					"subtype" : "damageTypeAll",
+					"targetSourceType" : "SECONDARY_SKILL",
+					"updater" : "TIMES_HERO_LEVEL",
+					"val" : 5,
+					"valueType" : "PERCENT_TO_TARGET_TYPE"
+				}
+			}
+		},
+		"texts" : {
+			"biography" : "Pactal is the leader of the Nightcrawlers. He is cunning and cruel, and possesses the artifact 'Hollow Eye'. Because he cruelly devours the young of the Lizardmen, he is nicknamed 'Child Eater'. Under his leadership, the Nightcrawlers tribe gradually grew stronger and enslaved the people of the Bloodied Feather Clan.",
+			"name" : "Pactal",
+			"specialty" : {
+				"tooltip" : "Secondary Skill Bonus: Learning",
+				"name" : "Armorer",
+				"description" : "Receives a 5% per level bonus to Armorer skill percentage."
+			}
+		}
+	},
+	"areshrakHotA" :
+	{
+		"class" : "beastmaster",
+		"female": false,
+		"images" :
+		{
+			"large" : "hota/fortress/heroes/special/icons/Hero_Areshrak.png",
+			"small" : "hota/fortress/heroes/special/icons/Hero_Areshrak_small.png",
+			"specialtyLarge" : "hota/fortress/heroes/special/icons/Specialty_Ballista",
+			"specialtySmall" : "hota/fortress/heroes/special/icons/Specialty_Ballistas"
+		},
+		"army" : [
+			{
+				"creature" : "gnoll",
+				"min" : 15,
+				"max" : 25
+			},
+			{
+				"creature" : "ballista",
+				"min" : 1,
+				"max" : 1
+			},
+			{
+				"creature" : "serpentFly",
+				"min" : 3,
+				"max" : 4
+			}
+		],
+		"skills" : 
+		[
+			{
+				"level" : "basic",
+				"skill" : "armorer"
+			},
+			{ "skill" : "artillery", "level": "basic" }
+		],
+		
+		"specialty" : {
+			"creature" : "ballista"
+		},
+		"texts" : {
+			"biography" : "Areshrak is a lizardman from the Couatl Islands off the coast of Jadame, who is a subordinate of Pactal. Usurped control of breeding wyverns, gorgons and other creatures after betraying the former breeder, and he handles relations with the local flight of Rust Dragons.",
+			"name" : "Areshrak",
+			"specialty" : {
+				"tooltip" : "Secondary Skill Bonus: Learning",
+				"name" : "Ballista",
+				"description" : "Increases the Attack and Defense skills of any Ballista by 5% for every 5 levels (rounded up)."
+			}
+		}
+	},
+	"zogHotA" :
+	{
+		"class" : "battlemage",
+		"female": false,
+		"images" :
+		{
+			"large" : "hota/fortress/heroes/special/icons/Hero_Zog.png",
+			"small" : "hota/fortress/heroes/special/icons/Hero_Zog_small.png",
+			"specialtyLarge" : "hota/fortress/heroes/special/icons/Specialty_Ogres",
+			"specialtySmall" : "hota/fortress/heroes/special/icons/Specialty_Ogres_small"
+		},
+		"army" : [
+			{
+				"creature" : "goblin",
+				"min" : 15,
+				"max" : 25
+			},
+			{
+				"creature" : "goblinWolfRider",
+				"min" : 5,
+				"max" : 7
+			},
+			{
+				"creature" : "ogre",
+				"min" : 3,
+				"max" : 4
+			}
+		],
+		"skills" : 
+		[
+			{
+				"level" : "basic",
+				"skill" : "wisdom"
+			},
+			{
+				"level" : "basic",
+				"skill" : "leadership"
+			},
+		],
+		"spellbook" : [ "slow" ],
+		"specialty" : {
+			"creature" : "ogre"
+		},
+		"texts" : {
+			"biography" : "Zog the Cruel is the leader of the ogres in the Jadame. Possessing the 'Ironfist of the Ogre', he is so powerful that he allows ogres and orcs to wreak havoc on this wasteland, thus establishing his own tribe.",
+			"name" : "Zog",
+			"specialty" : {
+				"tooltip" : "Secondary Skill Bonus: Learning",
+				"name" : "Ogres",
+				"description" : "Increases the speed of Ogres or Ogre Magi by 1 and their Attack and Defense skills by 5% for every 4 levels (rounded up)."
+			}
+		}
+	}
+}

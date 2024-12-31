@@ -56,9 +56,9 @@
 		"speed" : 9,
 		"abilities" :
 		{
-			"nonliving" :
+			"mechanical": 
 			{
-				"type": "NON_LIVING"
+				"type": "MECHANICAL"
 			},
 			"noRetaliation" :
 			{

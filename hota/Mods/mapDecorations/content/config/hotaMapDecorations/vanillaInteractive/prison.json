@@ -11,10 +11,13 @@
 					"AVXprsn1" : { "animation" : "hota/prison/AVXprsn1", 
 						"mask" : [ "VVV","VAV" ],
 						"visitableFrom" : [ "---", "+++", "+++" ],
+					},
+					"AVXhcamp" : { "animation" : "hota/prison/AVXhcamp", 
+						"mask" : [ "VVV","VAV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
 					}
+				}
 				}
 			}
 		}
-	}		
-}
-
+}		

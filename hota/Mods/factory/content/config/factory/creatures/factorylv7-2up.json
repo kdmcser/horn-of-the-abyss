@@ -57,9 +57,9 @@
 		"speed" : 7,
 		"abilities":
 		{
-			"nonliving" :
+			"mechanical": 
 			{
-				"type": "NON_LIVING"
+				"type": "MECHANICAL"
 			},
 			"fireBreath" :
 			{
@@ -72,7 +72,7 @@
 			"KING_1" : // Will be affected by Slayer with no expertise
 			{
 				"type" : "KING",
-				"val": 0
+				"val": 3
 			}
 		}
 	}

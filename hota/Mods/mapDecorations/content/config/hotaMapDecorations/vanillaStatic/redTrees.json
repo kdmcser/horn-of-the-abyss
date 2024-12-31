@@ -4,6 +4,11 @@
 			"hotaRedTrees" : {
 				"templates" : {
 				
+					"AVLswt17" : { "animation" : "hota/trees/AVLswt17", 
+						"mask" : ["VV","VB"],
+						"allowedTerrains": [ "rough", "grass", "swamp", "dirt" ]
+					},
+					
 					"AVLswt20" : { "animation" : "hota/trees/AVLswt20", 
 						"mask" : ["VV","VB"],
 						"allowedTerrains": [ "rough", "grass", "swamp", "dirt" ]

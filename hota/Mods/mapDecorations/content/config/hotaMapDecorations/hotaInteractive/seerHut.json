@@ -25,6 +25,14 @@
 						"allowedTerrains": [ "water" ] 
 					}
 				}
+			},
+			"seerHutHota4" : {
+				"templates" : {
+					"AVXsees0H" : { "animation" : "hota/seerHut/AVXsees0", 
+						"mask" : [ "VVV", "VAV" ],
+						"visitableFrom" : [ "---", "+++", "+++" ],
+					}
+				}
 			}
 		}
 	}	

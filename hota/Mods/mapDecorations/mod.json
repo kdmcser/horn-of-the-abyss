@@ -4,7 +4,7 @@
 	"modType" : "Graphical",
 	"author": "Graphics: HotA Crew, mod: avatar",
 	"contact": "http://forum.df2.ru/index.php?showtopic=32286",
-	"version" : "1.5.1",
+	"version" : "1.5.2",
 	"compatibility" :
 	{
 		"min" : "1.1.0"
@@ -37,6 +37,7 @@
 		"config/hotaMapDecorations/hotaStatic/crates.json",
 		"config/hotaMapDecorations/hotaStatic/fence.json",
 		"config/hotaMapDecorations/hotaStatic/fire.json",
+		"config/hotaMapDecorations/hotaStatic/hota1_70_new.json",
 		"config/hotaMapDecorations/hotaStatic/iceBlock.json",
 		"config/hotaMapDecorations/hotaStatic/palms.json",
 		"config/hotaMapDecorations/hotaStatic/pileOfStones.json",
