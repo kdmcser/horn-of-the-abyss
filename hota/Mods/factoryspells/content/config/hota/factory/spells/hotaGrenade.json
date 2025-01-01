@@ -25,7 +25,7 @@
 			"affect":["spells/Expl_07.def"]
 		},
 		"sounds": {
-			"cast": "factory/spells/GRENEXPL.wav"
+			"cast": "hota/factory/spells/GRENEXPL.wav"
 		},
 		"flags" : {
 			"damage": true,
