@@ -21,86 +21,86 @@
 	
 	"factions" : 
 	[
-		"config/factory/town" 
+		"config/hota/factory/town"
 	],
 	"creatures" :
 	[
-		"config/factory/creatures/factorylv1.json",
-		"config/factory/creatures/factorylv1up.json",
-		"config/factory/creatures/factorylv2.json",
-		"config/factory/creatures/factorylv2up.json",
-		"config/factory/creatures/factorylv3.json",
-		"config/factory/creatures/factorylv3up.json",
-		"config/factory/creatures/factorylv4.json",
-		"config/factory/creatures/factorylv4up.json",
-		"config/factory/creatures/factorylv5.json",
-		"config/factory/creatures/factorylv5larva.json",
-		"config/factory/creatures/factorylv5up.json",
-		"config/factory/creatures/factorylv6.json",
-		"config/factory/creatures/factorylv6up.json",
-		"config/factory/creatures/factorylv7-1.json",
-		"config/factory/creatures/factorylv7-1up.json",
-		"config/factory/creatures/factorylv7-2.json",
-		"config/factory/creatures/factorylv7-2up.json",
-		"config/factory/creatures/stackExperience",
-		"config/factory/creatures/factoryCommander.json"
+		"config/hota/factory/creatures/halfling.json",
+		"config/hota/factory/creatures/halflingGrenadier.json",
+		"config/hota/factory/creatures/hotaMechanic.json",
+		"config/hota/factory/creatures/hotaEngineer.json",
+		"config/hota/factory/creatures/armadillo.json",
+		"config/hota/factory/creatures/bellwetherArmadillo.json",
+		"config/hota/factory/creatures/automaton.json",
+		"config/hota/factory/creatures/sentinelAutomaton.json",
+		"config/hota/factory/creatures/sandworm.json",
+		"config/hota/factory/creatures/sandwormLarva.json",
+		"config/hota/factory/creatures/olgoiKhorkhoi.json",
+		"config/hota/factory/creatures/gunslinger.json",
+		"config/hota/factory/creatures/bountyHunter.json",
+		"config/hota/factory/creatures/hotaDreadnought.json",
+		"config/hota/factory/creatures/hotaJuggernaut.json",
+		"config/hota/factory/creatures/Couatl.json",
+		"config/hota/factory/creatures/crimsonCouatl.json",
+		"config/hota/factory/creatures/stackExperience",
+		"config/hota/factory/creatures/commander/cowboy.json"
 	],
 	
 	"heroClasses" :
 	[
-		"config/factory/classes/classMagic.json",
-		"config/factory/classes/classMight.json"
+		"config/hota/factory/classes/mercenary.json",
+		"config/hota/factory/classes/artificer.json"
 	],
 
 	"heroes" :
 	[
-		"config/factory/heroes/01_Henrietta.json",
-		"config/factory/heroes/02_Sam.json",
-		"config/factory/heroes/03_Tancred.json",
-		"config/factory/heroes/04_Melchior.json",
-		"config/factory/heroes/05_Floribert.json",
-		"config/factory/heroes/06_Wynona.json",
-		"config/factory/heroes/07_Dury.json",
-		"config/factory/heroes/08_Morton.json",
-		"config/factory/heroes/09_Tavin.json",
-		"config/factory/heroes/10_Murdoch.json",
-		"config/factory/heroes/11_Celestine.json",
-		"config/factory/heroes/12_Todd.json",
-		"config/factory/heroes/13_Agar.json",
-		"config/factory/heroes/14_Bertram.json",
-		"config/factory/heroes/15_Wrathmont.json",
-		"config/factory/heroes/16_Ziph.json",
-		"config/factory/heroes/17_Victoria.json",
-		"config/factory/heroes/18_Eanswythe.json",
-		"config/factory/heroes/19_Frederick.json",
-		"config/factory/heroes/campaignHeroes/s01_Jangaard.json",
-		"config/factory/heroes/campaignHeroes/s02_Stina.json",
-		"config/factory/heroes/campaignHeroes/s03_Valquest.json",
-		"config/factory/heroes/campaignHeroes/s04_Winzells.json",
-		"config/factory/heroes/campaignHeroes/s05_Elderian.json",
-		"config/factory/heroes/campaignHeroes/s06_Umender.json"
+		"config/hota/factory/heroes/henrietta.json",
+		"config/hota/factory/heroes/sam.json",
+		"config/hota/factory/heroes/tancred.json",
+		"config/hota/factory/heroes/melchior.json",
+		"config/hota/factory/heroes/floribert.json",
+		"config/hota/factory/heroes/wynona.json",
+		"config/hota/factory/heroes/dury.json",
+		"config/hota/factory/heroes/morton.json",
+		"config/hota/factory/heroes/tavin.json",
+		"config/hota/factory/heroes/murdoch.json",
+		"config/hota/factory/heroes/celestine.json",
+		"config/hota/factory/heroes/todd.json",
+		"config/hota/factory/heroes/agar.json",
+		"config/hota/factory/heroes/bertram.json",
+		"config/hota/factory/heroes/wrathmont.json",
+		"config/hota/factory/heroes/ziph.json",
+		"config/hota/factory/heroes/victoria.json",
+		"config/hota/factory/heroes/eanswythe.json",
+		"config/hota/factory/heroes/frederick.json",
+		"config/hota/factory/heroes/jangaard.json",
+		"config/hota/factory/heroes/stina.json",
+		"config/hota/factory/heroes/valquest.json",
+		"config/hota/factory/heroes/winzells.json",
+		"config/hota/factory/heroes/elderian.json",
+		"config/hota/factory/heroes/umender.json"
 	],
 	"spells" :
 	[
-		"config/factory/spells/teslaLightning.json",
-		"config/factory/spells/hotaRepair.json",
-		"config/factory/spells/hotaGrenade.json",
-		"config/factory/spells/summonLarva.json",
-		"config/factory/spells/sandViguor.json",
-		"config/factory/spells/ephemeralAbility.json",
-		"config/factory/spells/detonates01.json",
-		"config/factory/spells/detonates02.json",
-		"config/factory/spells/detonation.json",
-		"config/factory/spells/meditation01.json",
-		"config/factory/spells/meditation02.json"
+		"config/hota/factory/spells/teslaLightning.json",
+		"config/hota/factory/spells/hotaRepair.json",
+		"config/hota/factory/spells/hotaGrenade.json",
+		"config/hota/factory/spells/summonLarva.json",
+		"config/hota/factory/spells/sandViguor.json",
+		"config/hota/factory/spells/ephemeralAbility.json",
+		"config/hota/factory/spells/detonates01.json",
+		"config/hota/factory/spells/detonates02.json",
+		"config/hota/factory/spells/detonation.json",
+		"config/hota/factory/spells/meditation01.json",
+		"config/hota/factory/spells/meditation02.json"
 	],
 	 "objects":
     [
-		"config/factory/dwellings.json"
+		"config/hota/factory/dwellings.json"
     ],
 	"artifacts" :
 	[
-		"config/factory/artifacts/factoryRingOfOblivion"
+		"config/hota/factory/artifacts/factoryRingOfOblivion"
 	],
 	"changelog" :
     {
