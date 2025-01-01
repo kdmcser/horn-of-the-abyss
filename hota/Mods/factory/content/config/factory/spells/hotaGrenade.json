@@ -25,7 +25,7 @@
 			"affect":["spells/Expl_07.def"]
 		},
 		"sounds": {
-			"cast": "hota/factory/spells/GRENEXPL.wav"
+			"cast": "FIREBLST"
 		},
 		"flags" : {
 			"damage": true,

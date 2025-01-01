@@ -4,10 +4,10 @@
 	
 	"author" : "HotA Crew, transplanted by Ben",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "1.14",
+	"version" : "1.13",
 	"modType" : "Town",	
 	
-	"depends" : ["hota.wastelandTerrain","hota.cove","hota.factoryspells"], 
+	"depends" : ["hota.wastelandTerrain","hota.cove"], 
 	"softDepends" : [ "hota.newgraphics" ],
 	
 	"chinese" : {
@@ -80,10 +80,28 @@
 		"config/factory/heroes/campaignHeroes/s05_Elderian.json",
 		"config/factory/heroes/campaignHeroes/s06_Umender.json"
 	],
+	"spells" :
+	[
+		"config/factory/spells/teslaLightning.json",
+		"config/factory/spells/hotaRepair.json",
+		"config/factory/spells/hotaGrenade.json",
+		"config/factory/spells/summonLarva.json",
+		"config/factory/spells/sandViguor.json",
+		"config/factory/spells/ephemeralAbility.json",
+		"config/factory/spells/detonates01.json",
+		"config/factory/spells/detonates02.json",
+		"config/factory/spells/detonation.json",
+		"config/factory/spells/meditation01.json",
+		"config/factory/spells/meditation02.json"
+	],
 	 "objects":
     [
 		"config/factory/dwellings.json"
     ],
+	"artifacts" :
+	[
+		"config/factory/artifacts/factoryRingOfOblivion"
+	],
 	"changelog" :
     {
 		"1.0.0"   : [ "Initial release" ],
@@ -91,7 +109,6 @@
 		"1.1.1"	  : [ "Update new models of couatls and crimson couatls" ],
 		"1.1.2"   : [ "Update new abilities" ],
 		"1.1.3"   : [ "Fix meditation and detonation abilities for relevant creatures" ],
-		"1.1.4"   : [ "Add campaign heroes and dependency of cove" ],
-		"1.1.5"   : [ "Move factory spells into main mod directory" ]
+		"1.1.4"   : [ "Add campaign heroes and dependency of cove" ]
     }
 }

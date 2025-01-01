@@ -9,8 +9,7 @@
 					"rarity" : 30
 				},
 				"sounds" : {
-					"visit" : ["Expernce"],
-					"ambient" : ["hota/wasteland/LOOPPROS"]
+					"visit" : ["Expernce"]
 				},
 				"resetParameters" : {
 					"period" : 7,
