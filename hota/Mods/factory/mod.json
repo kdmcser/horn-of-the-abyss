@@ -40,16 +40,28 @@
 		"config/hota/factory/creatures/bountyHunter.json",
 		"config/hota/factory/creatures/hotaDreadnought.json",
 		"config/hota/factory/creatures/hotaJuggernaut.json",
+<<<<<<< HEAD
 		"config/hota/factory/creatures/hotaCouatl.json",
 		"config/hota/factory/creatures/crimsonCouatl.json",
 		"config/hota/factory/creatures/stackExperience",
 		"config/hota/factory/commander/cowboy.json"
+=======
+		"config/hota/factory/creatures/Couatl.json",
+		"config/hota/factory/creatures/crimsonCouatl.json",
+		"config/hota/factory/creatures/stackExperience",
+		"config/hota/factory/creatures/commander/cowboy.json"
+>>>>>>> 422e606... Cleanup Part 1
 	],
 	
 	"heroClasses" :
 	[
+<<<<<<< HEAD
 		"config/hota/factory/heroClasses/mercenary.json",
 		"config/hota/factory/heroClasses/artificer.json"
+=======
+		"config/hota/factory/classes/mercenary.json",
+		"config/hota/factory/classes/artificer.json"
+>>>>>>> 422e606... Cleanup Part 1
 	],
 
 	"heroes" :
