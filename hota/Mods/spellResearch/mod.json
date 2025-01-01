@@ -9,6 +9,11 @@
 	{
 		"min" : "1.6"
 	},
+	],
+	"softDepends" :
+	[
+		"vcmi"
+	],
 	"settings":
 	{
 		"towns":
