@@ -27,7 +27,7 @@
 		"fightValue" : 933,
     "graphics": {
       "animation": "hota/factory/creatures/battle/COLGOI.def",
-      "map": "hota/factory/map/creatures/adventureMap/AVWolgo.def",
+      "map": "hota/factory/creatures/adventureMap/AVWolgo.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS010F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL010F.bmp",

@@ -7,7 +7,7 @@
     "faction": "factory",
     "graphics": {
       "animation": "hota/factory/creatures/battle/CHalf.def",
-      "map": "hota/factory/map/creatures/adventureMap/AVWhalf.def",
+      "map": "hota/factory/creatures/adventureMap/AVWhalf.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS001F.bmp",
       "iconLarge": "hota/factory/creatures/iconsLarge/CPrL001F.bmp"

@@ -29,7 +29,7 @@
 		"graphics" :
 		{
 			"animation": "hota/factory/creatures/battle/CJUGGER.def",
-			"map": "hota/factory/map/creatures/adventureMap/AvWjugg.def",
+			"map": "hota/factory/creatures/adventureMap/AvWjugg.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS016F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL016F.bmp",
