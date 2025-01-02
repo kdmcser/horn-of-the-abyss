@@ -55,11 +55,11 @@
 		},
 		"graphics" :
 		{
-			"animation": "factory/battle/creatures/CBOUNTHT.def",
-			"map": "factory/map/creatures/AVWbhun.def",
+			"animation": "hota/factory/creatures/battle/CBOUNTHT.def",
+			"map": "hota/factory/map/creatures/adventureMap/AVWbhun.def",
 			"mapMask" : [ "VVV", "VAV"],
-			"iconSmall": "factory/iconsSmall/creatures/CPrS012F.bmp",
-			"iconLarge": "factory/iconsBig/creatures/CPrL012F.bmp",
+			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS012F.bmp",
+			"iconLarge": "hota/factory/creatures/iconsBig/CPrL012F.bmp",
       "timeBetweenFidgets": 1,
 			"animationTime" :
 			{

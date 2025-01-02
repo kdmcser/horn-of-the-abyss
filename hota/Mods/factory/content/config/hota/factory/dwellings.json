@@ -5,11 +5,11 @@
                 "name" : "Halfling Adobe",
                 "creatures" : [[ "halfling" ]],
                 "sounds": {
-					"ambient": ["factory/map/dwellings/LOOPHALF.wav"]
+					"ambient": ["hota/factory/dwellings/LOOPHALF.wav"]
 				},
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVG2half",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVG2half",
                         "mask" : ["VVV","VVV","VAB" ]
                     }
                 }
@@ -20,7 +20,7 @@
 
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVGmecha",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGmecha",
                         "mask" : [ "VVV","VVV","VVV","VBA" ]
                     }
                 }
@@ -31,7 +31,7 @@
 
                 "templates" : {
                     "default" : {   
-                        "animation" : "factory/map/dwellings/AVGarma",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGarma",
                         "mask" : ["VVV","VVV","VBA" ]
                     }
                 }
@@ -41,7 +41,7 @@
                 "creatures" : [[ "automaton" ]],
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVGauto",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGauto",
                         "mask" : ["VVV","VVV","VVV","VAB" ]
                     }
                 }
@@ -54,7 +54,7 @@
                 ],
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVGworm",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGworm",
                         "mask" : [ "VVV","VBA"]
                     }
                 }
@@ -66,11 +66,11 @@
                     { "amount" : 6, "type" : "gunslinger" }
                 ],
                 "sounds": {
-					"ambient": ["factory/map/dwellings/LOOPGUNS.wav"]
+					"ambient": ["hota/factory/dwellings/LOOPGUNS.wav"]
 				},
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVGguns",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGguns",
                         "mask" : ["VVV","VVV","VVV","VBA" ]
                     }
                 }
@@ -82,11 +82,11 @@
                     { "amount" : 3, "type" : "hotaCouatl" }
                 ],
                 "sounds": {
-					"ambient": ["factory/map/dwellings/LOOPCOTL.wav"]
+					"ambient": ["hota/factory/dwellings/LOOPCOTL.wav"]
 				},
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVGcoatl",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGcoatl",
                         "mask" : ["VVV","VVV","VBA" ]
                     }
                 }
@@ -99,7 +99,7 @@
                 ],
                 "templates" : {
                     "default" : {
-                        "animation" : "factory/map/dwellings/AVGdread",
+                        "animation" : "hota/factory/mapObjects/dwellings/AVGdread",
                         "mask" : ["VVV","VVV","VBA" ]
                     }
                 }
