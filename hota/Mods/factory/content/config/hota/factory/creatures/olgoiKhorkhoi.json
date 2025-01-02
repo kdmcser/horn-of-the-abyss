@@ -30,7 +30,7 @@
       "map": "hota/factory/map/creatures/adventureMap/AVWolgo.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS010F.bmp",
-			"iconLarge": "hota/factory/creatures/iconsBig/CPrL010F.bmp",
+			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL010F.bmp",
       "timeBetweenFidgets": 1,
       "animationTime": {
         "walk": 1.25,

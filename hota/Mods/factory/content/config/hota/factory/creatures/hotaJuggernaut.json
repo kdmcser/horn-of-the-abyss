@@ -32,7 +32,7 @@
 			"map": "hota/factory/map/creatures/adventureMap/AvWjugg.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS016F.bmp",
-			"iconLarge": "hota/factory/creatures/iconsBig/CPrL016F.bmp",
+			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL016F.bmp",
 			"timeBetweenFidgets": 1,
 			"animationTime" :
 			{
