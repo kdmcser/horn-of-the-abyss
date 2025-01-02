@@ -29,7 +29,7 @@
 		"graphics" :
 		{
 			"animation": "hota/factory/creatures/battle/CLARVA.def",
-			"map": "hota/factory/map/creatures/adventureMap/AVWworm.def",
+			"map": "hota/factory/creatures/adventureMap/AVWworm.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS009F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL009F.bmp",

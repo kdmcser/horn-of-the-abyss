@@ -22,7 +22,7 @@
     "fightValue": 97,
     "graphics": {
       "animation": "hota/factory/creatures/battle/CHALFB.def",
-      "map": "hota/factory/map/creatures/adventureMap/AVWhbom.def",
+      "map": "hota/factory/creatures/adventureMap/AVWhbom.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS002F.bmp",
       "iconLarge": "hota/factory/creatures/iconsLarge/CPrL002F.bmp",

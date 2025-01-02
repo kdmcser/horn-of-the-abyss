@@ -29,7 +29,7 @@
 		"graphics" :
 		{
 			"animation" : "hota/factory/creatures/battle/CAUTO2.def",
-			"map" : "hota/factory/map/creatures/adventureMap/AVWauto.def",
+			"map" : "hota/factory/creatures/adventureMap/AVWauto.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS007F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL007F.bmp",

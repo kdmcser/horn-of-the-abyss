@@ -29,7 +29,7 @@
 		"graphics" :
 		{
 			"animation" : "hota/factory/creatures/battle/CHAUTO2.def",
-			"map" : "hota/factory/map/creatures/adventureMap/AVWauth.def",
+			"map" : "hota/factory/creatures/adventureMap/AVWauth.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS008F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL008F.bmp",
