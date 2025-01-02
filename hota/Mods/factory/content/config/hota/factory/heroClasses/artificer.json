@@ -20,7 +20,7 @@
 				},
 				"male" :
 				{
-					"animation" : "hota/factory/heroClasses/artificer/adventureMap//AH21_",
+					"animation" : "hota/factory/heroClasses/artificer/adventureMap/AH21_",
 					"editorAnimation": "hota/factory/heroClasses/artificer/adventureMap/AH21_e.def"
 				}
 			}
