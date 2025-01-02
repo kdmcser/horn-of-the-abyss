@@ -66,8 +66,8 @@
 			"name" : "Maximus",
 			"biography" : "Maximus is one of Kastore's closest associates, a strong and fierce warrior. He is in charge of the necromancer country's defenses while Kastore is away.",
 			"specialty" : {
-				"name" : "Black Knight",
-				"tooltip" : "Artillery Bonus: Black Knights",
+				"name" : "Black Knights",
+				"tooltip" : "Artillery Bonus: Black Knight",
 				"description" : "Increases allied Black Knights and Dread Knights' Attack, Defense, and Damage by 10."
 			}
 		}
