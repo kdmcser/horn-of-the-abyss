@@ -25,7 +25,7 @@
       "map": "hota/factory/map/creatures/adventureMap/AVWguns.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS011F.bmp",
-      "iconLarge": "hota/factory/creatures/iconsBig/CPrL011F.bmp",
+      "iconLarge": "hota/factory/creatures/iconsLarge/CPrL011F.bmp",
       "timeBetweenFidgets": 1,
       "animationTime": {
         "walk": 1,

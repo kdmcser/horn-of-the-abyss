@@ -30,7 +30,7 @@
       "map": "hota/factory/map/creatures/adventureMap/AVWmech.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS003F.bmp",
-      "iconLarge": "hota/factory/creatures/iconsBig/CPrL003F.bmp",
+      "iconLarge": "hota/factory/creatures/iconsLarge/CPrL003F.bmp",
       "timeBetweenFidgets": 1,
       "animationTime": {
         "walk": 1.25,
