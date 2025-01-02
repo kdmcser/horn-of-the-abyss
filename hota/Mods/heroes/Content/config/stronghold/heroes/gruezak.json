@@ -6,10 +6,10 @@
 		"special": true,
 		"images" :
 		{
-			"large" : "hota/stronghold/heroes/gurezak/icons/portraitLarge.png",
-			"small" : "hota/stronghold/heroes/gurezak/icons/portraitSmall.png",
-			"specialtyLarge" : "hota/stronghold/heroes/gurezak/icons/specialtyLarge.png",
-			"specialtySmall" : "hota/stronghold/heroes/gurezak/icons/specialtySmall.png"
+			"large" : "hota/stronghold/heroes/gruezak/icons/portraitLarge.png",
+			"small" : "hota/stronghold/heroes/gruezak/icons/portraitSmall.png",
+			"specialtyLarge" : "hota/stronghold/heroes/gruezak/icons/specialtyLarge.png",
+			"specialtySmall" : "hota/stronghold/heroes/gruezak/icons/specialtySmall.png"
 		},
 		"army" : [
 			{
