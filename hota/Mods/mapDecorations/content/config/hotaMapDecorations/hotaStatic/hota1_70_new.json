@@ -59,7 +59,7 @@
 	},
 	"pillars" : {
 		"name" : "Pillar",
-		"handler":"generic",
+		"handler":"static",
 		"types" : {
 			"pillars" : {
 				"templates" : {

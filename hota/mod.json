@@ -5,9 +5,10 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.53",
+	"version" : "1.7.54",
 	"changelog" : 
 	{
+		"1.7.54"  : [ "Fix for columns in biome" ],
 		"1.7.53"  : [ "Added biomes for 1.70 objects" ],
 		"1.7.52"  : [ "Revert last changes and proper fix for Ring of Oblivion." ],
 		"1.7.51"  : [ "Moved factory spells into a submod." ],
