@@ -1,14 +1,15 @@
 {
-	"boydHotA" :
+	"boyd" :
 	{
 		"class" : "deathknight",
 		"female" : false,
+		"special" : true,
 		"images" :
 		{
-			"large" : "hota/necropolis/heroes/special/icons/portraitLarge.png",
-			"small" : "hota/necropolis/heroes/special/icons/portraitSmall.png",
-			"specialtyLarge" : "hota/necropolis/heroes/special/icons/specialtyLarge.png",
-			"specialtySmall" : "hota/necropolis/heroes/special/icons/specialtySmall.png"
+			"large" : "hota/necropolis/heroes/boyd/icons/portraitLarge.png",
+			"small" : "hota/necropolis/heroes/boyd/icons/portraitSmall.png",
+			"specialtyLarge" : "hota/necropolis/heroes/boyd/icons/specialtyLarge.png",
+			"specialtySmall" : "hota/necropolis/heroes/boyd/icons/specialtySmall.png"
 		},
 		"army" : [
 			{

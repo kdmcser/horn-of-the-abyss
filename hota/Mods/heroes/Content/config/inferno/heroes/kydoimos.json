@@ -1,14 +1,15 @@
 {
-	"specialKydoimos" :
+	"kydoimos" :
 	{
 		"class" : "demoniac",
 		"female" : false,
+		"special": true,
 		"images" :
 		{
-			"large" : "hota/inferno/heroes/special/icons/Hero_Kydoimos.png",
-			"small" : "hota/inferno/heroes/special/icons/Hero_Kydoimos_small.png",
-			"specialtyLarge" : "hota/inferno/heroes/special/icons/Specialty_Dragons",
-			"specialtySmall" : "hota/inferno/heroes/special/icons/Specialty_Dragons_small"
+			"large" : "hota/inferno/heroes/kydoimos/icons/portraitLarge.png",
+			"small" : "hota/inferno/heroes/kydoimos/icons/portraitSmall.png",
+			"specialtyLarge" : "hota/inferno/heroes/kydoimos/icons/specialtyLarge.png",
+			"specialtySmall" : "hota/inferno/heroes/kydoimos/icons/specialtySmall.png"
 		},
 		"army" : [
 			{
