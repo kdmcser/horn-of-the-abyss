@@ -1,12 +1,12 @@
 {
 	"factory" : {
 		"alignment" : "neutral",
-		"creatureBackground" : { "120px" : "factory/TPCASFAC.bmp", "130px" : "factory/CRBKGFAC.bmp" },
+		"creatureBackground" : { "120px" : "hota/factory/TPCASFAC.bmp", "130px" : "hota/factory/CRBKGFAC.bmp" },
 		"name" : "Factory",
 		"nativeTerrain" : "wasteland",
 		"boat" : "boatCastle",
 		"puzzleMap" : {
-			"prefix" : "factory/puzzle-map/PUZFAC",
+			"prefix" : "hota/factory/puzzle-map/PUZFAC",
 			"pieces" :
 			[
 				{ "index" : 48, "x" : 9,  "y" : 9 },
@@ -558,7 +558,7 @@
 					"upgrades" : "dwellingLvl8"
 				}
 			},
-			"buildingsIcons" : "factory/town-hall.def",
+			"buildingsIcons" : "hota/factory/town/townhall/town-hall.def",
 			"creatures" : [
 				[ "halfling", "halflingGrenadier" ],
 				[ "hotaMechanic", "hotaEngineer" ],
@@ -642,17 +642,17 @@
 				"sacrifice"      : 11,
 				"waterElemental" : 5
 			},
-			"guildWindow" : "factory/town-screen/CRBKGFAC.bmp",
-			"hallBackground" : "factory/town-screen/TPTHBKFC.bmp",
+			"guildWindow" : "hota/factory/town-screen/CRBKGFAC.bmp",
+			"hallBackground" : "hota/factory/town-screen/TPTHBKFC.bmp",
 			"horde" : [ 2, -1 ],
 			"icons" : {
 				"village" : {
-					"normal" : {"small" : "factory/icons/hall-small.bmp", "large" : "factory/icons/hall-big.bmp" },
-					"built"  : {"small" : "factory/icons/hall-builded-small.bmp", "large" : "factory/icons/hall-builded-big.bmp" }
+					"normal" : {"small" : "hota/factory/town/icons/hall-small.bmp", "large" : "factory/icons/hall-big.bmp" },
+					"built"  : {"small" : "hota/factory/town/icons/hall-builded-small.bmp", "large" : "factory/icons/hall-builded-big.bmp" }
 				},
 				"fort" : {
-					"normal" : {"small" : "factory/icons/fort-small.bmp", "large" : "factory/icons/fort-big.bmp" },
-					"built"  : {"small" : "factory/icons/fort-builded-small.bmp", "large" : "factory/icons/fort-builded-big.bmp" }
+					"normal" : {"small" : "hota/factory/town/icons/fort-small.bmp", "large" : "factory/icons/fort-big.bmp" },
+					"built"  : {"small" : "hota/factory/town/icons/fort-builded-small.bmp", "large" : "factory/icons/fort-builded-big.bmp" }
 				}
 			},
 			"mapObject" : {
@@ -662,11 +662,11 @@
 					"fort" : [ "allOf", [ "fort" ], [ "noneOf", [ "citadel" ] ] ]
 				},
 				"templates" : {
-					"capitol" : { "animation" : "factory/map/AVCfacZ0.def" },
-					"castle" : { "animation" : "factory/map/AVCfacX0.def" },
-					"citadel" : { "animation" : "factory/map/AVCfacC0.def" },
-					"fort" : { "animation" : "factory/map/AVCfacF0.def" },
-					"village" : { "animation" : "factory/map/AVCfacE0.def" }
+					"capitol" : { "animation" : "hota/factory/town/adventureMap/capitol.def" },
+					"castle" : { "animation" : "hota/factory/town/adventureMap/castle.def" },
+					"citadel" : { "animation" : "hota/factory/town/adventureMap/citadel.def" },
+					"fort" : { "animation" : "hota/factory/town/adventureMap/fort.def" },
+					"village" : { "animation" : "hota/factory/town/adventureMap/village.def" }
 				}
 			},
 			"mageGuild" : 5,
@@ -693,9 +693,9 @@
 			"primaryResource" : "crystal",
 			"siege" : {
 				"shooter" : "gunslinger",
-				"imagePrefix" : "factory/siege/SGFa",
-				"towerIconSmall" : "factory/icons/towerSmall",
-				"towerIconLarge" : "factory/icons/towerLarge",
+				"imagePrefix" : "hota/factory/siege/SGFa",
+				"towerIconSmall" : "hota/factory/town/icons/towerSmall",
+				"towerIconLarge" : "hota/factory/town/icons/towerLarge",
 				"gate" :
 				{
 					"arch" : { "x" : 481, "y" : 212 },
@@ -744,170 +744,170 @@
 			"structures" : {
 				"decorationBridge" : 
 				{
-					"animation" : "factory/town-screen/buildings/TBFaExt1",
+					"animation" : "hota/factory/town-screen/buildings/TBFaExt1",
 					"x" : 245,
 					"y" : 201,
 					"z" : -1
 				},
 				"decorationHouse" : 
 				{
-					"animation" : "factory/town-screen/buildings/TBFaExt2",
+					"animation" : "hota/factory/town-screen/buildings/TBFaExt2",
 					"x" : 499,
 					"y" : 295,
 					"z" : -2
 				},
 				"decorationRoad" : 
 				{
-					"animation" : "factory/town-screen/buildings/TBFaExt3",
+					"animation" : "hota/factory/town-screen/buildings/TBFaExt3",
 					"x" : 429,
 					"y" : 217,
 					"z" : -2
 				},
 				"mageGuild1" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFamage",
-					"area" : "factory/town-screen/buildings-area/TZFamage",
-					"border" : "factory/town-screen/buildings-border/TOFamage",
+					"animation" : "hota/factory/town-screen/buildings/TBFamage",
+					"area" : "hota/factory/town-screen/buildings-area/TZFamage",
+					"border" : "hota/factory/town-screen/buildings-border/TOFamage",
 					"x" : 132,
 					"y" : 235,
 					"z" : -1
 				},
 				"mageGuild2" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFamag2",
-					"area" : "factory/town-screen/buildings-area/TZFamag2",
-					"border" : "factory/town-screen/buildings-border/TOFamag2",
+					"animation" : "hota/factory/town-screen/buildings/TBFamag2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFamag2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFamag2",
 					"x" : 132,
 					"y" : 211,
 					"z" : -1
 				},
 				"mageGuild3" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFamag3",
-					"area" : "factory/town-screen/buildings-area/TZFamag3",
-					"border" : "factory/town-screen/buildings-border/TOFamag3",
+					"animation" : "hota/factory/town-screen/buildings/TBFamag3",
+					"area" : "hota/factory/town-screen/buildings-area/TZFamag3",
+					"border" : "hota/factory/town-screen/buildings-border/TOFamag3",
 					"x" : 132,
 					"y" : 189,
 					"z" : -1
 				},
 				"mageGuild4" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFamag4",
-					"area" : "factory/town-screen/buildings-area/TZFamag4",
-					"border" : "factory/town-screen/buildings-border/TOFamag4",
+					"animation" : "hota/factory/town-screen/buildings/TBFamag4",
+					"area" : "hota/factory/town-screen/buildings-area/TZFamag4",
+					"border" : "hota/factory/town-screen/buildings-border/TOFamag4",
 					"x" : 132,
 					"y" : 166,
 					"z" : -1
 				},
 				"mageGuild5" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFamag5",
-					"area" : "factory/town-screen/buildings-area/TZFamag5",
-					"border" : "factory/town-screen/buildings-border/TOFamag5",
+					"animation" : "hota/factory/town-screen/buildings/TBFamag5",
+					"area" : "hota/factory/town-screen/buildings-area/TZFamag5",
+					"border" : "hota/factory/town-screen/buildings-border/TOFamag5",
 					"x" : 132,
 					"y" : 117,
 					"z" : -1
 				},	
 				"tavern" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaTVRN",
-					"area" : "factory/town-screen/buildings-area/TZFaTVRN",
-					"border" : "factory/town-screen/buildings-border/TOFaTVRN",
+					"animation" : "hota/factory/town-screen/buildings/TBFaTVRN",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaTVRN",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaTVRN",
 					"x" : 680,
 					"y" : 230,
 					"z"	: 2
 				},
 				"fort" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaCSTL",
-					"area" : "factory/town-screen/buildings-area/TZFaCSTL",
-					"border" : "factory/town-screen/buildings-border/TOFaCSTL",
+					"animation" : "hota/factory/town-screen/buildings/TBFaCSTL",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaCSTL",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaCSTL",
 					"x" : 369,
 					"y" : 63
 				},
 				"citadel" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaCAS2",
-					"area" : "factory/town-screen/buildings-area/TZFaCAS2",
-					"border" : "factory/town-screen/buildings-border/TOFaCAS2",
+					"animation" : "hota/factory/town-screen/buildings/TBFaCAS2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaCAS2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaCAS2",
 					"x" : 366,
 					"y" : 17
 				},
 				"castle" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaCAS3",
-					"area" : "factory/town-screen/buildings-area/TZFaCAS3",
-					"border" : "factory/town-screen/buildings-border/TOFaCAS3",
+					"animation" : "hota/factory/town-screen/buildings/TBFaCAS3",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaCAS3",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaCAS3",
 					"x" : 366,
 					"y" : 17
 				},
 				"villageHall" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFahall",
-					"area" : "factory/town-screen/buildings-area/TZFahall",
-					"border" : "factory/town-screen/buildings-border/TOFahall",
+					"animation" : "hota/factory/town-screen/buildings/TBFahall",
+					"area" : "hota/factory/town-screen/buildings-area/TZFahall",
+					"border" : "hota/factory/town-screen/buildings-border/TOFahall",
 					"x" : 0,
 					"y" : 264,
 					"z"	: 0
 				},
 				"townHall" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFahal2",
-					"area" : "factory/town-screen/buildings-area/TZFahal2",
-					"border" : "factory/town-screen/buildings-border/TOFahal2",
+					"animation" : "hota/factory/town-screen/buildings/TBFahal2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFahal2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFahal2",
 					"x" : 0,
 					"y" : 256,
 					"z"	: 0
 				},
 				"cityHall" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFahal3",
-					"area" : "factory/town-screen/buildings-area/TZFahal3",
-					"border" : "factory/town-screen/buildings-border/TOFahal3",
+					"animation" : "hota/factory/town-screen/buildings/TBFahal3",
+					"area" : "hota/factory/town-screen/buildings-area/TZFahal3",
+					"border" : "hota/factory/town-screen/buildings-border/TOFahal3",
 					"x" : 0,
 					"y" : 225,
 					"z"	: 0
 				},
 				"capitol" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFahal4",
-					"area" : "factory/town-screen/buildings-area/TZFahal4",
-					"border" : "factory/town-screen/buildings-border/TOFahal4",
+					"animation" : "hota/factory/town-screen/buildings/TBFahal4",
+					"area" : "hota/factory/town-screen/buildings-area/TZFahal4",
+					"border" : "hota/factory/town-screen/buildings-border/TOFahal4",
 					"x" : 0,
 					"y" : 163,
 					"z"	: 0
 				},
 				"marketplace" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFamark",
-					"area" : "factory/town-screen/buildings-area/TZFamark",
-					"border" : "factory/town-screen/buildings-border/TOFamark",
+					"animation" : "hota/factory/town-screen/buildings/TBFamark",
+					"area" : "hota/factory/town-screen/buildings-area/TZFamark",
+					"border" : "hota/factory/town-screen/buildings-border/TOFamark",
 					"x" : 316,
 					"y" : 310,
 					"z"	: 2
 				},
 				"resourceSilo" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFasilo",
-					"area" : "factory/town-screen/buildings-area/TZFasilo",
-					"border" : "factory/town-screen/buildings-border/TOFasilo",
+					"animation" : "hota/factory/town-screen/buildings/TBFasilo",
+					"area" : "hota/factory/town-screen/buildings-area/TZFasilo",
+					"border" : "hota/factory/town-screen/buildings-border/TOFasilo",
 					"x" : 227,
 					"y" : 347,
 					"z"	: 3
 				},
 				"blacksmith" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaBLAK",
-					"area" : "factory/town-screen/buildings-area/TZFaBLAK",
-					"border" : "factory/town-screen/buildings-border/TOFaBLAK",
+					"animation" : "hota/factory/town-screen/buildings/TBFaBLAK",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaBLAK",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaBLAK",
 					"x" : 347,
 					"y" : 189
 				},
 				"horde1" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaHRD1",
-					"area" : "factory/town-screen/buildings-area/TZFaHRD1",
-					"border" : "factory/town-screen/buildings-border/TOFaHRD1",
+					"animation" : "hota/factory/town-screen/buildings/TBFaHRD1",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaHRD1",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaHRD1",
 					"x" : 187,
 					"y" : 162,
 					"z" : -2,
@@ -915,9 +915,9 @@
 				},
 				"horde1Upgr" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaHRD2",
-					"area" : "factory/town-screen/buildings-area/TZFaHRD2",
-					"border" : "factory/town-screen/buildings-border/TOFaHRD2",
+					"animation" : "hota/factory/town-screen/buildings/TBFaHRD2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaHRD2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaHRD2",
 					"x" : 187,
 					"y" : 95,
 					"z" : -2,
@@ -925,174 +925,174 @@
 				},
 				"special1" : 
 				{
-					"animation" : "factory/town-screen/buildings/TBFaSpc1",
-					"area" : "factory/town-screen/buildings-area/TZFaSpc1",
-					"border" : "factory/town-screen/buildings-border/TOFaSpc1",
+					"animation" : "hota/factory/town-screen/buildings/TBFaSpc1",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaSpc1",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaSpc1",
 					"x" : 0,
 					"y" : 301,
 					"z" : 1
 				},
 				"special2" : 
 				{
-					"animation" : "factory/town-screen/buildings/TBFaSpc2",
-					"area" : "factory/town-screen/buildings-area/TZFaSpc2",
-					"border" : "factory/town-screen/buildings-border/TOFaSpc2",
+					"animation" : "hota/factory/town-screen/buildings/TBFaSpc2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaSpc2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaSpc2",
 					"x" : 117,
 					"y" : 9,
 					"z" : -1
 				},
 				"special3" : 
 				{
-					"animation" : "factory/town-screen/buildings/TBFaMrch",
-					"area" : "factory/town-screen/buildings-area/TZFaMrch",
-					"border" : "factory/town-screen/buildings-border/TOFaMrch",
+					"animation" : "hota/factory/town-screen/buildings/TBFaMrch",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaMrch",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaMrch",
 					"x" : 270,
 					"y" : 272,
 					"z" : 1
 				},				
 				"grail" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaHoly",
-					"area" : "factory/town-screen/buildings-area/TZFaHoly",
-					"border" : "factory/town-screen/buildings-border/TOFaHoly",
+					"animation" : "hota/factory/town-screen/buildings/TBFaHoly",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaHoly",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaHoly",
 					"x" : 580,
 					"y" : 0
 				},
 				"dwellingLvl1" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_0",
-					"area" : "factory/town-screen/buildings-area/TZFadw_0",
-					"border" : "factory/town-screen/buildings-border/TOFadw_0",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_0",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_0",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_0",
 					"x" : 670,
 					"y" : 139
 				},
 				"dwellingLvl2" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_1",
-					"area" : "factory/town-screen/buildings-area/TZFadw_1",
-					"border" : "factory/town-screen/buildings-border/TOFadw_1",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_1",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_1",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_1",
 					"x" : 252,
 					"y" : 0
 				},
 				"dwellingLvl3" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_2",
-					"area" : "factory/town-screen/buildings-area/TZFadw_2",
-					"border" : "factory/town-screen/buildings-border/TOFadw_2",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_2",
 					"x" : 187,
 					"y" : 174,
 					"z": -2
 				},
 				"dwellingLvl4" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_3",
-					"area" : "factory/town-screen/buildings-area/TZFadw_3",
-					"border" : "factory/town-screen/buildings-border/TOFadw_3",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_3",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_3",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_3",
 					"x" : 516,
 					"y" : 211,
 					"z": 1
 				},
 				"dwellingLvl5" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_4",
-					"area" : "factory/town-screen/buildings-area/TZFadw_4",
-					"border" : "factory/town-screen/buildings-border/TOFadw_4",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_4",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_4",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_4",
 					"x" : 662,
 					"y" : 239
 				},
 				"dwellingLvl6" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_5",
-					"area" : "factory/town-screen/buildings-area/TZFadw_5",
-					"border" : "factory/town-screen/buildings-border/TOFadw_5",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_5",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_5",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_5",
 					"x" : 714,
 					"y" : 55
 				},
 				"dwellingLvl7" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_6",
-					"area" : "factory/town-screen/buildings-area/TZFadw_6",
-					"border" : "factory/town-screen/buildings-border/TOFadw_6",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_6",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_6",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_6",
 					"x" : 0,
 					"y" : 71
 				},
 				"dwellingLvl8" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFadw_7",
-					"area" : "factory/town-screen/buildings-area/TZFadw_7",
-					"border" : "factory/town-screen/buildings-border/TOFadw_7",
+					"animation" : "hota/factory/town-screen/buildings/TBFadw_7",
+					"area" : "hota/factory/town-screen/buildings-area/TZFadw_7",
+					"border" : "hota/factory/town-screen/buildings-border/TOFadw_7",
 					"x" : 427,
 					"y" : 181
 				},
 				"dwellingUpLvl1" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_0",
-					"area" : "factory/town-screen/buildings-area/TZFaup_0",
-					"border" : "factory/town-screen/buildings-border/TOFaup_0",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_0",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_0",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_0",
 					"x" : 670,
 					"y" : 139
 				},
 				"dwellingUpLvl2" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_1",
-					"area" : "factory/town-screen/buildings-area/TZFaup_1",
-					"border" : "factory/town-screen/buildings-border/TOFaup_1",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_1",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_1",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_1",
 					"x" : 252,
 					"y" : 0
 				},
 				"dwellingUpLvl3" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_2",
-					"area" : "factory/town-screen/buildings-area/TZFaup_2",
-					"border" : "factory/town-screen/buildings-border/TOFaup_2",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_2",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_2",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_2",
 					"x" : 187,
 					"y" : 95,
 					"z": -2
 				},
 				"dwellingUpLvl4" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_3",
-					"area" : "factory/town-screen/buildings-area/TZFaup_3",
-					"border" : "factory/town-screen/buildings-border/TOFaup_3",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_3",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_3",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_3",
 					"x" : 516,
 					"y" : 211,
 					"z": 1
 				},
 				"dwellingUpLvl5" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_4",
-					"area" : "factory/town-screen/buildings-area/TZFaup_4",
-					"border" : "factory/town-screen/buildings-border/TOFaup_4",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_4",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_4",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_4",
 					"x" : 662,
 					"y" : 239
 				},
 				"dwellingUpLvl6" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_5",
-					"area" : "factory/town-screen/buildings-area/TZFaup_5",
-					"border" : "factory/town-screen/buildings-border/TOFaup_5",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_5",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_5",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_5",
 					"x" : 714,
 					"y" : 5
 				},
 				"dwellingUpLvl7" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_6",
-					"area" : "factory/town-screen/buildings-area/TZFaup_6",
-					"border" : "factory/town-screen/buildings-border/TOFaup_6",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_6",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_6",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_6",
 					"x" : 0,
 					"y" : 51
 				},
 				"dwellingUpLvl8" :
 				{
-					"animation" : "factory/town-screen/buildings/TBFaup_7",
-					"area" : "factory/town-screen/buildings-area/TZFaup_7",
-					"border" : "factory/town-screen/buildings-border/TOFaup_7",
+					"animation" : "hota/factory/town-screen/buildings/TBFaup_7",
+					"area" : "hota/factory/town-screen/buildings-area/TZFaup_7",
+					"border" : "hota/factory/town-screen/buildings-border/TOFaup_7",
 					"x" : 427,
 					"y" : 162
 				}
 			},
 		"tavernVideo" : "TAVERN.BIK",
-		"townBackground" : "factory/town-screen/TBFaBack.bmp",
+		"townBackground" : "hota/factory/town-screen/TBFaBack.bmp",
 		"moatAbility" : "castleMoat",
 		"hallSlots" : [
 				[

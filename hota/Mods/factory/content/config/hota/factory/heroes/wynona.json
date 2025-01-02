@@ -18,8 +18,8 @@
 
 		"images" :
 		{
-			"specialtySmall" : "hota/factory/heroes/wynona/icons/smallS.bmp",
-			"specialtyLarge" : "hota/factory/heroes/wynona/icons/bigS.bmp",
+			"specialtySmall" : "hota/factory/heroes/wynona/icons/specialitySmall.bmp",
+			"specialtyLarge" : "hota/factory/heroes/wynona/icons/specialityLarge.bmp",
 			"large" : "hota/factory/heroes/wynona/icons/portraitLarge.png",
 			"small" : "hota/factory/heroes/wynona/icons/portraitSmall.png"
 		},

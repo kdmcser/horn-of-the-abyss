@@ -21,8 +21,8 @@
 		{
 			"large" : "hota/factory/heroes/winzells/icons/portraitLarge.png",
 			"small" : "hota/factory/heroes/winzells/icons/portraitSmall.png",
-			"specialtyLarge" : "hota/factory/heroes/tavin/icons/bigS.bmp",
-			"specialtySmall" : "hota/factory/heroes/tavin/icons/smallS.bmp"
+			"specialtyLarge" : "hota/factory/heroes/tavin/icons/specialityLarge.bmp",
+			"specialtySmall" : "hota/factory/heroes/tavin/icons/specialitySmall.bmp"
 		},
 		
 
