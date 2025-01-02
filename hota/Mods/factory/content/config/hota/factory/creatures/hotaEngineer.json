@@ -27,7 +27,7 @@
 		"fightValue" : 233,
     "graphics": {
       "animation": "hota/factory/creatures/battle/CENGINE.def",
-      "map": "hota/factory/map/creatures/adventureMap/AVWengn.def",
+      "map": "hota/factory/creatures/adventureMap/AVWengn.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS004F.bmp",
       "iconLarge": "hota/factory/creatures/iconsLarge/CPrL004F.bmp",

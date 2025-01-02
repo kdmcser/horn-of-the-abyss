@@ -29,7 +29,7 @@
 		"graphics" :
 		{
 			"animation" : "hota/factory/creatures/battle/CBLWARM.def",
-			"map" : "hota/factory/map/creatures/adventureMap/AVWalmb.def",
+			"map" : "hota/factory/creatures/adventureMap/AVWalmb.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS006F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL006F.bmp",
