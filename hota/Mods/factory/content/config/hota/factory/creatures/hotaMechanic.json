@@ -27,7 +27,7 @@
 		"fightValue" : 198,
     "graphics": {
       "animation": "hota/factory/creatures/battle/CMECHAN.def",
-      "map": "hota/factory/map/creatures/adventureMap/AVWmech.def",
+      "map": "hota/factory/creatures/adventureMap/AVWmech.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS003F.bmp",
       "iconLarge": "hota/factory/creatures/iconsLarge/CPrL003F.bmp",

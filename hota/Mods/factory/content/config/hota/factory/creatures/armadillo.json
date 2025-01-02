@@ -29,7 +29,7 @@
 		"graphics" :
 		{
 			"animation" : "hota/factory/creatures/battle/CARMADL.def",
-			"map" : "hota/factory/map/creatures/adventureMap/AVWalmd.def",
+			"map" : "hota/factory/creatures/adventureMap/AVWalmd.def",
 			"mapMask" : [ "VVV", "VAV"],
 			"iconSmall": "hota/factory/creatures/iconsSmall/CPrS005F.bmp",
 			"iconLarge": "hota/factory/creatures/iconsLarge/CPrL005F.bmp",

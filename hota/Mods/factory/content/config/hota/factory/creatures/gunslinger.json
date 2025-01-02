@@ -22,7 +22,7 @@
     "fightValue": 1211,
     "graphics": {
       "animation": "hota/factory/creatures/battle/CGNSLING.def",
-      "map": "hota/factory/map/creatures/adventureMap/AVWguns.def",
+      "map": "hota/factory/creatures/adventureMap/AVWguns.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hota/factory/creatures/iconsSmall/CPrS011F.bmp",
       "iconLarge": "hota/factory/creatures/iconsLarge/CPrL011F.bmp",
