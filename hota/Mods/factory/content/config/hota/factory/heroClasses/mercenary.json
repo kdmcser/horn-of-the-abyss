@@ -1,7 +1,7 @@
 {
 	"mercenary" : {
 		"affinity" : "might",
-		"animation" : { "battle" : { "female" : "hota/factory/heroClasses/artificer/battle/CH20b", "male" : "hota/factory/heroClasses/artificer/battle/CH20" } },
+		"animation" : { "battle" : { "female" : "hota/factory/heroClasses/mercenary/battle/CH20b", "male" : "hota/factory/heroClasses/mercenary/battle/CH20" } },
 		"commander" : "cowboy",
 		"defaultTavern" : 5,
 		"faction" : "factory",
@@ -16,7 +16,7 @@
 				"female" :
 				{
 					"animation" : "hota/factory/heroClasses/mercenary/adventureMap/AH20b_",
-					"editorAnimation": "factory/heroClasses/mercenary/adventureMap/AH20b_e.def"
+					"editorAnimation": "hota/factory/heroClasses/mercenary/adventureMap/AH20b_e.def"
 				},
 				"male" :
 				{
