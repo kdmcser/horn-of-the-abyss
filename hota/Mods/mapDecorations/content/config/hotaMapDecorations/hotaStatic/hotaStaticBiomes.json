@@ -37,6 +37,7 @@
 	"chickens":{
 		"biome":{
 			"terrain" : ["grass", "dirt", "rough"], 
+			"alignment": ["good", "neutral"],
 			"objectType" : "animal"
 		},
 		"templates" : ["rooster_01", "rooster_02"]
