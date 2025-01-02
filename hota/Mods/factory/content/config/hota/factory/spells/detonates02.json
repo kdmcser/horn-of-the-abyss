@@ -46,7 +46,7 @@
  
 		"graphics":
 		{
-			"iconEffect": "spells/detonates.bmp"
+			"iconEffect": "hota/factory/spells/detonates.bmp"
 		},
 
 		"sounds":
