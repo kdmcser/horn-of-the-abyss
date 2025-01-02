@@ -1,7 +1,7 @@
 {
 	"balfour" : {
 		"class" : "navigator",
-		"special" : "true",
+		"special" : true,
 		"images" : {
 			"large" : "hota/cove/heroes/balfour/icons/portraitLarge.png",
 			"small" : "hota/cove/heroes/balfour/icons/portraitSmall.png",
