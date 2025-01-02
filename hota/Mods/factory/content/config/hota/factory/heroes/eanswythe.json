@@ -18,8 +18,8 @@
 
 		"images" :
 		{
-			"specialtySmall" : "hota/factory/heroes/eanswythe/icons/smallS.bmp",
-			"specialtyLarge" : "hota/factory/heroes/eanswythe/icons/bigS.bmp",
+			"specialtySmall" : "hota/factory/heroes/eanswythe/icons/specialitySmall.bmp",
+			"specialtyLarge" : "hota/factory/heroes/eanswythe/icons/specialityLarge.bmp",
 			"large" : "hota/factory/heroes/eanswythe/icons/portraitLarge.png",
 			"small" : "hota/factory/heroes/eanswythe/icons/portraitSmall.png"
 		},
