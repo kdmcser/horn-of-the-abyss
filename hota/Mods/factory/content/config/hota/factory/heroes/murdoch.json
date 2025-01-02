@@ -3,7 +3,7 @@
 	{
     "class": "mercenary",
     "female" : false,
-	"special":false,
+	"special": true,
 		
 		"texts" :
 		{
@@ -19,8 +19,8 @@
 
 		"images" :
 		{
-			"specialtySmall" : "hota/factory/heroes/murdoch/icons/smallS.bmp",
-			"specialtyLarge" : "hota/factory/heroes/murdoch/icons/bigS.bmp",
+			"specialtySmall" : "hota/factory/heroes/murdoch/icons/specialitySmall.bmp",
+			"specialtyLarge" : "hota/factory/heroes/murdoch/icons/specialityLarge.bmp",
 			"large" : "hota/factory/heroes/murdoch/icons/portraitLarge.png",
 			"small" : "hota/factory/heroes/murdoch/icons/portraitSmall.png"
 		},

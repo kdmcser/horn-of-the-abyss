@@ -18,8 +18,8 @@
 
 		"images" :
 		{
-			"specialtySmall" : "hota/factory/heroes/melchior/icons/smallS.bmp",
-			"specialtyLarge" : "hota/factory/heroes/melchior/icons/bigS.bmp",
+			"specialtySmall" : "hota/factory/heroes/melchior/icons/specialitySmall.bmp",
+			"specialtyLarge" : "hota/factory/heroes/melchior/icons/specialityLarge.bmp",
 			"large" : "hota/factory/heroes/melchior/icons/portraitLarge.png",
 			"small" : "hota/factory/heroes/melchior/icons/portraitSmall.png"
 		},

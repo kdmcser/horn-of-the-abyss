@@ -21,8 +21,8 @@
 		{
 			"large" : "hota/factory/heroes/umender/icons/portraitLarge.png",
 			"small" : "hota/factory/heroes/umender/icons/portraitSmall.png",
-			"specialtyLarge" : "hota/factory/heroes/frederick/icons/bigS.bmp",
-			"specialtySmall" : "hota/factory/heroes/frederick/icons/smallS.bmp"
+			"specialtyLarge" : "hota/factory/heroes/frederick/icons/specialityLarge.bmp",
+			"specialtySmall" : "hota/factory/heroes/frederick/icons/specialitySmall.bmp"
 		},
 		
 
