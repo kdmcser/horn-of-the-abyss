@@ -1,38 +1,38 @@
 {
 	"hota.factory:frederick":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:tavin":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:murdoch":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:elderian":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:jangaard":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:stina":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:umender":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:valquest":
 	{
-		"special" : true
+		"special" : false
 	},
 	"hota.factory:winzells":
 	{
-		"special" : true
+		"special" : false
 	}
 }
