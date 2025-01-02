@@ -29,7 +29,7 @@
 		//graphics - OPTIONAL; object;
 		"graphics":
 		{
-			"iconEffect": "spells/sandEffect.bmp"
+			"iconEffect": "hota/factory/spells/sandEffect.bmp"
 		},
 
 		"sounds": {
