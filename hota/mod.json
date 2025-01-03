@@ -8,8 +8,8 @@
 	"version" : "1.7.56",
 	"changelog" : 
 	{
-		"1.7.55"  : [ "Fix for columns in biome" ],
 		"1.7.56"  : [ "Change naming conventions and file directories to fit the cove format and add a submod to enable factory campaign heroes in random maps" ],
+		"1.7.55"  : [ "Fix for columns in biome" ],
 		"1.7.54"  : [ "Various fixes, including RGM crash fix" ],
 		"1.7.53"  : [ "Added biomes for 1.70 objects" ],
 		"1.7.52"  : [ "Revert last changes and proper fix for Ring of Oblivion." ],
