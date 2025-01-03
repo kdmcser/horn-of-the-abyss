@@ -31,7 +31,7 @@
 				"level": "basic"
 			},
 			{
-				"skill": "resistance",
+				"skill": "interference",
 				"level": "basic"
 			}
 		],
@@ -50,7 +50,7 @@
 		"spellbook" : [ "forgetfulness" ],
 		"texts": {
 			"name": "Balfour",
-			"biography": "WIP",
+			"biography": "Black Balfour is a powerful pirate leader who loves to collect treasures from all over the world, but in fact he has no interest in appreciating treasures. To be honest, he is an uncouth and all-around nasty character.",
 			"specialty": {
 				"name": "Forgetfulness",
 				"description": "Casts Forgetfulness with double duration.",

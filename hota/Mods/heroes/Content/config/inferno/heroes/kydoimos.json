@@ -39,13 +39,26 @@
 			}
 		],
 		"specialty" : {
-			"creature" : "efreet"
+			"base" : {
+				"limiters" : [
+					{
+						"parameters" : [ "DRAGON_NATURE" ],
+						"type" : "HAS_ANOTHER_BONUS_LIMITER"
+					}
+				],
+				"type" : "PRIMARY_SKILL",
+				"val" : 5
+			},
+			"bonuses" : {
+				"attack" : { "subtype" : "primarySkill.attack" },
+				"defence" : { "subtype" : "primarySkill.defence" }
+			}
 		},
 		"texts" : {
 			"biography" : "Kydoimos's name was the personification of the din of battle, confusion, uproar and hubbub in mythology. He is a powerful warlord in Kreegan.",
 			"name" : "Kydoimos",
 			"specialty" : {
-				"tooltip" : "Secondary Skill Bonus: Learning",
+				"tooltip" : "Creature Bonus: Dragons",
 				"name" : "Dragons",
 				"description" : "All Dragons receive +5 Attack and +5 Defense."
 			}
