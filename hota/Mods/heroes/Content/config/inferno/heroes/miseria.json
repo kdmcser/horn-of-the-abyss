@@ -53,7 +53,7 @@
 			"biography" : "Miseria is a young demon in Kreegan, wild and irresponsible. She rarely thinks about the consequences of her actions. Or does she not care? She acts on her feelings, and that's all she cares about.",
 			"name" : "Miseria",
 			"specialty" : {
-				"tooltip" : "Secondary Skill Bonus: Learning",
+				"tooltip" : "Spell Bonus: Resurrection",
 				"name" : "Resurrection",
 				"description" : "Casts Resurrection with increased effect, based on her level compared to the level of the target unit."
 			}
