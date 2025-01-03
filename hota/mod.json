@@ -5,9 +5,10 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.55",
+	"version" : "1.7.56",
 	"changelog" : 
 	{
+		"1.7.56"  : [ "Update HotA formatting and factory file structure, fix cove hero ordering and add submods disabling special flag for factory and cove campaign heroes" ],
 		"1.7.55"  : [ "Fix for columns in biome" ],
 		"1.7.54"  : [ "Various fixes, including RGM crash fix" ],
 		"1.7.53"  : [ "Added biomes for 1.70 objects" ],
