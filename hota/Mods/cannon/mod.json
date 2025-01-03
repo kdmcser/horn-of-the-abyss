@@ -27,5 +27,9 @@
 	"objects" :
 	[
 		"config/hotaCannon/cannonYard.json"
+	],
+	"skills":
+	[
+		"config/hotaCannon/artillery.json"
 	]
 }
