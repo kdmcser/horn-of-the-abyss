@@ -5,9 +5,10 @@
 	"contact" : "http://forum.vcmi.eu/viewtopic.php?t=748",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "1.7.57",
+	"version" : "1.7.58",
 	"changelog" : 
 	{
+		"1.7.58"  : [ "Balfour Interference hotfix and add Zilare to the heroes who have a second secondary skill replaced with Interference" ],
 		"1.7.57"  : [ "Improve HotA Heroes submod, add balfour bio by Ben Yan, Fix Kydomios nad Maximus specialty" ],
 		"1.7.56"  : [ "Update HotA formatting and factory file structure, fix cove hero ordering and add submods disabling special flag for factory and cove campaign heroes" ],
 		"1.7.55"  : [ "Fix for columns in biome" ],

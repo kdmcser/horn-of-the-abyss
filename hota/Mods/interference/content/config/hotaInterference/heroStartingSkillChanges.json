@@ -124,5 +124,33 @@
 				"level": "basic"
 			}
 		]
+	},
+	"hota.cove:17zilare":
+	{
+		"skills":
+		[
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "interference",
+				"level": "basic"
+			}
+		]
+	},
+	"hota.cove:balfour":
+	{
+		"skills":
+		[
+			{
+				"skill": "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill": "interference",
+				"level": "basic"
+			}
+		]
 	}
 }
