@@ -73,7 +73,8 @@
 		"config/hota/cove/heroes/miriam",
 		"config/hota/cove/heroes/spint",
 		"config/hota/cove/heroes/tark",
-		"config/hota/cove/heroes/zilare"
+		"config/hota/cove/heroes/zilare",
+		"config/hota/cove/heroes/balfour"
 	],
 	"spells" :
 	[

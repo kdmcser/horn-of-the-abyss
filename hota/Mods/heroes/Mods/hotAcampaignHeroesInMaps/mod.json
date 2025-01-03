@@ -1,0 +1,17 @@
+{
+	"name" : "HotA campaign heroes in maps",
+	"description" : "Unlock HotA campaign heroes in random maps.",
+	"modType" : "Heroes",
+	"author" : "polusr",
+	"contact" : "",
+	"version" : "1.0",
+	"keepDisabled" : true,
+	"changelog" :
+	{
+		"1.0" : [ "Initial release" ]
+	},
+	"heroes" :
+	[
+		"config/hotaCampaignHeroesInMaps.json"
+	]
+}
