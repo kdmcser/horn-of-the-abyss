@@ -4,7 +4,7 @@
 	
 	"author" : "HotA Crew, transplanted by Ben",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"version" : "1.15",
+	"version" : "1.1.5",
 	"modType" : "Town",	
 	
 	"depends" : ["hota.wastelandTerrain","hota.cove"], 
@@ -40,51 +40,16 @@
 		"config/hota/factory/creatures/bountyHunter.json",
 		"config/hota/factory/creatures/hotaDreadnought.json",
 		"config/hota/factory/creatures/hotaJuggernaut.json",
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e07905139b470bac6ac5595d10e2601cc175858c
 		"config/hota/factory/creatures/hotaCouatl.json",
 		"config/hota/factory/creatures/crimsonCouatl.json",
 		"config/hota/factory/creatures/stackExperience",
 		"config/hota/factory/commander/cowboy.json"
-<<<<<<< HEAD
-=======
-		"config/hota/factory/creatures/Couatl.json",
-		"config/hota/factory/creatures/crimsonCouatl.json",
-		"config/hota/factory/creatures/stackExperience",
-		"config/hota/factory/creatures/commander/cowboy.json"
->>>>>>> 422e606... Cleanup Part 1
-=======
-		"config/hota/factory/creatures/hotaCouatl.json",
-		"config/hota/factory/creatures/crimsonCouatl.json",
-		"config/hota/factory/creatures/stackExperience",
-		"config/hota/factory/commander/cowboy.json"
->>>>>>> 4a09ec6... Fix Minor Typos
-=======
->>>>>>> e07905139b470bac6ac5595d10e2601cc175858c
 	],
 	
 	"heroClasses" :
 	[
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 		"config/hota/factory/heroClasses/mercenary.json",
 		"config/hota/factory/heroClasses/artificer.json"
-=======
-		"config/hota/factory/classes/mercenary.json",
-		"config/hota/factory/classes/artificer.json"
->>>>>>> 422e606... Cleanup Part 1
-=======
-		"config/hota/factory/heroClasses/mercenary.json",
-		"config/hota/factory/heroClasses/artificer.json"
->>>>>>> 4a09ec6... Fix Minor Typos
-=======
-		"config/hota/factory/heroClasses/mercenary.json",
-		"config/hota/factory/heroClasses/artificer.json"
->>>>>>> e07905139b470bac6ac5595d10e2601cc175858c
 	],
 
 	"heroes" :
