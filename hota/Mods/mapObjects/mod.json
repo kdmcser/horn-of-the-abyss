@@ -28,6 +28,13 @@
 			"translation/mapObjects/czech.json"
 		]
 	},
+	"polish" : {
+	"name" : "Nowe objekty",
+	"description" : "Mod dodaje wiele nowych objektów dodanych przez HotA Crew do VCMI, dostępnych na mapach losowych",
+		"translations" : [
+			"translation/mapObjects/polish.json"
+		]
+	},
 	"ukrainian" : {
 		"name" : "Об'єкти мапи",
 		"description" : "Мод додає кілька нових об'єктів, створених командою HotA Crew у VCMI, які доступні на випадкових мапах",
