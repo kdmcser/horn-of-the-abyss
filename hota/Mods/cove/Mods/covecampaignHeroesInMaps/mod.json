@@ -1,6 +1,6 @@
 {
 	"name" : "Cove campaign heroes in maps",
-	"description" : "Unlock Bidley, Tark and Balfour on random maps",
+	"description" : "This modification unlocks the following new campaign heroes in the game:<br/><br/>Balfour<br/>Bidley<br/>Tark",
 	"modType" : "Heroes",
 	"author" : "avatar",
 	"contact" : "",
@@ -20,7 +20,7 @@
 	},
 	"czech" : {
 		"name" : "Hrdinové kampaně",
-		"description" : "Přidává nové hrdiny Bidley a Tark do náhodných map"
+		"description" : "Tato modifikace odemkne ve hře tyto nové hrdiny z kampaní:<br/><br/>Balfour<br/>Bidley<br/>Tark"
 	},
 	"heroes" :
 	[

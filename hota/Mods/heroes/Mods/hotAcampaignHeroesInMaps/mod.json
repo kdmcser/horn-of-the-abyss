@@ -1,6 +1,6 @@
 {
 	"name" : "HotA campaign heroes in maps",
-	"description" : "Unlock HotA campaign heroes in random maps.",
+	"description" : "This modification unlocks the following new campaign heroes in the game:<br/><br/>Areshrak<br/>Athe<br/>Boyd<br/>Gruezak<br/>Kydoimos<br/>Maximus<br/>Miseria<br/>Pactal<br/>Zog",
 	"modType" : "Heroes",
 	"author" : "polusr",
 	"contact" : "",
@@ -9,6 +9,10 @@
 	"changelog" :
 	{
 		"1.0" : [ "Initial release" ]
+	},
+	"czech" : {
+		"name" : "Hrdinové kampaně",
+		"description" : "Tato modifikace odemkne ve hře tyto nové hrdiny z kampaní:<br/><br/>Areshrak<br/>Athe<br/>Boyd<br/>Gruezak<br/>Kydoimos<br/>Maximus<br/>Miseria<br/>Pactal<br/>Zog"
 	},
 	"heroes" :
 	[
