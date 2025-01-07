@@ -1,5 +1,5 @@
 {
-	"name" : "Map format support",
+	"name" : "Map format support (HotA)",
 	"description" : "This mod contains support files needed for loading maps in 'Horn of the Abyss' format in VCMI", 
 	"modType" : "Other",
 	"author": "Ivan",
@@ -23,6 +23,17 @@
 		"hota.highlandsterrain",
 		"hota.wastelandterrain"
 	],
+
+	"chinese" : {
+		"name" : "地图格式支持",
+		"description" : "这个模组包含在VCMI中加载深渊号角地图格式所需的全部文件。"
+	},
+
+	"czech" : {
+		"name": "Podpora formátu map (HotA)",
+		"description": "Tato modifikace přidává podporu načítání map ve formátu 'Horn of the Abyss'"
+	},
+
 	"settings": {
 		"mapFormat" : {
 			"hornOfTheAbyss" : {
@@ -66,21 +77,21 @@
 					"01corkes"     : 156,
 					"02jeremy"     : 157,
 					"03illor"      : 158,
-					"derek"        : 159,
-					"05leena"      : 160,
-					"06anabel"     : 161,
-					"07cassiopeia" : 162,
-					"08miriam"     : 163,
-					"09casmetra"   : 164,
-					"10eovacius"   : 165,
-					"11spint"      : 166,
-					"12andal"      : 167,
-					"13manfred"    : 168,
-					"14zilare"     : 169,
-					"15astra"      : 170,
-					"16dargem"     : 171,
-					"bidley"       : 172,
-					"tark"         : 173,
+					"05derek"        : 159,
+					"06leena"      : 160,
+					"07anabel"     : 161,
+					"08cassiopeia" : 162,
+					"09miriam"     : 163,
+					"12casmetra"   : 164,
+					"13eovacius"   : 165,
+					"14spint"      : 166,
+					"15andal"      : 167,
+					"16manfred"    : 168,
+					"17zilare"     : 169,
+					"18astra"      : 170,
+					"19dargem"     : 171,
+					"10bidley"       : 172,
+					"11tark"         : 173,
 					"04elmore"     : 174,
 					"beatrice"     : 175,
 					"kinkeria"     : 176,
@@ -91,21 +102,21 @@
 					"01corkes"     : 163,
 					"02jeremy"     : 164,
 					"03illor"      : 165,
-					"derek"        : 166,
-					"05leena"      : 167,
-					"06anabel"     : 168,
-					"07cassiopeia" : 169,
-					"08miriam"     : 170,
-					"09casmetra"   : 171,
-					"10eovacius"   : 172,
-					"11spint"      : 173,
-					"12andal"      : 174,
-					"13manfred"    : 175,
-					"14zilare"     : 176,
-					"15astra"      : 177,
-					"16dargem"     : 178,
-					"bidley"       : 179,
-					"tark"         : 180,
+					"05derek"        : 166,
+					"06leena"      : 167,
+					"07anabel"     : 168,
+					"08cassiopeia" : 169,
+					"09miriam"     : 170,
+					"12casmetra"   : 171,
+					"13eovacius"   : 172,
+					"14spint"      : 173,
+					"15andal"      : 174,
+					"16manfred"    : 175,
+					"17zilare"     : 176,
+					"18astra"      : 177,
+					"19dargem"     : 178,
+					"10bidley"       : 179,
+					"11tark"         : 180,
 					"04elmore"     : 181,
 					"beatrice"     : 182,
 					"kinkeria"     : 183,
@@ -932,10 +943,5 @@
 				}
 			}
 		}
-	},
-	"chinese" :
-	{
-		"name" : "地图格式支持",
-		"description" : "这个模组包含在VCMI中加载深渊号角地图格式所需的全部文件。",
 	}
 }

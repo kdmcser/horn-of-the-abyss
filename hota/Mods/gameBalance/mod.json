@@ -4,14 +4,15 @@
 	"modType" : "Mechanics",
 	"author": "Kuririn & avatar",
 	"contact": "http://forum.df2.ru/index.php?showtopic=32286",
-	"version" : "1.3.9",
+	"version" : "1.3.10",
 	"depends" : [ "hota.mapobjects" ],
 	"settings" : {
 		"dwellings" : {
 			"accumulateWhenOwned" : true
 		},
 		"combat": {
-			"badLuckDice" : [ 12, 6, 4 ]
+			"badLuckDice" : [ 12, 6, 4 ],
+			"areaShotCanTargetEmptyHex" : true
 		},
 		"pathfinder" : {
 			"originalFlyRules" : false
@@ -65,9 +66,16 @@
 	},
 	"czech" : {
 		"name" : "Vyvážení hry",
-		"description" : "Zlepšení vyvážení provedené týmem HotA pro rozšíření Horn of The Abyss.",
+		"description" : "Zlepšené vyvážení hry provedené týmem HotA pro rozšíření Horn of The Abyss.",
 		"translations" : [
 			"translation/czech.json"
+		]
+	},
+	"polish" : {
+		"name" : "Balans gry",
+		"description" : "Balans gry stworzony przez HotA Crew dla dodatku Horn of The Abyss",
+		"translations" : [
+			"translation/polish.json"
 		]
 	},
 	"ukrainian" : {

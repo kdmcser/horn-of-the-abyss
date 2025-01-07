@@ -11,11 +11,16 @@
 		"1.1"   : [ "Fix Fangarm spell" ]
 	},
 	"depends" : ["hota.artifacts"],
-	"chinese" :
-	{
+	
+	"chinese" : {
 		"name" : "中立生物",
-		"description" : "在游戏中添加新中立生物：夺心魔、矮精灵和钢人。",
+		"description" : "在游戏中添加新中立生物：夺心魔、矮精灵和钢人。"
 	},
+	"czech" : {
+		"name" : "Neutrální jednotky",
+		"description" : "Tato modifikace přidává nové neutrální jednotky - Chapadlatce, Leprikóny, Satyry a Ocelové golemy"
+	},
+	
 	"creatures" :
 	[
 		"config/hotaNeutralCreatures/satyr",

@@ -4,6 +4,26 @@
 	"modType" : "Graphical",
 	"author": "Graphics and sounds: HotA Crew, mod: Kuririn & avatar",
 	"contact": "http://forum.df2.ru/index.php?showtopic=32286",
-	"version" : "1.3.6"
-	
+	"version" : "1.7.1",
+
+	"conflicts" :
+    [
+        "wake-of-gods.wogGraphicFix.wf_arrow",
+		"small-era-mods.Bubble Arrows",
+        "movement-arrows.hota_blue",
+        "movement-arrows.hota_cyan",
+        "movement-arrows.hota_magenta",
+        "movement-arrows.hota_neon_cyan",
+        "movement-arrows.hota_neon_green",
+        "movement-arrows.hota_orange",
+        "movement-arrows.hota_pink",
+        "movement-arrows.hota_yellow",
+        "movement-arrows.hota_yellow-orange"
+    ],
+
+	"czech" : {
+		"name" : "Ukazatel pohybu hrdiny",
+		"description" : "Ukazatel pohybu hrdiny"
+	}
+
 }

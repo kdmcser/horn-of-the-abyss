@@ -24,5 +24,10 @@
 				"level" : "basic"
 			}
 		]
+	},
+	"core:gem":
+	{
+		"spellbook": [ "bless" ]
+		
 	}
 }

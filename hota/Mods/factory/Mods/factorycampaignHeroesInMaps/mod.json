@@ -1,0 +1,25 @@
+{
+	"name" : "Factory campaign heroes in maps",
+	"description" : "This modification unlocks the following new campaign heroes in the game:<br/><br/>Elderian<br/>Frederick<br/>Jangaard<br/>Murdoch<br/>Stina<br/>Tavin<br/>Umender<br/>Valquest<br/>Winzells",
+	"modType" : "Heroes",
+	"author" : "polusr",
+	"contact" : "",
+	"version" : "1.0",
+	"keepDisabled" : true,
+	"changelog" :
+	{
+		"1.0" : [ "Initial release" ]
+	},
+	"depends" :
+	[
+		"hota.factory"
+	],
+	"czech" : {
+		"name" : "Hrdinové kampaně",
+		"description" : "Tato modifikace odemkne ve hře tyto nové hrdiny z kampaní:<br/><br/>Elderian<br/>Frederick<br/>Jangaard<br/>Murdoch<br/>Stina<br/>Tavin<br/>Umender<br/>Valquest<br/>Winzells"
+	},
+	"heroes" :
+	[
+		"config/hotaCampaignHeroesInMaps.json"
+	]
+}

@@ -9,6 +9,10 @@
 	{
 		"min" : "1.6"
 	},
+	"softDepends" :
+	[
+		"vcmi"
+	],
 	"settings":
 	{
 		"towns":
@@ -16,9 +20,12 @@
 			"spellResearch": true
 		}
 	},
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "法术研究",
 		"description" : "这个子mod启用基本的法术研究，以模仿HotA中的类似功能。",
+	},
+	"czech" : {
+		"name" : "Výzkum kouzel",
+		"description" : "Tato modifikace aktivuje základní systém výzkumu kouzel ve věži kouzel"
 	}
 }

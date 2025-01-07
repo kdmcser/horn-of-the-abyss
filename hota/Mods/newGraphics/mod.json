@@ -7,10 +7,22 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"version" : "1.3.6",
+	"softDepends" :
+	[
+		"ab-bad-ending-assets"
+	],
+	"conflicts" :
+	[
+		"hd_version"
+	],
 	"chinese" :
 	{
 		"name" : "城镇和生物的新冒险地图图像",
-		"description" : "这个选项启用HotA团队新增的新图像，目前，这个模组包含地图上城镇的新动画以及野外怪物的修复动画。",
+		"description" : "这个选项启用HotA团队新增的新图像，目前，这个模组包含地图上城镇的新动画以及野外怪物的修复动画。"
+	},
+	"czech" : {
+		"name" : "Nové animace",
+		"description" : "Tato modifikace aktivuje nové animace jednotek a měst."
 	},
 	"factions" :
 	[

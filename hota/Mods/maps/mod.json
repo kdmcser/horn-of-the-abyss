@@ -1,7 +1,7 @@
 {
 	"name" : "Maps",
 	"description" : "This mod contains all new maps added by HotA Crew",
-	"modType" : "Other",
+	"modType" : "Maps",
 	"author": "Ivan",
 	"contact": "https://forum.vcmi.eu/",
 	"version" : "1.0",
@@ -11,9 +11,12 @@
 	"depends" : [ 
 		"hota.mapsupport"
 	],
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "地图",
-		"description" : "这个模组包含HotA团队新增的所有新地图。",
+		"description" : "这个模组包含HotA团队新增的所有新地图。"
+	},
+	"czech" : {
+		"name" : "Mapy",
+		"description" : "Tato modifikace přidává veškeré nové mapy vytvořené týmem HotA"
 	}
 }

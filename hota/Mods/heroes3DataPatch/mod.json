@@ -10,10 +10,29 @@
 		"1.3.6"   : [ "Added all changed sounds" ]
 	},
 	"depends" : [ "hota.mapdecorations", "hota.highlandsterrain" ],
-	"chinese" :
-	{
+	"conflicts" :
+	[
+		"hd_version"
+	],
+	"softDepends" :
+	[
+		"wake-of-gods.animatedobjects",
+		"wake-of-gods.animatedtrees",
+		"wake-of-gods.battledecorations",
+		"wake-of-gods.heroes3datapatch",
+		"wake-of-gods.woggraphicfix.wf_h3creatures",
+		"wake-of-gods.woggraphicfix.wf_heroes",
+		"wake-of-gods.woggraphicfix.wf_mapobjects",
+		"small-era-mods.new terrains",
+		"tides-of-war"
+	],
+	"chinese" : {
 		"name" : "英雄无敌3数据补丁",
 		"description" : "修复改进一些死亡阴影图像和声音资源。",
+	},
+	"czech" : {
+		"name": "Oprava grafiky pro Heroes 3",
+		"description": "Opravy grafiky a zvuků pro některé herní prvky z Heroes 3."
 	},
 	"factions" :
 	[
@@ -21,8 +40,13 @@
 		"config/heroes3DataPatch/structures.json",
 		"config/heroes3DataPatch/boats.json"
 	],
+	"creatures" :
+	[
+		"config/heroes3DataPatch/creatures.json"
+	],
 	"objects" :
 	[
-		"config/heroes3DataPatch/objects.json"
+		"config/heroes3DataPatch/objects.json",
+		"config/heroes3DataPatch/dwellings"
 	]
 }

@@ -19,6 +19,18 @@
 					},
 					"avdcfir5" : { "animation" : "hota/fires/avdcfir5", 
 						"mask" : [ "VVVV","VVVV", "VVBV", "VVVV" ]
+					},
+					"avdcfir6" : { "animation" : "hota/fires/avdcfir6", 
+						"mask" : [ "VV","VV" ]
+					},
+					"avdcfir7" : { "animation" : "hota/fires/avdcfir7", 
+						"mask" : [ "V" ]
+					},
+					"avdcfir8" : { "animation" : "hota/fires/avdcfir8", 
+						"mask" : [ "VV","VV" ]
+					},
+					"avdcfir9" : { "animation" : "hota/fires/avdcfir9", 
+						"mask" : [ "V" ]
 					}
 				}
 			}

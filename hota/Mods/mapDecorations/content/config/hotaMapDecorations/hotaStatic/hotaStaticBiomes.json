@@ -37,6 +37,7 @@
 	"chickens":{
 		"biome":{
 			"terrain" : ["grass", "dirt", "rough"], 
+			"alignment": ["good", "neutral"],
 			"objectType" : "animal"
 		},
 		"templates" : ["rooster_01", "rooster_02"]
@@ -111,5 +112,28 @@
 			"objectType": "rock"
 		},
 		"templates" : ["udrock02", "udrock03", "udrock04", "udrock05", "udrock06", "udrock07", "udrock08"]
+	},
+	"abandonedHouse" : {
+		"biome": {
+			"terrain": "lava",
+			"level" : "surface",
+			"objectType": "structure"
+		},
+		"templates" : ["AVbhou01", "AVbhou02", "AVbhou03"]
+	},
+	"abandonedWells" : {
+		"biome": {
+			"terrain": [ "dirt", "rough"],
+			"level" : "surface",
+			"objectType": "structure"
+		},
+		"templates" : ["avtcvrui", "TPDESTR2", "TPDESTR3", "TPDESTR4"]
+	},
+	"hotaSandColumns" : {
+		"biome": {
+			"terrain": "sand",
+			"objectType": "structure"
+		},
+		"templates" : ["AVLcoD01", "AVLcoD02", "AVLcoD03", "AVLcoD04", "AVLcoF01", "AVLcoF02", "AVLcoF03", "AVLcoF04", "AVLcoM06"]
 	}
 }

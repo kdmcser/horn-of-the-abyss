@@ -1,0 +1,29 @@
+{
+	"name" : "Cove campaign heroes in maps",
+	"description" : "This modification unlocks the following new campaign heroes in the game:<br/><br/>Balfour<br/>Bidley<br/>Tark",
+	"modType" : "Heroes",
+	"author" : "avatar",
+	"contact" : "",
+	"version" : "1.0",
+	"keepDisabled" : true,
+	"changelog" :
+	{
+		"1.0" : [ "Initial release" ]
+	},
+	"depends" :
+	[
+		"hota.cove"
+	],
+	"chinese" : {
+		"name" : "HotA战役英雄地图支持",
+		"description" : "在随机地图上解锁彼得利和塔克。"
+	},
+	"czech" : {
+		"name" : "Hrdinové kampaně",
+		"description" : "Tato modifikace odemkne ve hře tyto nové hrdiny z kampaní:<br/><br/>Balfour<br/>Bidley<br/>Tark"
+	},
+	"heroes" :
+	[
+		"config/hotaCampaignHeroesInMaps.json"
+	]
+}

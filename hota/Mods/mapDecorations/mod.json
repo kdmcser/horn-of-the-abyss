@@ -9,10 +9,13 @@
 	{
 		"min" : "1.1.0"
 	},
-	"chinese" :
-	{
+	"chinese" : {
 		"name" : "地图装饰",
-		"description" : "新增和原有物体属性一致的新物体。",
+		"description" : "新增和原有物体属性一致的新物体。"
+	},
+	"czech" : {
+		"name" : "Dekorace map",
+		"description" : "Nové objekty pro mapy se stejnými vlastnostmi jako původní objekty, ale v novém kabátě."
 	},
 	"objects" :
 	[
@@ -34,6 +37,7 @@
 		"config/hotaMapDecorations/hotaStatic/crates.json",
 		"config/hotaMapDecorations/hotaStatic/fence.json",
 		"config/hotaMapDecorations/hotaStatic/fire.json",
+		"config/hotaMapDecorations/hotaStatic/hota1_70_new.json",
 		"config/hotaMapDecorations/hotaStatic/iceBlock.json",
 		"config/hotaMapDecorations/hotaStatic/palms.json",
 		"config/hotaMapDecorations/hotaStatic/pileOfStones.json",

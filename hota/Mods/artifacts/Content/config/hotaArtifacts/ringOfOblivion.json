@@ -6,6 +6,14 @@
 		"value" : 7500,
 		"bonuses" : [
 			{
+				"type" : "GARGOYLE",
+				"propagator": "BATTLE_WIDE"
+			},
+			{
+				"type": "DISINTEGRATE",
+				"propagator": "BATTLE_WIDE"
+			},
+			{
 				"type" : "SPELL_IMMUNITY",
 				"subtype" : "spell.sacrifice",
 				"valueType" : "BASE_NUMBER",
@@ -34,7 +42,7 @@
 		},
 		"text" : {
 			"name" : "Ring of Oblivion",
-			"description" : "{Ring of Oblivion}\r\n\r\nWhen worn, makes all losses in the battle irrevocable. **PARTIALLY IMPLEMENTED in VCMI**.",
+			"description" : "{Ring of Oblivion}\r\n\r\nWhen worn, makes all losses in the battle irrevocable.",
 			"event" : "You stand on a field, where a large battle was fought not so long ago. You are troubled by the complete absence of corpses. Amongst the broken swords and armors you discover a ring."
 		}
 	}
