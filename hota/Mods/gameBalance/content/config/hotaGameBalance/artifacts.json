@@ -73,7 +73,7 @@
 	"core:cloakOfTheUndeadKing":
 	{
 		"text" : {
-			"description" : "{Cloak of the Undead King}\n\n15% of battlefield dead are resurrected as Skeletons.  If hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected.\nBasic: Zombies\nAdvanced: Wights Expert:\nLiches"
+			"description" : "{Cloak of the Undead King}\n\n15% of battlefield dead are resurrected as Skeletons.  If hero already has the Necromancy skill then the percentages are added to the skill and the level of skill determines what type is resurrected.\nBasic: Zombies\nAdvanced: Wights\nExpert:\nLiches"
 		}
 	}
 }
